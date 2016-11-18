@@ -1,0 +1,195 @@
+I:	What got you into that teaching job?
+
+(0.18580834803057023, 0.40381246325690767)
+||||||||||||||||||
+
+I:	Well, so, uh, you mentioned two things there, uh, and you said that they intrigued you, can you tell me what it was that intrigued you?  
+
+(0.076, 0.5586666666666666)
+|||||||
+
+I:	So, when you chose to come to Olin, did you notice anything about the gender balance of the faculty or students ahead of time?
+
+(0.18958333333333333, 0.4034722222222223)
+||||||||||||||||||
+
+I:	Okay.  Can you tell me about some experiences that you may have had that may have changed your definition of teaching over time?
+
+(-0.0699074074074074, 0.513425925925926)
+XXXXXX
+
+I:	Okay.  So, you've touched a little bit on this, uh, really just there, but what kind of expectations do you have for your own learning?  So, when you enter an environment in which you're supposed to be learning, what do you think should happen?
+
+(0.12185990338164249, 0.34263285024154594)
+||||||||||||
+
+I:	Okay.  Are you planning to stick with teaching, or do you have other plans for the future?
+
+(0.0, 0.0)
+
+
+I:	Okay.  Uh, can you tell me about a particular experience too that had a strong impact on you from a learning standpoint?
+
+(-0.16180555555555556, 0.44930555555555557)
+XXXXXXXXXXXXXXXX
+
+I:	Okay.  Do you think that, uh, you mentioned that you did notice it among the students, did you think that influenced your decision to come to Olin?
+
+(0.1, 0.45)
+||||||||||
+
+I:	Interesting.  You mentioned your dad there, were there specific things that you remember from growing up that sort of led you in the math and science, or engineering direction?
+
+(-0.013291666666666665, 0.07141666666666666)
+X
+
+I:	Hmm, hmm.  Do you remember a really specific example of when you felt that way, going into one of those advanced classes, or?
+
+(0.10384615384615385, 0.21570512820512822)
+||||||||||
+
+I:	Okay.  So, what have you been doing since graduation?
+
+(0.04492880485527545, 0.15612161531279178)
+||||
+
+I:	So, given with what you told me, uh, do you think the gender balance at Olin shapes your learning experiences in the technical courses?
+
+(0.1, 0.15000000000000002)
+||||||||||
+
+I:	Okay.  So, you mentioned Candidate Weekend as a reason that you decided to come to Olin, can you tell us what it was like about Candidates Weekend that cemented that for you?
+
+(0.11830808080808079, 0.4674116161616161)
+|||||||||||
+
+I:	Okay.  So, when you think about your education path, what kinds of opportunities have you had to take control of that?
+
+(0.14403108465608466, 0.5646384479717813)
+||||||||||||||
+
+I:	Okay.  Is there anything that you think that I should know that I didn't ask you?
+
+(0.04696685606060607, 0.33327604340104333)
+||||
+
+I:	Okay.  So, if you think about your interactions with faculty members, how would you describe them?  Were they ever based on gender?  Were they ever affected by gender?
+
+(0.020833333333333336, 0.125)
+||
+
+I:	Yeah, okay.  Uh, I'd follow up on one thing you said there.  So, what about Olin prepared you for I think you said everything?
+
+(0.134775641025641, 0.47986111111111107)
+|||||||||||||
+
+I:	Okay.  Have you ever participated in research on education?
+
+(0.09623015873015874, 0.46498015873015874)
+|||||||||
+
+I:	Okay.  Um, what program did you graduate from?
+
+(0.05000000000000002, 0.5)
+|||||
+
+I:	Okay.  I think so too because I saw it, that you signed it electronically, I just want to make sure.  Yeah.  Do you have any questions about that, or about the project in general?
+
+(0.35, 0.65)
+|||||||||||||||||||||||||||||||||||
+
+I:	Okay.  So, you've told me about a lot of different experiences so far.  Uh, thinking back over things, can you describe for me a time when you first realized that you felt like a teacher?
+
+(0.040046296296296295, 0.4034722222222222)
+||||
+
+I:	Okay.  So, what do you think it means to be a teacher?
+
+(0.16410256410256413, 0.44423076923076926)
+||||||||||||||||
+
+I:	Okay.  Um, would you be willing to continue the conversation later on if we had some more questions?
+
+(0.1875, 0.2361111111111111)
+||||||||||||||||||
+
+I:	Okay.  Um, any particular reason you picked that?
+
+(0.10378787878787879, 0.4652406417112299)
+||||||||||
+
+I:	Okay.  Now, since we're on the topic of education, and teaching, can you please broadly define what teaching means?
+
+(0.07775297619047618, 0.23430059523809524)
+|||||||
+
+I:	Was there something that you think prompted that?
+
+(0.16144179894179894, 0.565542328042328)
+||||||||||||||||
+
+I:	Okay.  So, gender's considered to be a pretty important issue in engineering education, do you feel that gender has shaped your experience at all beyond?
+
+(0.1331043956043956, 0.4337454212454213)
+|||||||||||||
+
+I:	What seemed different to you?
+
+(0.17621753246753247, 0.541409632034632)
+|||||||||||||||||
+
+I:	Okay.  So, today is March 17th, and I am speaking with Fred, uh, who is an Olin alum, and, uh, we are talking over the phone today.  So, a few questions to get going.  Do you have any questions first?  
+
+(0.0, 0.0)
+
+
+I:	Okay.  What do you enjoy about teaching?
+
+(0.1346690590111643, 0.47506645401382247)
+|||||||||||||
+
+I:	So, uh, you mentioned a little bit...what made you first decide to apply to Olin?
+
+(0.18, 0.2977777777777778)
+||||||||||||||||||
+
+I:	Okay.  Well, maybe if I asked something a little bit different.  Can you tell me about an experience that made you think differently about the way you are?
+
+(0.2656578947368421, 0.49401002506265657)
+||||||||||||||||||||||||||
+
+I:	Any particular reason, or?
+
+(0.196875, 0.47812499999999997)
+|||||||||||||||||||
+
+I:	Any reason for that?
+
+(0.12541666666666668, 0.5014583333333333)
+||||||||||||
+
+I:	Okay.  Uh, how is your awareness of teaching practices developed over time?
+
+(0.17581738437001593, 0.476993620414673)
+|||||||||||||||||
+
+I:	Okay.  Uh, so, can you tell me how you first became interested in engineering?
+
+(0.24750000000000005, 0.49750000000000005)
+||||||||||||||||||||||||
+
+I:	Okay.  So, our time is pretty much up, and I want to be very respectful of your time, uh, is there anything you want to add to any response that you've given?
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+I:	Okay.  So, I'm curious, um, what prompted you to want to interpret for the kids in the back row?
+
+(0.18281250000000002, 0.4159722222222223)
+||||||||||||||||||
+
+I:	Okay.  And can you tell me a little about that teaching job?
+
+(0.08355263157894738, 0.4618421052631579)
+||||||||
+

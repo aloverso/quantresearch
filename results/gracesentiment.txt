@@ -1,0 +1,220 @@
+Okay.  Why do you think you're going to end up in that teaching direction?
+
+(0.10119047619047619, 0.5380952380952381)
+||||||||||
+
+Do you feel like that was a big contrast with your pre-college career?
+
+(0.24333333333333332, 0.4416666666666667)
+||||||||||||||||||||||||
+
+Okay.  Have you had experiences in your life that you think might have changed what your definition of teaching was?
+
+(0.2611111111111111, 0.48333333333333334)
+||||||||||||||||||||||||||
+
+Okay.  Now, you said that you enjoy it.  Anything in particular that you enjoy?
+
+(0.10781994047619048, 0.2715294312169312)
+||||||||||
+
+So, how did you become interested in engineering?
+
+(0.37500000000000006, 0.63)
+|||||||||||||||||||||||||||||||||||||
+
+Okay.  So, I want to switch gears now and start to talk about, more about specifically teaching and education-related issues.  Can you please broadly define for me what teaching means? 
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Okay, so what have you been doing since graduation?
+
+(0.04010416666666666, 0.125)
+||||
+
+So, when you made the choice to come to Olin, what, if anything, did you notice about the gender balance of the faculty or students here?
+
+(0.13634169071669072, 0.4985834535834536)
+|||||||||||||
+
+Okay.  Uh, have you ever participated in research on education?
+
+(-0.1, 0.2)
+XXXXXXXXXX
+
+Okay.  So you've told me what you think teaching means.  Can you tell me what it means to be a teacher?
+
+(0.5533333333333335, 0.49833333333333335)
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Okay.  Um, so now, I know you've said early on that maybe you could be interested in teaching at the high school level or above.  Is that something that you feel like you've seriously considered, or would do in the future, or might do in the future?
+
+(0.05299159663865546, 0.27784873949579825)
+|||||
+
+Okay, so I think you started to answer this for me:  Um, what particularly made you decide to apply to Olin and to come to Olin?
+
+(0.18597308488612838, 0.5591614906832298)
+||||||||||||||||||
+
+Okay, what, um, what had you pick medical school?  It's an interesting path to get your MBA and then go to medical school.
+
+(0.18378286210317457, 0.3320105820105821)
+||||||||||||||||||
+
+So, in what ways, if any, do you feel that gender shaped your educational experience at Olin or beyond Olin?
+
+(0.1596078431372549, 0.33470588235294113)
+|||||||||||||||
+
+So is there anything you'd like to add to any of the responses you've given so far, about teaching and learning?
+
+(0.057913961038961036, 0.42419733044733043)
+|||||
+
+Okay.  So, I'd like you to think back over your whole educational career, which has been pretty long at this point, right?
+
+(0.17615408137869076, 0.3462075204165048)
+|||||||||||||||||
+
+Do you remember a particular experience that you can describe for me that went that way?
+
+(0.13096921596921596, 0.44031886323552993)
+|||||||||||||
+
+Any particular anecdote that you can remember about learning something new, or anything like that?  
+
+(0.08333333333333333, 0.22916666666666666)
+||||||||
+
+Okay.  I want to go back to something you said.  So you said, in the City Year program, you felt like you loved teaching, but you couldn't see yourself doing it full-time.  Any particular reason why you felt like that wasn't going to be a full-time path for you?
+
+(0.2622402597402597, 0.6799675324675324)
+||||||||||||||||||||||||||
+
+Okay.  Do you feel like that awareness continued to develop past your first year?
+
+(0.0, 0.0)
+
+
+Okay.  So, going back to what you just told me about what it means to be a teacher, how did you decide the right way to approach each of those situations?
+
+(0.13253968253968254, 0.46402116402116406)
+|||||||||||||
+
+So what made it fun?
+
+(0.3848809523809524, 0.6252380952380953)
+||||||||||||||||||||||||||||||||||||||
+
+Okay.  So, can you tell me about a time, um, and you've done a little bit of this already, but when you were able to help others learn?
+
+(0.1671527777777778, 0.4574074074074074)
+||||||||||||||||
+
+Do you have any particular instances that you remember where you felt like you started to gain that awareness that you mentioned?
+
+(0.13335811118705856, 0.49488361054150537)
+|||||||||||||
+
+Okay.  So, in your whole educational career, what kind of opportunities do you feel you've had to take control of your path?
+
+(0.21256127450980394, 0.34705882352941175)
+|||||||||||||||||||||
+
+So, do you feel like once you figured that out, you were able to act on it?
+
+(0.14285714285714285, 0.584920634920635)
+||||||||||||||
+
+Okay.  So, when you go into a learning experience, what kind of expectations do you have of that experience?
+
+(0.16351851851851856, 0.48064814814814816)
+||||||||||||||||
+
+Okay.  Is there anything you think I should know, related to this interview that I didn't ask you about?
+
+(0.0, 0.0)
+
+
+What attracted you particularly to the brain?
+
+(0.14424603174603176, 0.5391534391534392)
+||||||||||||||
+
+Okay.  If you think back about your interactions with Olin faculty members, how would you describe them?  
+
+(0.10909090909090909, 0.4863636363636364)
+||||||||||
+
+So, how did you feel about that kind of big departure from, maybe your high school and pre-high school experience?
+
+(0.3578125, 0.7036458333333333)
+|||||||||||||||||||||||||||||||||||
+
+So, why do you think the kids found that fun?
+
+(0.28984374999999996, 0.5377604166666666)
+||||||||||||||||||||||||||||
+
+What did that particular teacher do?  I'm curious.
+
+(0.15, 0.2041666666666667)
+|||||||||||||||
+
+Okay.  Um, do you feel like overall the gender balance at Olin affected your learning experiences in technical courses?
+
+(0.1470982142857143, 0.5011160714285714)
+||||||||||||||
+
+Okay.  And would you be willing to continue with this conversation later on, if we had some more questions?
+
+(0.625, 0.7222222222222222)
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Okay, thank you.  Can you tell me about a major personal influence that you feel affected your life or your future plans?
+
+(0.3037777777777778, 0.5215555555555557)
+||||||||||||||||||||||||||||||
+
+Sure.  Okay.  How has your awareness of teaching practices developed over time?
+
+(0.1357608695652174, 0.4667753623188406)
+|||||||||||||
+
+Okay.  Do you feel like there were ways in which your interactions with Olin faculty may have been dependent on gender, either yours or theirs?
+
+(0.0, 0.0)
+
+
+Okay.  So can you describe for me a time when you felt like a teacher?
+
+(0.14583333333333331, 0.4881944444444445)
+||||||||||||||
+
+Okay.  What major did you graduate with?
+
+(0.0, 0.0)
+
+
+So, what are you planning to do afterwards?
+
+(0.20672619047619048, 0.34726190476190477)
+||||||||||||||||||||
+
+Are you still there?
+
+(0.32455357142857144, 0.34672619047619047)
+||||||||||||||||||||||||||||||||
+
+Okay.  So you've mentioned a lot about experiences that you've re-evaluated in retrospect.  Did you ever have an experience where you've realized, sort of during it or immediately following it, that it made you think differently about the way you were learning?
+
+(0.08166666666666668, 0.5166666666666666)
+||||||||
+
+Okay.  Uh, so, you said...I think you said you're about a year from finishing med school?  Did I get that right?
+
+(0, 0)
+
+
