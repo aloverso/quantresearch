@@ -32,13 +32,13 @@
   <q name="And the kids from the other sc.." id="q2_23" au="Super" cDate="2015-10-18T20:55:47" mDate="2015-10-18T20:55:47" loc="968 @ 57, 1516 @ 57!"/>
   <q name="And then they came for Candida.." id="q2_26" au="Super" cDate="2015-10-18T20:57:59" mDate="2015-11-08T20:15:59" loc="685 @ 65, 750 @ 65!"/>
   <q name="It was, it was the whole exper.." id="q2_28" au="Super" cDate="2015-10-18T20:59:58" mDate="2015-10-18T20:59:58" loc="1 @ 73, 279 @ 73!"/>
-  <q name="But, um, and it…the thing that.." id="q2_29" au="Super" cDate="2015-10-18T21:00:09" mDate="2015-11-08T20:15:59" loc="1 @ 81, 375 @ 81!"/>
-  <q name="Electrical…um, electrical comp.." id="q2_30" au="Super" cDate="2015-10-18T21:13:21" mDate="2015-10-18T21:13:21" loc="1 @ 89, 103 @ 89!"/>
+  <q name="But, um, and it...the thing that.." id="q2_29" au="Super" cDate="2015-10-18T21:00:09" mDate="2015-11-08T20:15:59" loc="1 @ 81, 375 @ 81!"/>
+  <q name="Electrical...um, electrical comp.." id="q2_30" au="Super" cDate="2015-10-18T21:13:21" mDate="2015-10-18T21:13:21" loc="1 @ 89, 103 @ 89!"/>
   <q name="The first thing is that immedi.." id="q2_31" au="Super" cDate="2015-10-18T21:14:05" mDate="2015-10-18T21:14:05" loc="53 @ 97, 582 @ 97!"/>
   <q name="Um, a number of things. Um, pr.." id="q2_32" au="Super" cDate="2015-10-18T21:14:20" mDate="2016-11-15T20:19:37" loc="1 @ 97, 42 @ 105!"/>
   <q name="I started working with profess.." id="q2_33" au="Super" cDate="2015-10-18T21:14:40" mDate="2016-11-15T20:20:56" loc="587 @ 105, 965 @ 105!"/>
   <q name="I started working with profess.." id="q2_35" au="Super" cDate="2015-10-18T21:16:13" mDate="2016-11-15T20:20:20" loc="586 @ 105, 965 @ 105!"/>
-  <q name="“You know what you should do? .." id="q2_36" au="Super" cDate="2015-10-18T21:16:29" mDate="2015-10-18T21:16:29" loc="1241 @ 105, 1284 @ 105!"/>
+  <q name="'You know what you should do? .." id="q2_36" au="Super" cDate="2015-10-18T21:16:29" mDate="2015-10-18T21:16:29" loc="1241 @ 105, 1284 @ 105!"/>
   <q name="Being a ninja, primarily. I wa.." id="q2_37" au="Super" cDate="2015-10-18T21:17:18" mDate="2015-11-08T20:16:51" loc="1 @ 121, 287 @ 121!"/>
   <q name="Um, and the reason that that w.." id="q2_38" au="Super" cDate="2015-10-18T21:21:12" mDate="2015-11-08T20:16:51" loc="1 @ 129, 1384 @ 129!"/>
   <q name="sort of relearning all the thi.." id="q2_40" au="Super" cDate="2015-10-18T21:23:58" mDate="2015-11-08T20:31:29" loc="714 @ 129, 1035 @ 129!"/>
@@ -47,12 +47,12 @@
   <q name="hen we would talk about career.." id="q2_43" au="Super" cDate="2015-10-18T21:27:31" mDate="2015-10-18T21:27:31" loc="2046 @ 129, 2388 @ 129!"/>
   <q name="Um, but people started telling.." id="q2_44" au="Super" cDate="2015-10-18T21:27:52" mDate="2015-10-18T21:27:52" loc="2391 @ 129, 2696 @ 129!"/>
   <q name="Um, and then, one thing that s.." id="q2_45" au="Super" cDate="2015-10-18T21:32:16" mDate="2015-10-18T21:32:16" loc="248 @ 145, 1159 @ 145!"/>
-  <q name="John Stork [ph] came in and Sa.." id="q2_46" au="Super" cDate="2015-10-18T21:32:41" mDate="2015-10-18T21:33:28" loc="1164 @ 145, 1702 @ 145!"/>
+  <q name="John Stork  came in and Sa.." id="q2_46" au="Super" cDate="2015-10-18T21:32:41" mDate="2015-10-18T21:33:28" loc="1164 @ 145, 1702 @ 145!"/>
   <q name="You should really rethink what.." id="q2_47" au="Super" cDate="2015-10-18T21:33:07" mDate="2015-10-18T21:33:07" loc="2241 @ 145, 2424 @ 145!"/>
   <q name="Teaching is creating an enviro.." id="q2_48" au="Super" cDate="2015-10-18T21:35:57" mDate="2016-02-01T21:20:04" loc="1 @ 153, 119 @ 153!"/>
-  <q name="learning is…when you learn, yo.." id="q2_49" au="Super" cDate="2015-10-18T21:40:29" mDate="2016-02-01T21:20:04" loc="36 @ 185, 169 @ 185!"/>
+  <q name="learning is...when you learn, yo.." id="q2_49" au="Super" cDate="2015-10-18T21:40:29" mDate="2016-02-01T21:20:04" loc="36 @ 185, 169 @ 185!"/>
   <q name="Yeah. And I, and I say that ve.." id="q2_50" au="Super" cDate="2015-10-18T21:40:42" mDate="2016-02-01T21:20:04" loc="1 @ 169, 376 @ 169!"/>
-  <q name="“Look, as your professor, I ha.." id="q2_51" au="Super" cDate="2015-10-18T21:43:44" mDate="2016-02-01T21:20:04" loc="319 @ 201, 1122 @ 201!"/>
+  <q name="'Look, as your professor, I ha.." id="q2_51" au="Super" cDate="2015-10-18T21:43:44" mDate="2016-02-01T21:20:04" loc="319 @ 201, 1122 @ 201!"/>
   <q name="I can think of being a teacher.." id="q2_52" au="Super" cDate="2015-10-18T21:49:31" mDate="2015-10-18T21:49:31" loc="15 @ 217, 98 @ 217!"/>
   <q name="deliberately and consciously t.." id="q2_53" au="Super" cDate="2015-10-18T21:51:31" mDate="2016-02-01T21:20:04" loc="162 @ 217, 336 @ 217!"/>
   <q name="they could tell that we were a.." id="q2_55" au="Super" cDate="2015-10-18T21:52:46" mDate="2015-11-08T20:31:29" loc="1495 @ 233, 1571 @ 233!"/>
@@ -60,40 +60,40 @@
   <q name="I went from feeling like we we.." id="q2_57" au="Super" cDate="2015-10-18T21:54:01" mDate="2015-11-08T20:38:55" loc="1600 @ 233, 1938 @ 233!"/>
   <q name="Um, the only problem with the .." id="q2_58" au="Super" cDate="2015-10-18T21:55:11" mDate="2015-10-18T21:55:11" loc="529 @ 233, 724 @ 233!"/>
   <q name="Yeah. Um, a lot of, a lot of m.." id="q2_59" au="Super" cDate="2015-10-18T21:56:13" mDate="2015-10-18T21:56:13" loc="1 @ 249, 181 @ 249!"/>
-  <q name="I didn’t want to be sitting at.." id="q2_60" au="Super" cDate="2015-10-18T21:56:27" mDate="2015-10-18T21:56:27" loc="1 @ 241, 226 @ 241!"/>
-  <q name="I’m the kind of person that le.." id="q2_61" au="Super" cDate="2015-10-18T21:58:15" mDate="2015-11-08T20:31:29" loc="131 @ 265, 225 @ 265!"/>
-  <q name="“That’s…we don’t…basically, I .." id="q2_62" au="Super" cDate="2015-10-22T13:56:15" mDate="2016-02-01T20:59:42" loc="440 @ 273, 619 @ 273!"/>
+  <q name="I didn't want to be sitting at.." id="q2_60" au="Super" cDate="2015-10-18T21:56:27" mDate="2015-10-18T21:56:27" loc="1 @ 241, 226 @ 241!"/>
+  <q name="I'm the kind of person that le.." id="q2_61" au="Super" cDate="2015-10-18T21:58:15" mDate="2015-11-08T20:31:29" loc="131 @ 265, 225 @ 265!"/>
+  <q name="'That's...we don't...basically, I .." id="q2_62" au="Super" cDate="2015-10-22T13:56:15" mDate="2016-02-01T20:59:42" loc="440 @ 273, 619 @ 273!"/>
   <q name="Um, that was an incredibly pai.." id="q2_63" au="Super" cDate="2015-10-22T13:56:44" mDate="2016-02-01T21:20:04" loc="526 @ 273, 904 @ 273!"/>
-  <q name="“That’s…we don’t…basically, I .." id="q2_64" au="Super" cDate="2015-10-22T13:59:46" mDate="2015-11-08T20:32:09" loc="440 @ 273, 701 @ 273!"/>
+  <q name="'That's...we don't...basically, I .." id="q2_64" au="Super" cDate="2015-10-22T13:59:46" mDate="2015-11-08T20:32:09" loc="440 @ 273, 701 @ 273!"/>
   <q name="it was an incredibly unstructu.." id="q2_65" au="Super" cDate="2015-10-22T14:02:18" mDate="2015-11-08T20:36:42" loc="1409 @ 273, 1531 @ 273!"/>
   <q name="that class was just failure af.." id="q2_66" au="Super" cDate="2015-10-22T14:03:57" mDate="2015-11-08T20:37:13" loc="1756 @ 273, 2711 @ 273!"/>
   <q name="Um, we basically postered desc.." id="q2_67" au="Super" cDate="2015-10-22T14:04:52" mDate="2015-10-22T14:04:52" loc="2321 @ 273, 2711 @ 273!"/>
   <q name="Um, it was an exercise in lear.." id="q2_69" au="Super" cDate="2015-10-22T14:07:07" mDate="2015-11-08T20:36:42" loc="3135 @ 273, 3909 @ 273!"/>
   <q name="I had learned how to learn not.." id="q2_70" au="Super" cDate="2015-10-22T14:07:36" mDate="2015-11-08T20:37:13" loc="4304 @ 273, 4392 @ 273!"/>
-  <q name="So, I used to…um, even when I .." id="q2_72" au="Super" cDate="2015-10-22T14:12:25" mDate="2015-10-22T14:12:25" loc="153 @ 321, 533 @ 321!"/>
+  <q name="So, I used to...um, even when I .." id="q2_72" au="Super" cDate="2015-10-22T14:12:25" mDate="2015-10-22T14:12:25" loc="153 @ 321, 533 @ 321!"/>
   <q name="I have environment expectation.." id="q2_73" au="Super" cDate="2015-10-22T14:14:29" mDate="2015-10-22T14:14:29" loc="539 @ 321, 1378 @ 321!"/>
   <q name="And then, on my part, um, my e.." id="q2_74" au="Super" cDate="2015-10-22T14:17:01" mDate="2015-11-08T20:44:53" loc="1381 @ 321, 2524 @ 321!"/>
   <q name="Um, so, from the people who ar.." id="q2_75" au="Super" cDate="2015-10-22T14:17:15" mDate="2015-10-22T14:17:15" loc="739 @ 321, 1378 @ 321!"/>
-  <q name="no matter what class I’m takin.." id="q2_76" au="Super" cDate="2015-10-22T14:21:23" mDate="2015-11-08T20:31:29" loc="214 @ 369, 893 @ 369!"/>
-  <q name="no matter what class I’m takin.." id="q2_77" au="Super" cDate="2015-10-22T14:23:20" mDate="2015-11-05T19:47:21" loc="214 @ 369, 892 @ 369!"/>
-  <q name="Yeah, it’s hard because my tea.." id="q2_78" au="Super" cDate="2015-10-22T14:24:14" mDate="2015-11-08T20:16:51" loc="23 @ 265, 35 @ 273!"/>
-  <q name="you’re still trying to figure .." id="q2_79" au="Super" cDate="2015-10-22T14:25:04" mDate="2015-11-08T20:44:20" loc="624 @ 377, 760 @ 377!"/>
-  <q name="I’m deaf" id="q2_80" au="Super" cDate="2015-10-22T14:25:17" mDate="2015-11-08T20:44:20" loc="161 @ 369, 168 @ 369!"/>
+  <q name="no matter what class I'm takin.." id="q2_76" au="Super" cDate="2015-10-22T14:21:23" mDate="2015-11-08T20:31:29" loc="214 @ 369, 893 @ 369!"/>
+  <q name="no matter what class I'm takin.." id="q2_77" au="Super" cDate="2015-10-22T14:23:20" mDate="2015-11-05T19:47:21" loc="214 @ 369, 892 @ 369!"/>
+  <q name="Yeah, it's hard because my tea.." id="q2_78" au="Super" cDate="2015-10-22T14:24:14" mDate="2015-11-08T20:16:51" loc="23 @ 265, 35 @ 273!"/>
+  <q name="you're still trying to figure .." id="q2_79" au="Super" cDate="2015-10-22T14:25:04" mDate="2015-11-08T20:44:20" loc="624 @ 377, 760 @ 377!"/>
+  <q name="I'm deaf" id="q2_80" au="Super" cDate="2015-10-22T14:25:17" mDate="2015-11-08T20:44:20" loc="161 @ 369, 168 @ 369!"/>
   <q name="it still creates the, the kind.." id="q2_81" au="Super" cDate="2015-10-22T14:25:48" mDate="2016-02-01T20:56:05" loc="361 @ 377, 477 @ 377!"/>
   <q name="Yes, they were super open. Whe.." id="q2_82" au="Super" cDate="2015-10-22T14:26:28" mDate="2015-10-22T14:26:28" loc="1 @ 393, 485 @ 393!"/>
-  <q name="And so, I went, “Okay, I’m not.." id="q2_83" au="Super" cDate="2015-10-22T14:28:21" mDate="2015-10-22T14:28:21" loc="1236 @ 401, 1343 @ 401!"/>
+  <q name="And so, I went, 'Okay, I'm not.." id="q2_83" au="Super" cDate="2015-10-22T14:28:21" mDate="2015-10-22T14:28:21" loc="1236 @ 401, 1343 @ 401!"/>
   <q name="I went to the language departm.." id="q2_84" au="Super" cDate="2015-10-22T14:28:48" mDate="2015-11-08T20:44:20" loc="399 @ 401, 1233 @ 401!"/>
   <q name="when I started being a ninja, .." id="q2_85" au="Super" cDate="2015-10-22T14:34:07" mDate="2015-11-08T20:16:51" loc="350 @ 425, 636 @ 425!"/>
-  <q name="I don’t know everything about .." id="q2_86" au="Super" cDate="2015-10-22T14:34:30" mDate="2015-10-22T14:34:30" loc="907 @ 425, 1184 @ 425!"/>
-  <q name="“Oh, my gosh! Wait, people wri.." id="q2_87" au="Super" cDate="2015-10-22T14:34:54" mDate="2015-10-22T14:34:55" loc="454 @ 425, 715 @ 425!"/>
+  <q name="I don't know everything about .." id="q2_86" au="Super" cDate="2015-10-22T14:34:30" mDate="2015-10-22T14:34:30" loc="907 @ 425, 1184 @ 425!"/>
+  <q name="'Oh, my gosh! Wait, people wri.." id="q2_87" au="Super" cDate="2015-10-22T14:34:54" mDate="2015-10-22T14:34:55" loc="454 @ 425, 715 @ 425!"/>
   <q name="I had one Olin professor talk .." id="q2_88" au="Super" cDate="2015-10-22T14:37:17" mDate="2015-10-22T14:37:17" loc="1366 @ 433, 1727 @ 433!"/>
   <q name="by connecting to the community.." id="q2_90" au="Super" cDate="2015-10-22T14:39:02" mDate="2015-10-22T14:39:02" loc="930 @ 433, 1131 @ 433!"/>
   <q name="I know that at some point when.." id="q2_91" au="Super" cDate="2015-10-22T14:39:55" mDate="2015-11-08T20:16:51" loc="2131 @ 433, 2498 @ 433!"/>
   <q name="I read the book and then I wen.." id="q2_92" au="Super" cDate="2015-10-22T14:40:10" mDate="2015-10-22T14:40:10" loc="2367 @ 433, 2498 @ 433!"/>
-  <q name="The…and the more I learn about.." id="q2_94" au="Super" cDate="2015-10-22T14:49:23" mDate="2015-11-08T20:57:12" loc="14 @ 441, 131 @ 441!"/>
-  <q name="It’s still pretty new, because.." id="q2_95" au="Super" cDate="2015-10-22T14:52:22" mDate="2016-02-01T21:20:04" loc="1 @ 457, 712 @ 457!"/>
-  <q name="It’s, it’s sort of like…um, a .." id="q2_96" au="Super" cDate="2015-10-22T14:56:40" mDate="2015-10-22T14:56:40" loc="715 @ 457, 2290 @ 457!"/>
-  <q name="I didn’t realize how lucky I w.." id="q2_97" au="Super" cDate="2015-10-22T14:59:25" mDate="2015-11-08T20:38:55" loc="159 @ 497, 376 @ 497!"/>
+  <q name="The...and the more I learn about.." id="q2_94" au="Super" cDate="2015-10-22T14:49:23" mDate="2015-11-08T20:57:12" loc="14 @ 441, 131 @ 441!"/>
+  <q name="It's still pretty new, because.." id="q2_95" au="Super" cDate="2015-10-22T14:52:22" mDate="2016-02-01T21:20:04" loc="1 @ 457, 712 @ 457!"/>
+  <q name="It's, it's sort of like...um, a .." id="q2_96" au="Super" cDate="2015-10-22T14:56:40" mDate="2015-10-22T14:56:40" loc="715 @ 457, 2290 @ 457!"/>
+  <q name="I didn't realize how lucky I w.." id="q2_97" au="Super" cDate="2015-10-22T14:59:25" mDate="2015-11-08T20:38:55" loc="159 @ 497, 376 @ 497!"/>
   <q name="The first one was that in my f.." id="q2_98" au="Super" cDate="2015-10-22T15:11:23" mDate="2016-02-01T21:02:22" loc="499 @ 497, 1676 @ 497!"/>
   <q name="stuff like SWE, the Society fo.." id="q2_99" au="Super" cDate="2015-10-22T15:12:53" mDate="2015-10-22T15:12:53" loc="107 @ 505, 402 @ 505!"/>
   <q name="And the experience I had at th.." id="q2_100" au="Super" cDate="2015-10-22T15:14:50" mDate="2015-11-08T20:32:56" loc="649 @ 537, 1236 @ 537!"/>
@@ -101,59 +101,59 @@
   <q name="And so, I would go to conferen.." id="q2_103" au="Super" cDate="2015-10-22T15:17:47" mDate="2016-11-15T20:22:33" loc="248 @ 545, 947 @ 553!"/>
   <q name="Putting a lot of emphasis on t.." id="q2_104" au="Super" cDate="2015-10-22T15:20:33" mDate="2015-10-22T15:21:07" loc="415 @ 561, 842 @ 561!"/>
   <q name="As I was a part of the human-p.." id="q2_106" au="Super" cDate="2015-10-22T15:23:58" mDate="2015-10-22T15:23:58" loc="76 @ 569, 2155 @ 569!"/>
-  <q name="“I’ve been in a place in the w.." id="q2_107" au="Super" cDate="2015-10-22T15:25:13" mDate="2015-10-22T15:25:43" loc="338 @ 577, 562 @ 577!"/>
-  <q name="“I’ve been in a place in the w.." id="q2_108" au="Super" cDate="2015-10-22T15:26:45" mDate="2015-10-22T15:26:46" loc="338 @ 577, 935 @ 577!"/>
+  <q name="'I've been in a place in the w.." id="q2_107" au="Super" cDate="2015-10-22T15:25:13" mDate="2015-10-22T15:25:43" loc="338 @ 577, 562 @ 577!"/>
+  <q name="'I've been in a place in the w.." id="q2_108" au="Super" cDate="2015-10-22T15:26:45" mDate="2015-10-22T15:26:46" loc="338 @ 577, 935 @ 577!"/>
   <q name="And the experience I had at th.." id="q2_109" au="Super" cDate="2015-10-22T15:28:46" mDate="2015-10-22T15:28:46" loc="649 @ 537, 1308 @ 537!"/>
   <q name="And so, I went and talked with.." id="q2_110" au="Super" cDate="2015-10-22T15:29:03" mDate="2015-10-22T15:29:03" loc="905 @ 569, 2155 @ 569!"/>
-  <q name="I don’t think that if I talked.." id="q2_111" au="Super" cDate="2015-10-22T15:30:13" mDate="2015-11-08T21:13:00" loc="1641 @ 569, 2183 @ 569!"/>
-  <q name="“How does my gender or how doe.." id="q2_112" au="Super" cDate="2015-10-22T15:31:06" mDate="2015-11-08T20:38:55" loc="501 @ 585, 1955 @ 585!"/>
-  <q name="It’s, um, I’m not, not doing a.." id="q2_113" au="Super" cDate="2015-10-22T15:31:55" mDate="2015-11-08T21:47:37" loc="620 @ 585, 1956 @ 585!"/>
-  <q name="So, one thing that I don’t thi.." id="q2_114" au="Super" cDate="2015-10-22T15:33:39" mDate="2015-10-22T15:33:39" loc="78 @ 585, 2095 @ 585!"/>
+  <q name="I don't think that if I talked.." id="q2_111" au="Super" cDate="2015-10-22T15:30:13" mDate="2015-11-08T21:13:00" loc="1641 @ 569, 2183 @ 569!"/>
+  <q name="'How does my gender or how doe.." id="q2_112" au="Super" cDate="2015-10-22T15:31:06" mDate="2015-11-08T20:38:55" loc="501 @ 585, 1955 @ 585!"/>
+  <q name="It's, um, I'm not, not doing a.." id="q2_113" au="Super" cDate="2015-10-22T15:31:55" mDate="2015-11-08T21:47:37" loc="620 @ 585, 1956 @ 585!"/>
+  <q name="So, one thing that I don't thi.." id="q2_114" au="Super" cDate="2015-10-22T15:33:39" mDate="2015-10-22T15:33:39" loc="78 @ 585, 2095 @ 585!"/>
   <q name="Um, it was very interactive, n.." id="q2_115" au="Super" cDate="2015-10-25T20:13:25" mDate="2016-11-15T20:16:27" loc="105 @ 49, 705 @ 49!"/>
   <q name="But even with that, I had no i.." id="q2_116" au="Super" cDate="2016-02-21T14:10:54" mDate="2016-11-15T20:13:01" loc="301 @ 17, 1412 @ 17!"/>
-  <q name="Candidate’s Weekend. It was…we.." id="q2_117" au="Super" cDate="2016-02-21T14:14:05" mDate="2016-02-21T14:14:05" loc="1 @ 65, 263 @ 65!"/>
-  <q name="Think about, you know, what…an.." id="q2_118" au="Super" cDate="2016-02-21T14:17:41" mDate="2016-02-21T14:17:41" loc="2029 @ 145, 2489 @ 145!"/>
+  <q name="Candidate's Weekend. It was...we.." id="q2_117" au="Super" cDate="2016-02-21T14:14:05" mDate="2016-02-21T14:14:05" loc="1 @ 65, 263 @ 65!"/>
+  <q name="Think about, you know, what...an.." id="q2_118" au="Super" cDate="2016-02-21T14:17:41" mDate="2016-02-21T14:17:41" loc="2029 @ 145, 2489 @ 145!"/>
   <q name="Um, yeah, before that, I reall.." id="q2_119" au="Super" cDate="2016-11-15T20:15:36" mDate="2016-11-15T20:15:48" loc="1 @ 41, 1116 @ 41!"/>
-  <q name="Candidate’s Weekend. It was…we.." id="q2_120" au="Super" cDate="2016-11-15T20:17:34" mDate="2016-11-15T20:17:34" loc="1 @ 65, 750 @ 65!"/>
-  <q name="Candidate’s Weekend. It was…we.." id="q2_121" au="Super" cDate="2016-11-15T20:17:57" mDate="2016-11-15T20:17:57" loc="1 @ 65, 472 @ 65!"/>
+  <q name="Candidate's Weekend. It was...we.." id="q2_120" au="Super" cDate="2016-11-15T20:17:34" mDate="2016-11-15T20:17:34" loc="1 @ 65, 750 @ 65!"/>
+  <q name="Candidate's Weekend. It was...we.." id="q2_121" au="Super" cDate="2016-11-15T20:17:57" mDate="2016-11-15T20:17:57" loc="1 @ 65, 472 @ 65!"/>
  </quotations>
  </primDoc>
  <primDoc name="07-23-14-1-Shawn.rtf" id="pd_3" loc="doc_8" au="Super" cDate="2015-10-25T20:00:57" mDate="2016-11-15T20:23:15" qIndex="135" >
  <quotations size="104" >
   <q name="my parents are both liberal ar.." id="q3_1" au="Super" cDate="2015-10-25T20:04:24" mDate="2015-11-08T20:15:59" loc="8 @ 9, 215 @ 9!"/>
-  <q name="I’ve, um, always been somewhat.." id="q3_2" au="Super" cDate="2015-10-25T20:04:59" mDate="2015-10-25T20:04:59" loc="64 @ 5, 141 @ 5!"/>
+  <q name="I've, um, always been somewhat.." id="q3_2" au="Super" cDate="2015-10-25T20:04:59" mDate="2015-10-25T20:04:59" loc="64 @ 5, 141 @ 5!"/>
   <q name="my parents are both liberal ar.." id="q3_3" au="Super" cDate="2015-10-25T20:05:16" mDate="2015-10-25T20:05:17" loc="8 @ 9, 576 @ 9!"/>
   <q name="But you should talk with other.." id="q3_5" au="Super" cDate="2015-10-25T20:18:36" mDate="2015-10-25T20:18:36" loc="424 @ 17, 524 @ 17!"/>
   <q name="I think the other thing that i.." id="q3_7" au="Super" cDate="2015-10-25T20:19:24" mDate="2015-10-25T20:19:24" loc="418 @ 29, 824 @ 29!"/>
   <q name="My parents, um, could not have.." id="q3_8" au="Super" cDate="2015-10-25T20:19:56" mDate="2015-11-08T20:15:59" loc="229 @ 29, 407 @ 29!"/>
-  <q name="It was, um, the…like, I was se.." id="q3_9" au="Super" cDate="2015-10-25T20:20:16" mDate="2015-10-25T20:20:16" loc="33 @ 29, 407 @ 29!"/>
+  <q name="It was, um, the...like, I was se.." id="q3_9" au="Super" cDate="2015-10-25T20:20:16" mDate="2015-10-25T20:20:16" loc="33 @ 29, 407 @ 29!"/>
   <q name="at Olin I realized that I want.." id="q3_12" au="Super" cDate="2015-10-25T20:22:57" mDate="2016-11-15T20:23:19" loc="297 @ 37, 487 @ 37!"/>
   <q name="Um, I think, like, my parents .." id="q3_15" au="Super" cDate="2015-10-25T20:37:36" mDate="2015-11-08T20:15:59" loc="4 @ 61, 147 @ 65!"/>
   <q name="with Design Nature and the, um.." id="q3_17" au="Super" cDate="2015-10-25T20:51:20" mDate="2015-10-25T20:51:20" loc="8 @ 81, 507 @ 85!"/>
   <q name="Mark or John would cryptically.." id="q3_18" au="Super" cDate="2015-10-25T20:52:01" mDate="2016-02-01T20:59:20" loc="93 @ 93, 614 @ 93!"/>
-  <q name="I’ve been always very tactile .." id="q3_19" au="Super" cDate="2015-10-25T20:52:46" mDate="2015-10-25T20:52:46" loc="201 @ 97, 357 @ 97!"/>
-  <q name="at Olin, that suddenly…um, tha.." id="q3_22" au="Super" cDate="2015-10-25T20:59:55" mDate="2015-11-08T20:36:42" loc="231 @ 109, 412 @ 109!"/>
+  <q name="I've been always very tactile .." id="q3_19" au="Super" cDate="2015-10-25T20:52:46" mDate="2015-10-25T20:52:46" loc="201 @ 97, 357 @ 97!"/>
+  <q name="at Olin, that suddenly...um, tha.." id="q3_22" au="Super" cDate="2015-10-25T20:59:55" mDate="2015-11-08T20:36:42" loc="231 @ 109, 412 @ 109!"/>
   <q name="certainly in high school, the .." id="q3_23" au="Super" cDate="2015-10-25T21:00:42" mDate="2015-11-08T20:32:09" loc="19 @ 109, 503 @ 109!"/>
   <q name="certainly many times in my rol.." id="q3_26" au="Super" cDate="2015-10-25T21:03:00" mDate="2015-11-08T20:16:51" loc="41 @ 121, 463 @ 121!"/>
-  <q name="it’s sort of trying to convey .." id="q3_27" au="Super" cDate="2015-10-25T21:03:28" mDate="2015-10-25T21:03:28" loc="486 @ 121, 589 @ 121!"/>
-  <q name="Like, the, um…I’m an older sib.." id="q3_28" au="Super" cDate="2015-10-25T21:04:06" mDate="2015-11-08T20:16:51" loc="33 @ 125, 140 @ 125!"/>
+  <q name="it's sort of trying to convey .." id="q3_27" au="Super" cDate="2015-10-25T21:03:28" mDate="2015-10-25T21:03:28" loc="486 @ 121, 589 @ 121!"/>
+  <q name="Like, the, um...I'm an older sib.." id="q3_28" au="Super" cDate="2015-10-25T21:04:06" mDate="2015-11-08T20:16:51" loc="33 @ 125, 140 @ 125!"/>
   <q name="the things that I mentioned fr.." id="q3_29" au="Super" cDate="2015-10-25T21:05:17" mDate="2016-02-01T20:56:05" loc="16 @ 129, 234 @ 129!"/>
   <q name="I was exploring, you know, a l.." id="q3_30" au="Super" cDate="2015-10-25T21:06:54" mDate="2015-10-25T21:06:55" loc="11 @ 133, 188 @ 133!"/>
   <q name="in high school, I had no tools.." id="q3_32" au="Super" cDate="2015-10-25T21:10:58" mDate="2015-11-08T20:36:42" loc="36 @ 145, 364 @ 145!"/>
   <q name="I think that that was, that wa.." id="q3_33" au="Super" cDate="2015-10-25T21:11:40" mDate="2015-10-25T21:11:40" loc="662 @ 145, 831 @ 145!"/>
-  <q name="“Okay, I can…I don’t have to j.." id="q3_34" au="Super" cDate="2015-10-25T21:12:41" mDate="2016-02-01T21:08:07" loc="143 @ 153, 453 @ 153!"/>
+  <q name="'Okay, I can...I don't have to j.." id="q3_34" au="Super" cDate="2015-10-25T21:12:41" mDate="2016-02-01T21:08:07" loc="143 @ 153, 453 @ 153!"/>
   <q name="I visited Uganda with the ____.." id="q3_35" au="Super" cDate="2015-10-25T21:16:55" mDate="2015-10-25T21:16:55" loc="108 @ 157, 365 @ 161!"/>
   <q name="there was certainly no teacher.." id="q3_36" au="Super" cDate="2015-10-25T21:17:56" mDate="2015-10-25T21:17:56" loc="38 @ 165, 98 @ 165!"/>
   <q name="I think that it was a really p.." id="q3_37" au="Super" cDate="2015-10-25T21:20:28" mDate="2015-11-08T20:59:29" loc="120 @ 165, 948 @ 165!"/>
   <q name="there was certainly no or very.." id="q3_38" au="Super" cDate="2015-10-25T21:21:01" mDate="2015-10-25T21:21:01" loc="955 @ 165, 1322 @ 165!"/>
   <q name="It was modelled actually somew.." id="q3_41" au="Super" cDate="2015-10-25T21:22:48" mDate="2015-11-08T20:32:56" loc="42 @ 169, 296 @ 169!"/>
   <q name="I think there was, like, a lot.." id="q3_42" au="Super" cDate="2015-10-25T21:26:02" mDate="2015-10-25T21:26:02" loc="16 @ 173, 389 @ 173!"/>
-  <q name="certainly Olin didn’t have a…w.." id="q3_43" au="Super" cDate="2015-10-25T21:30:01" mDate="2016-02-01T20:49:44" loc="156 @ 177, 506 @ 181!"/>
-  <q name="I think came to build…or came .." id="q3_44" au="Super" cDate="2015-10-25T21:34:10" mDate="2015-11-08T21:51:29" loc="17 @ 181, 506 @ 181!"/>
+  <q name="certainly Olin didn't have a...w.." id="q3_43" au="Super" cDate="2015-10-25T21:30:01" mDate="2016-02-01T20:49:44" loc="156 @ 177, 506 @ 181!"/>
+  <q name="I think came to build...or came .." id="q3_44" au="Super" cDate="2015-10-25T21:34:10" mDate="2015-11-08T21:51:29" loc="17 @ 181, 506 @ 181!"/>
   <q name="Now, you mentioned Caitrin. Wh.." id="q3_45" au="Super" cDate="2015-10-25T21:36:18" mDate="2015-11-08T20:16:51" loc="15 @ 183, 25 @ 185!"/>
   <q name="there was no, no faculty conne.." id="q3_47" au="Super" cDate="2015-10-25T21:38:42" mDate="2015-10-25T21:38:42" loc="310 @ 197, 891 @ 197!"/>
   <q name="one particular faculty member .." id="q3_48" au="Super" cDate="2015-10-25T21:39:36" mDate="2016-02-01T20:59:42" loc="494 @ 197, 891 @ 197!"/>
-  <q name="Um, and, um, like, the…there w.." id="q3_49" au="Super" cDate="2015-10-25T21:40:07" mDate="2015-10-25T21:40:07" loc="456 @ 205, 650 @ 205!"/>
+  <q name="Um, and, um, like, the...there w.." id="q3_49" au="Super" cDate="2015-10-25T21:40:07" mDate="2015-10-25T21:40:07" loc="456 @ 205, 650 @ 205!"/>
   <q name="the first semester when there .." id="q3_50" au="Super" cDate="2015-10-25T21:40:22" mDate="2015-11-08T20:33:42" loc="182 @ 205, 453 @ 205!"/>
   <q name="a lot of the faculty also didn.." id="q3_51" au="Super" cDate="2015-10-25T21:40:39" mDate="2016-02-01T20:49:44" loc="8 @ 209, 136 @ 209!"/>
   <q name="For me, certainly, like, examp.." id="q3_52" au="Super" cDate="2015-10-25T21:41:40" mDate="2015-10-27T20:14:04" loc="11 @ 217, 182 @ 217!"/>
@@ -161,12 +161,12 @@
   <q name="Um, a lot of the content that .." id="q3_54" au="Super" cDate="2015-10-27T20:15:21" mDate="2016-02-01T20:56:05" loc="83 @ 225, 365 @ 225!"/>
   <q name="the class that I really dislik.." id="q3_56" au="Super" cDate="2015-10-27T20:17:39" mDate="2016-02-01T20:56:05" loc="29 @ 241, 823 @ 245!"/>
   <q name="the class that I really dislik.." id="q3_57" au="Super" cDate="2015-10-27T20:18:28" mDate="2015-10-27T20:18:28" loc="28 @ 241, 56 @ 245!"/>
-  <q name="all the good faculty that I’ve.." id="q3_58" au="Super" cDate="2015-10-27T20:19:39" mDate="2015-10-27T20:19:39" loc="81 @ 249, 387 @ 257!"/>
-  <q name="there’s no inquiry, there’s no.." id="q3_59" au="Super" cDate="2015-10-27T20:19:56" mDate="2015-10-27T20:19:56" loc="22 @ 257, 387 @ 257!"/>
-  <q name="Like, the fact that nobody’s…t.." id="q3_60" au="Super" cDate="2015-10-27T20:20:13" mDate="2015-10-27T20:20:13" loc="168 @ 253, 415 @ 253!"/>
-  <q name="Um, I’m now working on a PhD, .." id="q3_62" au="Super" cDate="2015-10-27T20:29:19" mDate="2015-11-08T20:42:02" loc="61 @ 261, 237 @ 261!"/>
+  <q name="all the good faculty that I've.." id="q3_58" au="Super" cDate="2015-10-27T20:19:39" mDate="2015-10-27T20:19:39" loc="81 @ 249, 387 @ 257!"/>
+  <q name="there's no inquiry, there's no.." id="q3_59" au="Super" cDate="2015-10-27T20:19:56" mDate="2015-10-27T20:19:56" loc="22 @ 257, 387 @ 257!"/>
+  <q name="Like, the fact that nobody's...t.." id="q3_60" au="Super" cDate="2015-10-27T20:20:13" mDate="2015-10-27T20:20:13" loc="168 @ 253, 415 @ 253!"/>
+  <q name="Um, I'm now working on a PhD, .." id="q3_62" au="Super" cDate="2015-10-27T20:29:19" mDate="2015-11-08T20:42:02" loc="61 @ 261, 237 @ 261!"/>
   <q name="most of the schedule was somew.." id="q3_63" au="Super" cDate="2015-10-27T20:31:29" mDate="2015-11-08T20:35:25" loc="268 @ 261, 565 @ 261!"/>
-  <q name="that’s really fascinating and,.." id="q3_64" au="Super" cDate="2015-10-27T20:33:09" mDate="2016-02-01T21:08:05" loc="12 @ 265, 262 @ 265!"/>
+  <q name="that's really fascinating and,.." id="q3_64" au="Super" cDate="2015-10-27T20:33:09" mDate="2016-02-01T21:08:05" loc="12 @ 265, 262 @ 265!"/>
   <q name="it feels a lot like the, like,.." id="q3_66" au="Super" cDate="2015-10-27T20:36:03" mDate="2015-11-08T20:35:25" loc="70 @ 269, 70 @ 273!"/>
   <q name="I think that probably the best.." id="q3_67" au="Super" cDate="2015-10-27T20:40:53" mDate="2015-11-08T20:36:42" loc="14 @ 277, 391 @ 281!"/>
   <q name="ike, that was so much fun, goi.." id="q3_68" au="Super" cDate="2015-10-27T20:41:12" mDate="2015-10-27T20:41:12" loc="35 @ 289, 248 @ 289!"/>
@@ -183,13 +183,13 @@
   <q name="building up the skills of peop.." id="q3_84" au="Super" cDate="2015-10-29T19:23:42" mDate="2016-02-01T21:20:04" loc="39 @ 329, 417 @ 329!"/>
   <q name="Um, whereas at work, it was mu.." id="q3_86" au="Super" cDate="2015-10-29T19:26:40" mDate="2015-11-08T20:16:51" loc="206 @ 333, 441 @ 333!"/>
   <q name="Um, so, I think that, um, each.." id="q3_87" au="Super" cDate="2015-10-29T19:26:47" mDate="2015-11-08T20:16:51" loc="4 @ 337, 228 @ 337!"/>
-  <q name="Like, another…actually…so, ste.." id="q3_88" au="Super" cDate="2015-10-29T19:27:33" mDate="2015-11-08T20:31:29" loc="4 @ 341, 29 @ 345!"/>
+  <q name="Like, another...actually...so, ste.." id="q3_88" au="Super" cDate="2015-10-29T19:27:33" mDate="2015-11-08T20:31:29" loc="4 @ 341, 29 @ 345!"/>
   <q name="I think that, like, the exposu.." id="q3_89" au="Super" cDate="2015-10-29T19:28:43" mDate="2015-11-08T20:57:12" loc="21 @ 349, 299 @ 349!"/>
-  <q name="Um, so it’s…like, I had an exc.." id="q3_90" au="Super" cDate="2015-10-29T19:29:07" mDate="2016-02-01T21:20:04" loc="500 @ 349, 783 @ 349!"/>
+  <q name="Um, so it's...like, I had an exc.." id="q3_90" au="Super" cDate="2015-10-29T19:29:07" mDate="2016-02-01T21:20:04" loc="500 @ 349, 783 @ 349!"/>
   <q name="at, at Olin, it initially felt.." id="q3_92" au="Super" cDate="2015-10-29T19:31:47" mDate="2015-11-08T20:36:42" loc="332 @ 357, 770 @ 357!"/>
   <q name="I ended up, um, TAing for him .." id="q3_94" au="Super" cDate="2015-10-29T19:32:21" mDate="2015-11-08T20:16:51" loc="1068 @ 357, 1151 @ 357!"/>
   <q name="gave me an appreciation for a .." id="q3_95" au="Super" cDate="2015-10-29T19:32:57" mDate="2015-11-08T20:57:12" loc="1328 @ 357, 1395 @ 357!"/>
-  <q name="I think I’m to some extent rel.." id="q3_97" au="Super" cDate="2015-10-29T19:34:48" mDate="2015-11-03T21:57:57" loc="19 @ 361, 755 @ 361!"/>
+  <q name="I think I'm to some extent rel.." id="q3_97" au="Super" cDate="2015-10-29T19:34:48" mDate="2015-11-03T21:57:57" loc="19 @ 361, 755 @ 361!"/>
   <q name="I think, certainly what the hu.." id="q3_98" au="Super" cDate="2015-10-29T19:35:15" mDate="2015-10-29T19:35:15" loc="162 @ 365, 283 @ 365!"/>
   <q name="I really enjoyed having a smal.." id="q3_99" au="Super" cDate="2015-10-29T19:35:40" mDate="2015-10-29T19:35:40" loc="290 @ 365, 427 @ 365!"/>
   <q name="I think it will certainly affe.." id="q3_100" au="Super" cDate="2015-10-29T19:37:02" mDate="2015-10-29T19:37:02" loc="15 @ 365, 151 @ 365!"/>
@@ -199,29 +199,29 @@
   <q name="I think engaged me much more d.." id="q3_105" au="Super" cDate="2015-10-29T19:59:21" mDate="2015-10-29T19:59:21" loc="13 @ 385, 123 @ 385!"/>
   <q name="I think there was a lot of emp.." id="q3_106" au="Super" cDate="2015-10-29T19:59:38" mDate="2016-02-01T21:20:04" loc="46 @ 389, 392 @ 389!"/>
   <q name="Um, and that sort of, like, ac.." id="q3_107" au="Super" cDate="2015-10-29T20:02:21" mDate="2016-02-01T21:20:04" loc="208 @ 393, 399 @ 393!"/>
-  <q name="[00:55:50] P: Yeah. I mean, li.." id="q3_108" au="Super" cDate="2015-10-29T20:05:25" mDate="2016-02-01T20:49:44" loc="1 @ 392, 1228 @ 393!"/>
+  <q name="P: Yeah. I mean, li.." id="q3_108" au="Super" cDate="2015-10-29T20:05:25" mDate="2016-02-01T20:49:44" loc="1 @ 392, 1228 @ 393!"/>
   <q name="it felt very much like I could.." id="q3_109" au="Super" cDate="2015-10-29T20:06:10" mDate="2015-11-08T20:35:25" loc="1132 @ 393, 1229 @ 393!"/>
-  <q name="Um, I’ve thought about it, cer.." id="q3_110" au="Super" cDate="2015-10-29T20:09:06" mDate="2015-10-29T20:09:06" loc="4 @ 397, 1018 @ 397!"/>
+  <q name="Um, I've thought about it, cer.." id="q3_110" au="Super" cDate="2015-10-29T20:09:06" mDate="2015-10-29T20:09:06" loc="4 @ 397, 1018 @ 397!"/>
   <q name="Um, the, um, like, some of the.." id="q3_112" au="Super" cDate="2015-10-29T20:13:02" mDate="2015-11-08T20:15:59" loc="4 @ 401, 378 @ 401!"/>
   <q name="Um, the, um, like, some of the.." id="q3_113" au="Super" cDate="2015-10-29T20:13:43" mDate="2015-10-29T20:13:43" loc="4 @ 401, 184 @ 405!"/>
-  <q name="The…like, I mean, it’s, it’s g.." id="q3_114" au="Super" cDate="2015-10-29T20:13:56" mDate="2016-02-01T21:20:04" loc="4 @ 409, 252 @ 409!"/>
+  <q name="The...like, I mean, it's, it's g.." id="q3_114" au="Super" cDate="2015-10-29T20:13:56" mDate="2016-02-01T21:20:04" loc="4 @ 409, 252 @ 409!"/>
   <q name="Um, then, like, as I said, my .." id="q3_116" au="Super" cDate="2015-10-29T20:16:12" mDate="2015-10-29T20:16:12" loc="4 @ 417, 348 @ 417!"/>
   <q name="Um, like, Mel Chua and Liana A.." id="q3_117" au="Super" cDate="2015-10-29T20:19:23" mDate="2015-10-29T20:19:23" loc="475 @ 429, 710 @ 429!"/>
   <q name="Um, at the machine shop, I was.." id="q3_118" au="Super" cDate="2015-10-29T20:20:07" mDate="2015-10-29T20:20:07" loc="58 @ 433, 310 @ 433!"/>
   <q name="I worked at a research lab in .." id="q3_119" au="Super" cDate="2015-10-29T20:21:18" mDate="2015-10-29T20:21:18" loc="552 @ 437, 830 @ 437!"/>
   <q name="Um, I felt like there was sort.." id="q3_120" au="Super" cDate="2015-10-29T20:22:45" mDate="2015-11-08T20:43:57" loc="4 @ 445, 493 @ 445!"/>
-  <q name="Um, and I would be, like, “Oh,.." id="q3_121" au="Super" cDate="2015-10-29T20:23:09" mDate="2015-10-29T20:23:09" loc="4 @ 449, 233 @ 449!"/>
+  <q name="Um, and I would be, like, 'Oh,.." id="q3_121" au="Super" cDate="2015-10-29T20:23:09" mDate="2015-10-29T20:23:09" loc="4 @ 449, 233 @ 449!"/>
   <q name="Um, there was still a lack of .." id="q3_122" au="Super" cDate="2015-10-29T20:26:55" mDate="2015-11-08T20:16:51" loc="4 @ 457, 405 @ 457!"/>
   <q name="I never thought about it until.." id="q3_124" au="Super" cDate="2015-10-29T20:29:03" mDate="2015-11-08T20:43:15" loc="3 @ 469, 204 @ 473!"/>
-  <q name="And it certainly wasn’t someth.." id="q3_125" au="Super" cDate="2015-10-29T20:29:12" mDate="2015-10-29T20:29:12" loc="4 @ 477, 153 @ 477!"/>
-  <q name="Um, I’d describe them mostly a.." id="q3_126" au="Super" cDate="2015-10-29T20:30:15" mDate="2015-11-08T20:16:51" loc="4 @ 481, 619 @ 481!"/>
+  <q name="And it certainly wasn't someth.." id="q3_125" au="Super" cDate="2015-10-29T20:29:12" mDate="2015-10-29T20:29:12" loc="4 @ 477, 153 @ 477!"/>
+  <q name="Um, I'd describe them mostly a.." id="q3_126" au="Super" cDate="2015-10-29T20:30:15" mDate="2015-11-08T20:16:51" loc="4 @ 481, 619 @ 481!"/>
   <q name="Certainly, like, Ben and _____.." id="q3_127" au="Super" cDate="2015-10-29T20:30:35" mDate="2015-10-29T20:30:35" loc="408 @ 481, 619 @ 481!"/>
   <q name="Um, similarly, I was intereste.." id="q3_128" au="Super" cDate="2015-10-29T20:32:29" mDate="2015-10-29T20:32:29" loc="4 @ 485, 425 @ 485!"/>
-  <q name="Um, I…like, there were…um, thi.." id="q3_129" au="Super" cDate="2015-10-29T20:34:32" mDate="2015-10-29T20:34:32" loc="189 @ 485, 203 @ 493!"/>
+  <q name="Um, I...like, there were...um, thi.." id="q3_129" au="Super" cDate="2015-10-29T20:34:32" mDate="2015-10-29T20:34:32" loc="189 @ 485, 203 @ 493!"/>
   <q name="I think that, um, certainly, l.." id="q3_130" au="Super" cDate="2015-10-29T20:34:46" mDate="2015-10-29T20:34:46" loc="22 @ 497, 229 @ 497!"/>
-  <q name="Um, like, with…um, for instanc.." id="q3_131" au="Super" cDate="2015-10-29T20:44:42" mDate="2015-10-29T20:44:42" loc="232 @ 497, 1447 @ 497!"/>
+  <q name="Um, like, with...um, for instanc.." id="q3_131" au="Super" cDate="2015-10-29T20:44:42" mDate="2015-10-29T20:44:42" loc="232 @ 497, 1447 @ 497!"/>
   <q name="volunteered once or twice with.." id="q3_132" au="Super" cDate="2015-10-29T20:45:58" mDate="2015-10-29T20:45:58" loc="158 @ 509, 242 @ 509!"/>
-  <q name="teaching about stuff that I’m .." id="q3_133" au="Super" cDate="2015-10-29T20:46:23" mDate="2015-10-29T20:46:23" loc="8 @ 513, 465 @ 513!"/>
+  <q name="teaching about stuff that I'm .." id="q3_133" au="Super" cDate="2015-10-29T20:46:23" mDate="2015-10-29T20:46:23" loc="8 @ 513, 465 @ 513!"/>
   <q name="advisor here saw Rick Miller t.." id="q3_134" au="Super" cDate="2015-10-29T20:48:02" mDate="2015-10-29T20:48:02" loc="122 @ 517, 67 @ 521!"/>
   <q name="Um, like, lots of late nights .." id="q3_135" au="Super" cDate="2016-02-21T14:31:39" mDate="2016-02-21T14:31:40" loc="4 @ 141, 230 @ 141!"/>
  </quotations>
@@ -233,14 +233,14 @@
   <q name="So, mainly, or mostly because .." id="q4_3" au="Super" cDate="2016-02-09T20:19:33" mDate="2016-02-09T20:19:33" loc="413 @ 11, 654 @ 11!"/>
   <q name="Um, basically I was just prett.." id="q4_4" au="Super" cDate="2016-02-09T20:20:51" mDate="2016-02-09T20:20:51" loc="1 @ 11, 152 @ 11!"/>
   <q name="Yeah. So, um, I think she just.." id="q4_5" au="Super" cDate="2016-02-09T20:21:49" mDate="2016-02-09T20:21:49" loc="1 @ 19, 1275 @ 19!"/>
-  <q name="And honestly, I didn’t think I.." id="q4_6" au="Super" cDate="2016-02-09T20:27:39" mDate="2016-02-09T20:27:39" loc="492 @ 29, 714 @ 31!"/>
+  <q name="And honestly, I didn't think I.." id="q4_6" au="Super" cDate="2016-02-09T20:27:39" mDate="2016-02-09T20:27:39" loc="492 @ 29, 714 @ 31!"/>
   <q name="I had a really interesting fly.." id="q4_7" au="Super" cDate="2016-02-09T20:28:13" mDate="2016-02-09T20:28:13" loc="1 @ 29, 714 @ 31!"/>
-  <q name="Everyone’s philosophy on, kind.." id="q4_8" au="Super" cDate="2016-02-09T20:29:43" mDate="2016-02-09T20:30:06" loc="1 @ 31, 600 @ 31!"/>
-  <q name="I’ve always liked to be able t.." id="q4_9" au="Super" cDate="2016-02-09T20:31:07" mDate="2016-02-09T20:31:08" loc="184 @ 29, 489 @ 29!"/>
+  <q name="Everyone's philosophy on, kind.." id="q4_8" au="Super" cDate="2016-02-09T20:29:43" mDate="2016-02-09T20:30:06" loc="1 @ 31, 600 @ 31!"/>
+  <q name="I've always liked to be able t.." id="q4_9" au="Super" cDate="2016-02-09T20:31:07" mDate="2016-02-09T20:31:08" loc="184 @ 29, 489 @ 29!"/>
   <q name="I had a really interesting fly.." id="q4_10" au="Super" cDate="2016-02-09T20:32:28" mDate="2016-02-09T20:32:29" loc="1 @ 29, 770 @ 29!"/>
-  <q name="Well, I don’t know if it was j.." id="q4_11" au="Super" cDate="2016-02-09T20:35:08" mDate="2016-02-09T20:35:08" loc="1 @ 39, 668 @ 39!"/>
+  <q name="Well, I don't know if it was j.." id="q4_11" au="Super" cDate="2016-02-09T20:35:08" mDate="2016-02-09T20:35:08" loc="1 @ 39, 668 @ 39!"/>
   <q name="So that the only, like, vivid .." id="q4_12" au="Super" cDate="2016-02-09T20:35:18" mDate="2016-02-09T20:35:18" loc="376 @ 39, 668 @ 39!"/>
-  <q name="Well, I don’t know if it was j.." id="q4_13" au="Super" cDate="2016-02-09T20:35:59" mDate="2016-02-09T20:36:00" loc="1 @ 39, 374 @ 39!"/>
+  <q name="Well, I don't know if it was j.." id="q4_13" au="Super" cDate="2016-02-09T20:35:59" mDate="2016-02-09T20:36:00" loc="1 @ 39, 374 @ 39!"/>
   <q name="And I think the competition pa.." id="q4_14" au="Super" cDate="2016-02-09T20:36:15" mDate="2016-02-09T20:36:15" loc="227 @ 39, 374 @ 39!"/>
   <q name="Um, again, liking something to.." id="q4_15" au="Super" cDate="2016-02-09T20:39:11" mDate="2016-02-09T20:39:23" loc="1 @ 54, 584 @ 56!"/>
   <q name="Um, that was just, like, what .." id="q4_16" au="Super" cDate="2016-02-09T20:42:08" mDate="2016-02-09T20:42:08" loc="1 @ 56, 323 @ 56!"/>
@@ -248,54 +248,54 @@
   <q name="So our major clients are utili.." id="q4_18" au="Super" cDate="2016-02-09T20:43:51" mDate="2016-02-09T20:43:52" loc="355 @ 65, 628 @ 65!"/>
   <q name="You know, I definitely really .." id="q4_19" au="Super" cDate="2016-02-09T20:45:51" mDate="2016-02-09T20:45:51" loc="1 @ 73, 480 @ 75!"/>
   <q name="You know, I definitely really .." id="q4_20" au="Super" cDate="2016-02-09T20:46:23" mDate="2016-02-09T20:46:24" loc="1 @ 73, 609 @ 73!"/>
-  <q name="We’re...we want everyone else .." id="q4_21" au="Super" cDate="2016-02-09T20:47:17" mDate="2016-02-09T20:47:17" loc="297 @ 73, 609 @ 73!"/>
+  <q name="We're...we want everyone else .." id="q4_21" au="Super" cDate="2016-02-09T20:47:17" mDate="2016-02-09T20:47:17" loc="297 @ 73, 609 @ 73!"/>
   <q name="So right now, like the last ye.." id="q4_22" au="Super" cDate="2016-02-09T20:51:08" mDate="2016-02-09T20:51:08" loc="611 @ 73, 834 @ 73!"/>
-  <q name="And, you know, I feel like I’v.." id="q4_23" au="Super" cDate="2016-02-09T20:51:28" mDate="2016-02-09T20:51:28" loc="1 @ 75, 480 @ 75!"/>
+  <q name="And, you know, I feel like I'v.." id="q4_23" au="Super" cDate="2016-02-09T20:51:28" mDate="2016-02-09T20:51:28" loc="1 @ 75, 480 @ 75!"/>
   <q name="Yeah, there...nothing else com.." id="q4_24" au="Super" cDate="2016-02-09T20:53:26" mDate="2016-02-09T20:53:26" loc="1 @ 100, 745 @ 100!"/>
   <q name="Yeah, there...nothing else com.." id="q4_25" au="Super" cDate="2016-02-09T20:56:45" mDate="2016-02-09T20:56:45" loc="1 @ 100, 564 @ 100!"/>
   <q name="Um, but he was, like...I mean,.." id="q4_26" au="Super" cDate="2016-02-09T20:57:57" mDate="2016-02-09T20:57:57" loc="1 @ 108, 585 @ 108!"/>
   <q name="He just kind of accelerated it.." id="q4_27" au="Super" cDate="2016-02-09T21:01:11" mDate="2016-02-09T21:01:11" loc="417 @ 108, 585 @ 108!"/>
   <q name="To me, I think of teaching as..." id="q4_28" au="Super" cDate="2016-02-09T21:02:29" mDate="2016-02-09T21:02:29" loc="1 @ 116, 792 @ 116!"/>
-  <q name="I don’t, I don’t think so. I t.." id="q4_29" au="Super" cDate="2016-02-09T21:05:37" mDate="2016-02-09T21:05:37" loc="1 @ 140, 1180 @ 142!"/>
+  <q name="I don't, I don't think so. I t.." id="q4_29" au="Super" cDate="2016-02-09T21:05:37" mDate="2016-02-09T21:05:37" loc="1 @ 140, 1180 @ 142!"/>
   <q name="I think little things come, co.." id="q4_30" au="Super" cDate="2016-02-09T21:06:15" mDate="2016-02-09T21:06:15" loc="29 @ 140, 760 @ 140!"/>
   <q name="spiral learning, and being lik.." id="q4_31" au="Super" cDate="2016-02-09T21:08:14" mDate="2016-02-09T21:08:14" loc="275 @ 140, 633 @ 140!"/>
   <q name="So, you know, just talking wit.." id="q4_32" au="Super" cDate="2016-02-09T21:09:08" mDate="2016-02-09T21:09:08" loc="255 @ 142, 559 @ 142!"/>
   <q name="So, for her, being able to sha.." id="q4_33" au="Super" cDate="2016-02-09T21:11:58" mDate="2016-02-09T21:11:58" loc="561 @ 142, 1180 @ 142!"/>
-  <q name="Hmm, I mean, the teacher’s jus.." id="q4_34" au="Super" cDate="2016-02-09T21:12:11" mDate="2016-02-09T21:12:16" loc="1 @ 150, 148 @ 150!"/>
+  <q name="Hmm, I mean, the teacher's jus.." id="q4_34" au="Super" cDate="2016-02-09T21:12:11" mDate="2016-02-09T21:12:16" loc="1 @ 150, 148 @ 150!"/>
   <q name="Or, I mean, like in a teacher .." id="q4_35" au="Super" cDate="2016-02-09T21:12:38" mDate="2016-02-09T21:12:38" loc="1 @ 157, 181 @ 158!"/>
   <q name="Yeah. Well, I mean, I guess in.." id="q4_36" au="Super" cDate="2016-02-09T21:13:17" mDate="2016-02-09T21:13:17" loc="1 @ 166, 946 @ 166!"/>
   <q name="I either ask really directed q.." id="q4_37" au="Super" cDate="2016-02-09T21:13:44" mDate="2016-02-09T21:13:44" loc="463 @ 166, 784 @ 166!"/>
   <q name="Um, so, I mean, you know, like.." id="q4_38" au="Super" cDate="2016-02-09T21:14:00" mDate="2016-02-09T21:14:00" loc="361 @ 166, 680 @ 166!"/>
-  <q name="That’s another big thing that .." id="q4_39" au="Super" cDate="2016-02-09T21:16:11" mDate="2016-02-09T21:16:11" loc="1 @ 168, 715 @ 168!"/>
+  <q name="That's another big thing that .." id="q4_39" au="Super" cDate="2016-02-09T21:16:11" mDate="2016-02-09T21:16:11" loc="1 @ 168, 715 @ 168!"/>
   <q name="I try to help out - like, the .." id="q4_40" au="Super" cDate="2016-02-09T21:16:59" mDate="2016-02-09T21:17:35" loc="103 @ 168, 438 @ 168!"/>
-  <q name="You know, there’s a fine line .." id="q4_42" au="Super" cDate="2016-02-09T21:19:37" mDate="2016-02-09T21:19:37" loc="1136 @ 176, 1444 @ 176!"/>
+  <q name="You know, there's a fine line .." id="q4_42" au="Super" cDate="2016-02-09T21:19:37" mDate="2016-02-09T21:19:37" loc="1136 @ 176, 1444 @ 176!"/>
   <q name="And, you know, giving her...be.." id="q4_43" au="Super" cDate="2016-02-09T21:20:12" mDate="2016-02-09T21:20:12" loc="475 @ 176, 1090 @ 176!"/>
   <q name="Like, you want them to...you w.." id="q4_44" au="Super" cDate="2016-02-09T21:21:27" mDate="2016-02-09T21:21:28" loc="628 @ 176, 1366 @ 176!"/>
-  <q name="Hmm, I’m trying to think of an.." id="q4_45" au="Super" cDate="2016-02-09T21:22:21" mDate="2016-02-09T21:22:21" loc="1 @ 176, 625 @ 176!"/>
+  <q name="Hmm, I'm trying to think of an.." id="q4_45" au="Super" cDate="2016-02-09T21:22:21" mDate="2016-02-09T21:22:21" loc="1 @ 176, 625 @ 176!"/>
   <q name="Hmm. I mean, I think so. Yeah..." id="q4_46" au="Super" cDate="2016-02-09T21:24:58" mDate="2016-02-09T21:24:59" loc="1 @ 184, 810 @ 190!"/>
   <q name="Just recently...you know, I tu.." id="q4_47" au="Super" cDate="2016-02-09T21:25:33" mDate="2016-02-09T21:25:33" loc="35 @ 184, 380 @ 184!"/>
   <q name="Hmm. I mean, I think so. Yeah..." id="q4_48" au="Super" cDate="2016-02-09T21:27:32" mDate="2016-02-09T21:27:32" loc="1 @ 184, 1036 @ 188!"/>
-  <q name="And that’s something her dad h.." id="q4_49" au="Super" cDate="2016-02-09T21:28:47" mDate="2016-02-09T21:41:32" loc="318 @ 186, 585 @ 186!"/>
+  <q name="And that's something her dad h.." id="q4_49" au="Super" cDate="2016-02-09T21:28:47" mDate="2016-02-09T21:41:32" loc="318 @ 186, 585 @ 186!"/>
   <q name="So, I mean, when she told me t.." id="q4_50" au="Super" cDate="2016-02-09T21:32:27" mDate="2016-02-09T21:32:27" loc="755 @ 188, 1036 @ 188!"/>
   <q name="So I feel like, hopefully, tha.." id="q4_51" au="Super" cDate="2016-02-09T21:33:43" mDate="2016-02-09T21:33:43" loc="1 @ 190, 617 @ 190!"/>
-  <q name="So, I don’t know, I almost fee.." id="q4_52" au="Super" cDate="2016-02-09T21:42:22" mDate="2016-02-09T21:43:32" loc="476 @ 208, 813 @ 208!"/>
+  <q name="So, I don't know, I almost fee.." id="q4_52" au="Super" cDate="2016-02-09T21:42:22" mDate="2016-02-09T21:43:32" loc="476 @ 208, 813 @ 208!"/>
   <q name="Um, there was a period of time.." id="q4_53" au="Super" cDate="2016-02-09T21:43:24" mDate="2016-02-09T21:43:24" loc="109 @ 206, 709 @ 206!"/>
   <q name="Um, there was a period of time.." id="q4_54" au="Super" cDate="2016-02-09T21:44:06" mDate="2016-02-09T21:44:07" loc="109 @ 206, 517 @ 206!"/>
   <q name="I even...after that, I even en.." id="q4_55" au="Super" cDate="2016-02-09T21:45:21" mDate="2016-02-09T21:45:21" loc="399 @ 206, 813 @ 208!"/>
   <q name="And I feel like if I have...I .." id="q4_56" au="Super" cDate="2016-02-09T21:48:51" mDate="2016-02-09T21:48:51" loc="1 @ 208, 812 @ 208!"/>
   <q name="But, you know, the way I feel,.." id="q4_57" au="Super" cDate="2016-02-09T21:53:21" mDate="2016-02-09T21:59:07" loc="1 @ 222, 756 @ 222!"/>
-  <q name="No, I don’t think it’s imposed.." id="q4_58" au="Super" cDate="2016-02-09T21:53:30" mDate="2016-02-09T21:53:30" loc="1 @ 220, 812 @ 220!"/>
-  <q name="No, I don’t think it’s imposed.." id="q4_59" au="Super" cDate="2016-02-09T21:57:22" mDate="2016-02-09T21:57:22" loc="1 @ 220, 756 @ 222!"/>
+  <q name="No, I don't think it's imposed.." id="q4_58" au="Super" cDate="2016-02-09T21:53:30" mDate="2016-02-09T21:53:30" loc="1 @ 220, 812 @ 220!"/>
+  <q name="No, I don't think it's imposed.." id="q4_59" au="Super" cDate="2016-02-09T21:57:22" mDate="2016-02-09T21:57:22" loc="1 @ 220, 756 @ 222!"/>
   <q name="I try not be, like, super, I d.." id="q4_60" au="Super" cDate="2016-02-09T21:58:36" mDate="2016-02-09T21:58:36" loc="171 @ 220, 381 @ 220!"/>
-  <q name="That’s okay. Um, so, any kind .." id="q4_61" au="Super" cDate="2016-02-10T20:22:44" mDate="2016-02-10T20:22:44" loc="1 @ 260, 63 @ 264!"/>
+  <q name="That's okay. Um, so, any kind .." id="q4_61" au="Super" cDate="2016-02-10T20:22:44" mDate="2016-02-10T20:22:44" loc="1 @ 260, 63 @ 264!"/>
   <q name="I think the only thing I can t.." id="q4_62" au="Super" cDate="2016-02-10T20:23:05" mDate="2016-02-10T20:25:01" loc="66 @ 264, 813 @ 264!"/>
   <q name="you like, work out your mind, .." id="q4_63" au="Super" cDate="2016-02-10T20:24:52" mDate="2016-02-10T20:24:52" loc="223 @ 264, 415 @ 264!"/>
   <q name="Hmm. You know, I do remember t.." id="q4_64" au="Super" cDate="2016-02-10T20:26:32" mDate="2016-02-10T20:26:32" loc="1 @ 271, 1132 @ 273!"/>
-  <q name="Um, so I don’t know if it was .." id="q4_65" au="Super" cDate="2016-02-10T20:26:47" mDate="2016-02-10T20:26:47" loc="701 @ 275, 997 @ 275!"/>
+  <q name="Um, so I don't know if it was .." id="q4_65" au="Super" cDate="2016-02-10T20:26:47" mDate="2016-02-10T20:26:47" loc="701 @ 275, 997 @ 275!"/>
   <q name="But I felt that, because I kne.." id="q4_66" au="Super" cDate="2016-02-10T20:27:12" mDate="2016-02-10T20:27:12" loc="1 @ 275, 698 @ 275!"/>
-  <q name="And, I don’t know if that’s li.." id="q4_67" au="Super" cDate="2016-02-10T20:30:17" mDate="2016-02-10T20:30:17" loc="591 @ 273, 809 @ 273!"/>
+  <q name="And, I don't know if that's li.." id="q4_67" au="Super" cDate="2016-02-10T20:30:17" mDate="2016-02-10T20:30:17" loc="591 @ 273, 809 @ 273!"/>
   <q name="But I felt that, because I kne.." id="q4_68" au="Super" cDate="2016-02-10T20:32:12" mDate="2016-02-10T20:42:25" loc="1 @ 275, 486 @ 275!"/>
-  <q name="Um, like I said, you know, I’d.." id="q4_69" au="Super" cDate="2016-02-10T20:33:19" mDate="2016-02-10T20:44:20" loc="66 @ 283, 301 @ 283!"/>
+  <q name="Um, like I said, you know, I'd.." id="q4_69" au="Super" cDate="2016-02-10T20:33:19" mDate="2016-02-10T20:44:20" loc="66 @ 283, 301 @ 283!"/>
   <q name="So, really, it was like a...I .." id="q4_70" au="Super" cDate="2016-02-10T20:34:21" mDate="2016-02-10T20:34:21" loc="521 @ 283, 1150 @ 283!"/>
   <q name="I think, uh, just to try to pr.." id="q4_71" au="Super" cDate="2016-02-10T20:35:25" mDate="2016-02-10T20:35:25" loc="1 @ 283, 1150 @ 283!"/>
   <q name="Okay. Yeah, it was, um, my cla.." id="q4_72" au="Super" cDate="2016-02-10T20:48:03" mDate="2016-02-10T20:48:03" loc="1 @ 299, 297 @ 307!"/>
@@ -306,120 +306,120 @@
   <q name="Same thing, actually, is...you.." id="q4_77" au="Super" cDate="2016-02-10T21:06:23" mDate="2016-02-10T21:06:23" loc="1 @ 328, 629 @ 328!"/>
   <q name="I mean, I think I considered i.." id="q4_78" au="Super" cDate="2016-02-10T21:10:56" mDate="2016-02-10T21:13:06" loc="1 @ 336, 922 @ 338!"/>
   <q name="And you're not really, in thos.." id="q4_79" au="Super" cDate="2016-02-10T21:11:30" mDate="2016-02-10T21:11:30" loc="363 @ 336, 500 @ 336!"/>
-  <q name="And then...I don’t know, not b.." id="q4_81" au="Super" cDate="2016-02-10T21:14:54" mDate="2016-02-10T21:14:59" loc="1141 @ 338, 1333 @ 338!"/>
+  <q name="And then...I don't know, not b.." id="q4_81" au="Super" cDate="2016-02-10T21:14:54" mDate="2016-02-10T21:14:59" loc="1141 @ 338, 1333 @ 338!"/>
   <q name="I mean, I think I considered i.." id="q4_82" au="Super" cDate="2016-02-10T21:15:38" mDate="2016-02-10T21:15:38" loc="1 @ 336, 1138 @ 338!"/>
   <q name="Um, post college, in the real .." id="q4_83" au="Super" cDate="2016-02-10T21:18:07" mDate="2016-02-10T21:18:07" loc="257 @ 373, 498 @ 373!"/>
   <q name="And, yeah, I mean, actually I .." id="q4_84" au="Super" cDate="2016-02-10T21:21:32" mDate="2016-02-10T21:21:32" loc="1 @ 375, 714 @ 375!"/>
-  <q name="But, you know, I think there’s.." id="q4_85" au="Super" cDate="2016-02-10T21:22:21" mDate="2016-02-10T21:22:21" loc="385 @ 391, 572 @ 393!"/>
+  <q name="But, you know, I think there's.." id="q4_85" au="Super" cDate="2016-02-10T21:22:21" mDate="2016-02-10T21:22:21" loc="385 @ 391, 572 @ 393!"/>
   <q name="Um, I mean, probably not on th.." id="q4_86" au="Super" cDate="2016-02-10T21:22:56" mDate="2016-02-10T21:22:56" loc="1 @ 391, 667 @ 391!"/>
-  <q name="But if you hear other people’s.." id="q4_87" au="Super" cDate="2016-02-10T21:28:45" mDate="2016-02-10T21:28:45" loc="1 @ 393, 351 @ 393!"/>
+  <q name="But if you hear other people's.." id="q4_87" au="Super" cDate="2016-02-10T21:28:45" mDate="2016-02-10T21:28:45" loc="1 @ 393, 351 @ 393!"/>
   <q name="That was like...you know, mayb.." id="q4_88" au="Super" cDate="2016-02-10T21:29:29" mDate="2016-02-10T21:29:29" loc="409 @ 393, 571 @ 393!"/>
-  <q name="Hmm. I don’t, I don’t think so.." id="q4_89" au="Super" cDate="2016-02-10T21:40:08" mDate="2016-02-10T21:40:08" loc="1 @ 409, 419 @ 409!"/>
+  <q name="Hmm. I don't, I don't think so.." id="q4_89" au="Super" cDate="2016-02-10T21:40:08" mDate="2016-02-10T21:40:08" loc="1 @ 409, 419 @ 409!"/>
  </quotations>
  </primDoc>
  <primDoc name="07-23-14-2-Tricia.rtf" id="pd_5" loc="doc_4" au="Super" cDate="2015-11-08T21:16:49" mDate="2016-02-01T21:21:00" qIndex="127" >
  <quotations size="117" >
-  <q name="I’ve liked math and science fo.." id="q5_1" au="Super" cDate="2015-11-08T21:23:28" mDate="2015-11-08T21:23:41" loc="24 @ 5, 254 @ 5!"/>
-  <q name="first of all Olin…like, I hear.." id="q5_2" au="Super" cDate="2015-11-08T21:25:17" mDate="2015-11-08T21:55:30" loc="354 @ 5, 1342 @ 5!"/>
+  <q name="I've liked math and science fo.." id="q5_1" au="Super" cDate="2015-11-08T21:23:28" mDate="2015-11-08T21:23:41" loc="24 @ 5, 254 @ 5!"/>
+  <q name="first of all Olin...like, I hear.." id="q5_2" au="Super" cDate="2015-11-08T21:25:17" mDate="2015-11-08T21:55:30" loc="354 @ 5, 1342 @ 5!"/>
   <q name="I knew Olin for, like, other r.." id="q5_3" au="Super" cDate="2015-11-08T21:26:46" mDate="2016-02-01T20:49:44" loc="1040 @ 5, 1240 @ 5!"/>
   <q name="Um, so, definitely, like, the .." id="q5_4" au="Super" cDate="2015-11-08T21:28:03" mDate="2016-02-01T20:49:44" loc="4 @ 9, 280 @ 13!"/>
   <q name="so, in August I start my first.." id="q5_6" au="Super" cDate="2015-11-08T21:37:56" mDate="2015-11-08T21:37:56" loc="160 @ 29, 304 @ 29!"/>
   <q name="And so, what I chose to do was.." id="q5_7" au="Super" cDate="2015-11-08T21:39:12" mDate="2015-11-08T21:39:36" loc="279 @ 41, 756 @ 41!"/>
   <q name="I knew that I liked teaching. .." id="q5_8" au="Super" cDate="2015-11-08T21:40:16" mDate="2015-11-08T21:40:16" loc="8 @ 45, 653 @ 45!"/>
-  <q name="I started out…like, I was pret.." id="q5_9" au="Super" cDate="2015-11-08T21:42:52" mDate="2015-11-08T21:42:53" loc="273 @ 53, 751 @ 53!"/>
+  <q name="I started out...like, I was pret.." id="q5_9" au="Super" cDate="2015-11-08T21:42:52" mDate="2015-11-08T21:42:53" loc="273 @ 53, 751 @ 53!"/>
   <q name="I had never really done leader.." id="q5_10" au="Super" cDate="2015-11-08T21:46:51" mDate="2015-11-08T21:46:51" loc="197 @ 57, 402 @ 57!"/>
   <q name="Um, but with this one, this ac.." id="q5_12" au="Super" cDate="2015-11-10T20:14:51" mDate="2016-02-01T21:20:04" loc="656 @ 61, 1504 @ 61!"/>
   <q name="a lot of times with eDisco, we.." id="q5_13" au="Super" cDate="2015-11-10T20:16:18" mDate="2015-11-10T20:16:18" loc="211 @ 61, 494 @ 61!"/>
   <q name="we did some, we did some fun t.." id="q5_14" au="Super" cDate="2015-11-10T20:17:25" mDate="2015-11-10T20:17:25" loc="1530 @ 61, 403 @ 69!"/>
-  <q name="And then, like, we’d have to a.." id="q5_15" au="Super" cDate="2015-11-10T20:19:13" mDate="2015-12-10T20:54:44" loc="1039 @ 61, 1506 @ 61!"/>
-  <q name="And, like, we tr-…we were guid.." id="q5_16" au="Super" cDate="2015-11-10T20:21:58" mDate="2016-02-01T20:59:20" loc="777 @ 81, 168 @ 85!"/>
+  <q name="And then, like, we'd have to a.." id="q5_15" au="Super" cDate="2015-11-10T20:19:13" mDate="2015-12-10T20:54:44" loc="1039 @ 61, 1506 @ 61!"/>
+  <q name="And, like, we tr-...we were guid.." id="q5_16" au="Super" cDate="2015-11-10T20:21:58" mDate="2016-02-01T20:59:20" loc="777 @ 81, 168 @ 85!"/>
   <q name="But the teacher was, like, rea.." id="q5_17" au="Super" cDate="2015-11-10T20:28:30" mDate="2015-11-10T20:28:30" loc="4 @ 77, 154 @ 77!"/>
   <q name="They were learning about light.." id="q5_18" au="Super" cDate="2015-11-10T20:29:53" mDate="2015-11-10T20:29:53" loc="15 @ 73, 533 @ 85!"/>
-  <q name="“This needs to just end and we.." id="q5_19" au="Super" cDate="2015-11-10T20:30:21" mDate="2016-02-01T20:55:25" loc="406 @ 85, 48 @ 101!"/>
+  <q name="'This needs to just end and we.." id="q5_19" au="Super" cDate="2015-11-10T20:30:21" mDate="2016-02-01T20:55:25" loc="406 @ 85, 48 @ 101!"/>
   <q name="all the ninjas and the profess.." id="q5_20" au="Super" cDate="2015-11-10T20:34:03" mDate="2015-11-10T20:34:03" loc="667 @ 113, 1086 @ 113!"/>
-  <q name="Yeah, so, I ninja’d for Mark f.." id="q5_21" au="Super" cDate="2015-11-10T20:35:26" mDate="2015-11-10T20:35:26" loc="4 @ 113, 2673 @ 113!"/>
+  <q name="Yeah, so, I ninja'd for Mark f.." id="q5_21" au="Super" cDate="2015-11-10T20:35:26" mDate="2015-11-10T20:35:26" loc="4 @ 113, 2673 @ 113!"/>
   <q name="Um, and I think, like, a, a lo.." id="q5_22" au="Super" cDate="2015-11-10T20:37:05" mDate="2015-11-10T20:37:05" loc="2271 @ 113, 2683 @ 113!"/>
   <q name="So, basically, she just, like,.." id="q5_23" au="Super" cDate="2015-11-10T20:42:44" mDate="2015-11-10T20:42:44" loc="1692 @ 117, 71 @ 121!"/>
-  <q name="When I was…um, I mean, she alw.." id="q5_24" au="Super" cDate="2015-11-10T20:43:03" mDate="2015-11-10T20:43:03" loc="4 @ 121, 239 @ 121!"/>
-  <q name="because he’s also a physics pr.." id="q5_26" au="Super" cDate="2015-11-10T20:46:01" mDate="2015-11-10T20:46:01" loc="104 @ 117, 803 @ 117!"/>
+  <q name="When I was...um, I mean, she alw.." id="q5_24" au="Super" cDate="2015-11-10T20:43:03" mDate="2015-11-10T20:43:03" loc="4 @ 121, 239 @ 121!"/>
+  <q name="because he's also a physics pr.." id="q5_26" au="Super" cDate="2015-11-10T20:46:01" mDate="2015-11-10T20:46:01" loc="104 @ 117, 803 @ 117!"/>
   <q name="Um, but at the same time, kind.." id="q5_27" au="Super" cDate="2015-11-10T20:47:08" mDate="2015-11-10T20:47:08" loc="4 @ 137, 413 @ 137!"/>
-  <q name="Like, it was…I don’t know. I j.." id="q5_28" au="Super" cDate="2015-11-10T20:47:29" mDate="2015-11-10T20:48:56" loc="4 @ 145, 317 @ 145!"/>
+  <q name="Like, it was...I don't know. I j.." id="q5_28" au="Super" cDate="2015-11-10T20:47:29" mDate="2015-11-10T20:48:56" loc="4 @ 145, 317 @ 145!"/>
   <q name="And, like, um, I definitely, l.." id="q5_29" au="Super" cDate="2015-11-10T20:48:52" mDate="2015-11-10T20:48:52" loc="4 @ 141, 187 @ 141!"/>
   <q name="Um, to me, teaching is about, .." id="q5_30" au="Super" cDate="2015-11-10T20:49:46" mDate="2016-02-01T21:20:04" loc="11 @ 153, 592 @ 153!"/>
   <q name="Like, and so, as a teacher, li.." id="q5_31" au="Super" cDate="2015-11-10T20:51:48" mDate="2015-11-10T20:51:48" loc="405 @ 153, 728 @ 165!"/>
   <q name="Like, I think I want my studen.." id="q5_32" au="Super" cDate="2015-11-10T20:52:10" mDate="2015-11-10T20:52:10" loc="536 @ 165, 727 @ 165!"/>
-  <q name="P: Um, but if I were to…going .." id="q5_33" au="Super" cDate="2015-11-10T20:55:52" mDate="2016-02-01T21:20:04" loc="1 @ 181, 1522 @ 185!"/>
+  <q name="P: Um, but if I were to...going .." id="q5_33" au="Super" cDate="2015-11-10T20:55:52" mDate="2016-02-01T21:20:04" loc="1 @ 181, 1522 @ 185!"/>
   <q name="Um, and then, like, my thought.." id="q5_34" au="Super" cDate="2015-11-10T20:56:52" mDate="2015-11-10T20:56:52" loc="455 @ 185, 647 @ 185!"/>
   <q name="To me, like, I definitely, lik.." id="q5_35" au="Super" cDate="2015-11-10T21:05:24" mDate="2015-11-10T21:05:24" loc="4 @ 193, 303 @ 193!"/>
-  <q name="Like, the…like, the idea of, l.." id="q5_36" au="Super" cDate="2015-11-10T21:05:51" mDate="2016-02-01T21:20:04" loc="4 @ 189, 326 @ 189!"/>
-  <q name="Um, yeah, I mean, I think…like.." id="q5_37" au="Super" cDate="2015-11-10T21:06:49" mDate="2015-11-10T21:06:56" loc="4 @ 213, 542 @ 213!"/>
+  <q name="Like, the...like, the idea of, l.." id="q5_36" au="Super" cDate="2015-11-10T21:05:51" mDate="2016-02-01T21:20:04" loc="4 @ 189, 326 @ 189!"/>
+  <q name="Um, yeah, I mean, I think...like.." id="q5_37" au="Super" cDate="2015-11-10T21:06:49" mDate="2015-11-10T21:06:56" loc="4 @ 213, 542 @ 213!"/>
   <q name="I mean, part of it I think is .." id="q5_38" au="Super" cDate="2015-11-10T21:07:21" mDate="2015-11-10T21:07:21" loc="78 @ 217, 237 @ 217!"/>
   <q name="Like, when I give them a task .." id="q5_39" au="Super" cDate="2015-11-10T21:09:47" mDate="2016-02-01T20:55:25" loc="449 @ 217, 2693 @ 217!"/>
-  <q name="Um, I’d say learning, um, coul.." id="q5_40" au="Super" cDate="2015-11-10T21:12:18" mDate="2016-02-01T21:20:04" loc="4 @ 221, 690 @ 221!"/>
+  <q name="Um, I'd say learning, um, coul.." id="q5_40" au="Super" cDate="2015-11-10T21:12:18" mDate="2016-02-01T21:20:04" loc="4 @ 221, 690 @ 221!"/>
   <q name="Um, so, this is actually, like.." id="q5_41" au="Super" cDate="2015-11-10T21:14:59" mDate="2015-11-10T21:14:59" loc="4 @ 229, 656 @ 229!"/>
-  <q name="I had sort of…I came into the .." id="q5_42" au="Super" cDate="2015-11-10T21:15:22" mDate="2015-11-10T21:15:22" loc="111 @ 229, 512 @ 229!"/>
+  <q name="I had sort of...I came into the .." id="q5_42" au="Super" cDate="2015-11-10T21:15:22" mDate="2015-11-10T21:15:22" loc="111 @ 229, 512 @ 229!"/>
   <q name="Um, and so, I kind of came int.." id="q5_43" au="Super" cDate="2015-11-10T21:16:30" mDate="2015-11-10T21:16:30" loc="4 @ 233, 228 @ 233!"/>
-  <q name="[00:37:29] P: Um, and so, I ki.." id="q5_44" au="Super" cDate="2015-11-10T21:17:32" mDate="2015-11-10T21:20:57" loc="1 @ 232, 193 @ 241!"/>
+  <q name=" P: Um, and so, I ki.." id="q5_44" au="Super" cDate="2015-11-10T21:17:32" mDate="2015-11-10T21:20:57" loc="1 @ 232, 193 @ 241!"/>
   <q name="I basically, like, I started f.." id="q5_45" au="Super" cDate="2015-11-10T21:23:04" mDate="2016-02-01T21:08:05" loc="1351 @ 241, 242 @ 253!"/>
   <q name="I basically, like, I started f.." id="q5_46" au="Super" cDate="2015-11-10T21:24:15" mDate="2015-11-10T21:24:15" loc="1351 @ 241, 1563 @ 241!"/>
-  <q name="Um, and so, I kind of, like…af.." id="q5_47" au="Super" cDate="2015-11-10T21:25:01" mDate="2016-02-01T21:20:04" loc="53 @ 241, 811 @ 241!"/>
+  <q name="Um, and so, I kind of, like...af.." id="q5_47" au="Super" cDate="2015-11-10T21:25:01" mDate="2016-02-01T21:20:04" loc="53 @ 241, 811 @ 241!"/>
   <q name="Um, but really, where the lear.." id="q5_48" au="Super" cDate="2015-11-10T21:29:13" mDate="2016-02-01T21:20:04" loc="242 @ 257, 763 @ 257!"/>
-  <q name="Like, they’re going to do a pr.." id="q5_49" au="Super" cDate="2015-11-10T21:31:26" mDate="2015-11-10T21:31:26" loc="642 @ 257, 1071 @ 257!"/>
+  <q name="Like, they're going to do a pr.." id="q5_49" au="Super" cDate="2015-11-10T21:31:26" mDate="2015-11-10T21:31:26" loc="642 @ 257, 1071 @ 257!"/>
   <q name="Um, and then, even within, lik.." id="q5_50" au="Super" cDate="2015-11-10T21:32:05" mDate="2015-11-10T21:32:05" loc="1074 @ 257, 306 @ 261!"/>
   <q name="Um, because they really, like,.." id="q5_52" au="Super" cDate="2015-11-10T21:38:08" mDate="2015-11-10T21:38:08" loc="4 @ 265, 380 @ 265!"/>
-  <q name="And so, then it was just…it wa.." id="q5_53" au="Super" cDate="2015-11-10T21:39:42" mDate="2015-11-10T21:39:42" loc="770 @ 265, 1645 @ 265!"/>
+  <q name="And so, then it was just...it wa.." id="q5_53" au="Super" cDate="2015-11-10T21:39:42" mDate="2015-11-10T21:39:42" loc="770 @ 265, 1645 @ 265!"/>
   <q name="I guess, like, that whole, lik.." id="q5_54" au="Super" cDate="2015-11-10T21:44:24" mDate="2015-11-10T21:44:24" loc="717 @ 269, 1004 @ 269!"/>
   <q name="Like, I was very clear with st.." id="q5_55" au="Super" cDate="2015-11-10T21:47:10" mDate="2015-11-10T21:47:10" loc="3 @ 269, 631 @ 269!"/>
   <q name="Like, I was very clear with st.." id="q5_56" au="Super" cDate="2015-11-10T21:47:18" mDate="2015-11-10T21:47:18" loc="4 @ 269, 697 @ 269!"/>
   <q name="About the way that I learn? Um.." id="q5_57" au="Super" cDate="2015-11-10T21:47:53" mDate="2015-11-10T21:47:53" loc="4 @ 273, 226 @ 273!"/>
-  <q name="And in…and I guess, like, rela.." id="q5_59" au="Super" cDate="2015-11-10T21:50:52" mDate="2015-11-10T21:50:52" loc="4 @ 277, 63 @ 285!"/>
+  <q name="And in...and I guess, like, rela.." id="q5_59" au="Super" cDate="2015-11-10T21:50:52" mDate="2015-11-10T21:50:52" loc="4 @ 277, 63 @ 285!"/>
   <q name="Um, and so, that was kind of, .." id="q5_60" au="Super" cDate="2015-11-10T21:51:12" mDate="2015-11-10T21:51:12" loc="214 @ 281, 422 @ 281!"/>
-  <q name="It was, like, um…yeah, like, I.." id="q5_62" au="Super" cDate="2015-11-10T21:54:54" mDate="2016-02-01T20:47:03" loc="261 @ 297, 1141 @ 297!"/>
+  <q name="It was, like, um...yeah, like, I.." id="q5_62" au="Super" cDate="2015-11-10T21:54:54" mDate="2016-02-01T20:47:03" loc="261 @ 297, 1141 @ 297!"/>
   <q name="Um, I think I have pretty stro.." id="q5_63" au="Super" cDate="2015-11-10T21:58:12" mDate="2015-11-10T21:58:12" loc="4 @ 301, 444 @ 301!"/>
   <q name="in my program this past year a.." id="q5_64" au="Super" cDate="2015-11-10T21:59:16" mDate="2016-02-01T20:59:20" loc="464 @ 301, 1216 @ 301!"/>
   <q name="Um, I think I have pretty stro.." id="q5_65" au="Super" cDate="2015-11-10T22:00:33" mDate="2015-11-10T22:00:33" loc="4 @ 301, 1215 @ 301!"/>
-  <q name="I’m just going to, like, go th.." id="q5_66" au="Super" cDate="2015-11-12T19:36:38" mDate="2015-11-12T19:36:38" loc="230 @ 305, 350 @ 305!"/>
+  <q name="I'm just going to, like, go th.." id="q5_66" au="Super" cDate="2015-11-12T19:36:38" mDate="2015-11-12T19:36:38" loc="230 @ 305, 350 @ 305!"/>
   <q name="in terms of my learning as a t.." id="q5_68" au="Super" cDate="2015-11-12T19:37:36" mDate="2015-11-12T19:38:37" loc="691 @ 305, 86 @ 309!"/>
   <q name="I mean, for me, like, designin.." id="q5_69" au="Super" cDate="2015-11-12T19:40:16" mDate="2015-11-12T19:40:16" loc="63 @ 317, 1171 @ 317!"/>
   <q name="I also, like, did an OSS in so.." id="q5_70" au="Super" cDate="2015-11-12T19:40:31" mDate="2015-11-12T19:45:23" loc="925 @ 317, 1171 @ 317!"/>
-  <q name="Like, from what…it was, it was.." id="q5_71" au="Super" cDate="2015-11-12T19:48:35" mDate="2015-11-12T19:48:35" loc="196 @ 337, 565 @ 337!"/>
+  <q name="Like, from what...it was, it was.." id="q5_71" au="Super" cDate="2015-11-12T19:48:35" mDate="2015-11-12T19:48:35" loc="196 @ 337, 565 @ 337!"/>
   <q name="my cooperating teacher was def.." id="q5_72" au="Super" cDate="2015-11-12T19:49:13" mDate="2015-11-12T19:49:13" loc="395 @ 337, 564 @ 337!"/>
   <q name="And so, it was kind of, like, .." id="q5_73" au="Super" cDate="2015-11-12T19:50:16" mDate="2015-11-12T19:55:00" loc="4 @ 349, 442 @ 353!"/>
   <q name="ike, going in, like, I was def.." id="q5_74" au="Super" cDate="2015-11-12T19:55:19" mDate="2016-02-01T21:13:56" loc="68 @ 353, 442 @ 353!"/>
   <q name="Um, because, like, everything .." id="q5_75" au="Super" cDate="2015-11-12T19:56:04" mDate="2015-11-12T19:56:04" loc="3 @ 341, 148 @ 349!"/>
-  <q name="“And, like, I want to learn it.." id="q5_76" au="Super" cDate="2015-11-12T19:57:09" mDate="2015-11-12T19:57:09" loc="4 @ 353, 744 @ 353!"/>
+  <q name="'And, like, I want to learn it.." id="q5_76" au="Super" cDate="2015-11-12T19:57:09" mDate="2015-11-12T19:57:09" loc="4 @ 353, 744 @ 353!"/>
   <q name="when I had my cooperating teac.." id="q5_77" au="Super" cDate="2015-11-12T19:57:49" mDate="2016-02-01T21:20:04" loc="345 @ 353, 673 @ 353!"/>
   <q name="I started thinking that I was .." id="q5_78" au="Super" cDate="2015-11-12T20:00:13" mDate="2015-11-12T20:00:13" loc="160 @ 369, 351 @ 369!"/>
   <q name="Like, as a student you always .." id="q5_79" au="Super" cDate="2015-11-12T20:03:24" mDate="2016-02-01T21:20:04" loc="90 @ 361, 257 @ 361!"/>
   <q name="I started, like, thinking abou.." id="q5_80" au="Super" cDate="2015-11-12T20:15:29" mDate="2016-02-01T21:20:04" loc="343 @ 369, 164 @ 377!"/>
   <q name="Do you think you started makin.." id="q5_81" au="Super" cDate="2015-11-12T20:33:50" mDate="2016-02-01T21:20:04" loc="4 @ 379, 226 @ 389!"/>
   <q name="I was nervous about whether I .." id="q5_82" au="Super" cDate="2015-11-12T20:34:04" mDate="2016-02-01T21:13:56" loc="129 @ 385, 323 @ 385!"/>
-  <q name="Um, so, like, I don’t think I .." id="q5_83" au="Super" cDate="2015-11-12T20:34:51" mDate="2015-11-12T20:34:51" loc="4 @ 389, 537 @ 389!"/>
+  <q name="Um, so, like, I don't think I .." id="q5_83" au="Super" cDate="2015-11-12T20:34:51" mDate="2015-11-12T20:34:51" loc="4 @ 389, 537 @ 389!"/>
   <q name="Mark has this way of, like, so.." id="q5_84" au="Super" cDate="2015-11-12T20:35:39" mDate="2016-02-01T21:20:04" loc="69 @ 393, 202 @ 397!"/>
   <q name="mechanics for him, like, watch.." id="q5_85" au="Super" cDate="2015-11-12T20:36:28" mDate="2015-11-12T20:36:28" loc="186 @ 393, 1042 @ 393!"/>
   <q name="students would come to me want.." id="q5_87" au="Super" cDate="2015-11-12T20:43:40" mDate="2015-11-12T20:43:41" loc="1402 @ 393, 113 @ 397!"/>
   <q name="Um, so, I kind of, like, saw M.." id="q5_88" au="Super" cDate="2015-11-12T20:43:56" mDate="2015-11-12T20:43:56" loc="114 @ 397, 202 @ 397!"/>
-  <q name="Um, I think it could kind of…d.." id="q5_89" au="Super" cDate="2015-11-12T20:49:23" mDate="2016-02-01T21:20:04" loc="4 @ 405, 72 @ 409!"/>
+  <q name="Um, I think it could kind of...d.." id="q5_89" au="Super" cDate="2015-11-12T20:49:23" mDate="2016-02-01T21:20:04" loc="4 @ 405, 72 @ 409!"/>
   <q name="Like, I would get more upset b.." id="q5_91" au="Super" cDate="2015-11-12T20:51:19" mDate="2016-02-01T20:59:20" loc="288 @ 405, 532 @ 405!"/>
   <q name="I would see the things that sh.." id="q5_92" au="Super" cDate="2015-11-12T20:52:19" mDate="2016-02-01T21:20:04" loc="106 @ 409, 670 @ 409!"/>
-  <q name="that it wasn’t just about, lik.." id="q5_93" au="Super" cDate="2015-11-12T20:57:51" mDate="2015-11-12T20:57:51" loc="292 @ 409, 453 @ 417!"/>
-  <q name="Um, I think…so, the research I.." id="q5_94" au="Super" cDate="2015-11-16T17:17:21" mDate="2015-11-16T17:17:21" loc="4 @ 429, 389 @ 429!"/>
+  <q name="that it wasn't just about, lik.." id="q5_93" au="Super" cDate="2015-11-12T20:57:51" mDate="2015-11-12T20:57:51" loc="292 @ 409, 453 @ 417!"/>
+  <q name="Um, I think...so, the research I.." id="q5_94" au="Super" cDate="2015-11-16T17:17:21" mDate="2015-11-16T17:17:21" loc="4 @ 429, 389 @ 429!"/>
   <q name="Like, try to find, like, a mid.." id="q5_95" au="Super" cDate="2015-11-16T17:19:39" mDate="2015-11-16T17:19:39" loc="443 @ 433, 1087 @ 433!"/>
-  <q name="Um, so, just, like, the whole….." id="q5_96" au="Super" cDate="2015-11-16T17:19:53" mDate="2015-11-16T17:19:53" loc="4 @ 433, 1087 @ 433!"/>
-  <q name="Um, so, just, like, the whole….." id="q5_97" au="Super" cDate="2015-11-16T17:20:28" mDate="2015-11-16T17:20:28" loc="4 @ 433, 440 @ 433!"/>
-  <q name="Oh, man! [Laughs] Um, um, I th.." id="q5_98" au="Super" cDate="2015-11-16T17:21:25" mDate="2015-11-16T17:21:25" loc="4 @ 449, 252 @ 449!"/>
+  <q name="Um, so, just, like, the whole....." id="q5_96" au="Super" cDate="2015-11-16T17:19:53" mDate="2015-11-16T17:19:53" loc="4 @ 433, 1087 @ 433!"/>
+  <q name="Um, so, just, like, the whole....." id="q5_97" au="Super" cDate="2015-11-16T17:20:28" mDate="2015-11-16T17:20:28" loc="4 @ 433, 440 @ 433!"/>
+  <q name="Oh, man! *laughs* Um, um, I th.." id="q5_98" au="Super" cDate="2015-11-16T17:21:25" mDate="2015-11-16T17:21:25" loc="4 @ 449, 252 @ 449!"/>
   <q name="He told me to, like, come to o.." id="q5_99" au="Super" cDate="2015-11-16T17:24:52" mDate="2015-11-16T17:26:09" loc="47 @ 465, 611 @ 465!"/>
-  <q name="Um, he…it was in my sophomore .." id="q5_100" au="Super" cDate="2015-11-16T17:25:47" mDate="2015-11-16T17:25:47" loc="13 @ 461, 403 @ 461!"/>
+  <q name="Um, he...it was in my sophomore .." id="q5_100" au="Super" cDate="2015-11-16T17:25:47" mDate="2015-11-16T17:25:47" loc="13 @ 461, 403 @ 461!"/>
   <q name="Um, I had, like, one experienc.." id="q5_101" au="Super" cDate="2015-11-16T17:33:52" mDate="2016-02-01T20:59:20" loc="4 @ 453, 183 @ 509!"/>
   <q name="Like, I had expected it to be .." id="q5_102" au="Super" cDate="2015-11-16T17:37:19" mDate="2015-11-16T17:37:19" loc="4 @ 477, 473 @ 477!"/>
   <q name="When, like, in reality what he.." id="q5_103" au="Super" cDate="2015-11-16T17:38:47" mDate="2015-11-16T17:40:06" loc="4 @ 481, 636 @ 481!"/>
   <q name="Um, I interpreted it as, like,.." id="q5_104" au="Super" cDate="2015-11-16T17:39:25" mDate="2015-11-16T17:39:25" loc="219 @ 481, 467 @ 481!"/>
-  <q name="And that was, like…it was alre.." id="q5_105" au="Super" cDate="2015-11-16T17:39:54" mDate="2015-11-16T17:39:54" loc="470 @ 481, 636 @ 481!"/>
+  <q name="And that was, like...it was alre.." id="q5_105" au="Super" cDate="2015-11-16T17:39:54" mDate="2015-11-16T17:39:54" loc="470 @ 481, 636 @ 481!"/>
   <q name="P: I got the impression that i.." id="q5_106" au="Super" cDate="2015-11-16T17:42:33" mDate="2015-11-16T17:42:33" loc="1 @ 493, 160 @ 501!"/>
-  <q name="But, like, it, it’s, like, the.." id="q5_107" au="Super" cDate="2015-11-16T17:44:32" mDate="2015-11-16T17:44:32" loc="4 @ 513, 79 @ 525!"/>
+  <q name="But, like, it, it's, like, the.." id="q5_107" au="Super" cDate="2015-11-16T17:44:32" mDate="2015-11-16T17:44:32" loc="4 @ 513, 79 @ 525!"/>
   <q name="Like, I think, I think that it.." id="q5_108" au="Super" cDate="2015-11-16T17:45:14" mDate="2015-11-16T17:46:21" loc="73 @ 517, 79 @ 525!"/>
   <q name="the vast majority of the time .." id="q5_109" au="Super" cDate="2015-11-16T17:46:35" mDate="2015-11-16T17:46:35" loc="420 @ 517, 650 @ 517!"/>
-  <q name="And, like, I can’t say that th.." id="q5_110" au="Super" cDate="2015-11-16T17:46:54" mDate="2015-11-16T17:46:54" loc="4 @ 521, 217 @ 521!"/>
+  <q name="And, like, I can't say that th.." id="q5_110" au="Super" cDate="2015-11-16T17:46:54" mDate="2015-11-16T17:46:54" loc="4 @ 521, 217 @ 521!"/>
   <q name="Like, I, like, I had seen the .." id="q5_111" au="Super" cDate="2015-11-16T17:48:36" mDate="2015-11-16T17:48:36" loc="4 @ 533, 403 @ 533!"/>
   <q name="Um, and then, my parents were,.." id="q5_112" au="Super" cDate="2015-11-16T17:48:55" mDate="2015-11-16T17:48:55" loc="4 @ 537, 146 @ 537!"/>
   <q name="Um, and then, my parents were,.." id="q5_113" au="Super" cDate="2015-11-16T17:49:12" mDate="2015-11-16T17:49:12" loc="4 @ 537, 169 @ 537!"/>
@@ -430,10 +430,10 @@
   <q name="he did a lot of stuff with, li.." id="q5_119" au="Super" cDate="2015-11-16T17:55:00" mDate="2015-11-16T17:55:00" loc="648 @ 561, 817 @ 561!"/>
   <q name="Um, I was shadowing this high .." id="q5_120" au="Super" cDate="2015-11-16T17:56:19" mDate="2015-11-16T17:56:19" loc="72 @ 561, 396 @ 561!"/>
   <q name="Um, and the whole rest of the .." id="q5_121" au="Super" cDate="2015-11-16T17:56:51" mDate="2015-11-16T17:57:57" loc="4 @ 565, 578 @ 565!"/>
-  <q name="And I think…so, that was kind .." id="q5_122" au="Super" cDate="2015-11-16T17:58:45" mDate="2015-11-16T17:58:53" loc="581 @ 565, 376 @ 573!"/>
+  <q name="And I think...so, that was kind .." id="q5_122" au="Super" cDate="2015-11-16T17:58:45" mDate="2015-11-16T17:58:53" loc="581 @ 565, 376 @ 573!"/>
   <q name="Um, and even though I knew I l.." id="q5_123" au="Super" cDate="2015-11-16T17:59:34" mDate="2016-02-01T20:49:44" loc="1265 @ 565, 376 @ 573!"/>
-  <q name="Which is…I guess that’s kind o.." id="q5_124" au="Super" cDate="2015-11-16T17:59:57" mDate="2015-11-16T18:01:22" loc="4 @ 573, 376 @ 573!"/>
-  <q name="“Yes, like, it is…like, this i.." id="q5_125" au="Super" cDate="2015-11-16T18:01:46" mDate="2015-11-16T18:01:47" loc="212 @ 569, 357 @ 569!"/>
+  <q name="Which is...I guess that's kind o.." id="q5_124" au="Super" cDate="2015-11-16T17:59:57" mDate="2015-11-16T18:01:22" loc="4 @ 573, 376 @ 573!"/>
+  <q name="'Yes, like, it is...like, this i.." id="q5_125" au="Super" cDate="2015-11-16T18:01:46" mDate="2015-11-16T18:01:47" loc="212 @ 569, 357 @ 569!"/>
   <q name="Um, and even though I knew I l.." id="q5_126" au="Super" cDate="2015-11-16T18:02:20" mDate="2015-11-16T18:02:20" loc="1265 @ 565, 36 @ 569!"/>
   <q name="Um, that was, like, the first .." id="q5_127" au="Super" cDate="2015-12-10T20:55:23" mDate="2015-12-10T20:55:23" loc="1164 @ 61, 1504 @ 61!"/>
  </quotations>
@@ -459,7 +459,7 @@
   <q name="I love teaching kids, um, and .." id="q6_18" au="Super" cDate="2015-11-17T20:44:04" mDate="2015-11-17T20:44:04" loc="284 @ 140, 447 @ 140!"/>
   <q name="I have the funniest resumes. I.." id="q6_19" au="Super" cDate="2015-11-17T20:44:30" mDate="2015-11-17T20:44:30" loc="135 @ 140, 447 @ 140!"/>
   <q name="Um, I figured, why not, even t.." id="q6_20" au="Super" cDate="2015-11-17T20:49:47" mDate="2015-11-17T20:49:47" loc="537 @ 36, 657 @ 36!"/>
-  <q name="&quot;You know? If I break all the .." id="q6_21" au="Super" cDate="2015-11-17T20:50:15" mDate="2015-11-17T20:50:15" loc="677 @ 142, 800 @ 142!"/>
+  <q name="You know? If I break all the .." id="q6_21" au="Super" cDate="2015-11-17T20:50:15" mDate="2015-11-17T20:50:15" loc="677 @ 142, 800 @ 142!"/>
   <q name="But I also found that a couple.." id="q6_22" au="Super" cDate="2015-11-17T20:54:31" mDate="2016-02-01T20:59:20" loc="286 @ 152, 712 @ 152!"/>
   <q name="Okay. I want to go back to som.." id="q6_23" au="Super" cDate="2015-11-17T20:56:04" mDate="2015-11-17T20:56:04" loc="1 @ 146, 904 @ 152!"/>
   <q name="Um, so, I will be going to jus.." id="q6_24" au="Super" cDate="2015-11-17T20:58:10" mDate="2015-11-17T20:58:10" loc="1 @ 168, 307 @ 168!"/>
@@ -474,15 +474,15 @@
   <q name="Um, maybe changed my definitio.." id="q6_34" au="Super" cDate="2015-11-17T21:05:42" mDate="2015-11-17T21:05:42" loc="1 @ 202, 444 @ 202!"/>
   <q name="Um, we pretty much all, cumula.." id="q6_37" au="Super" cDate="2015-11-17T21:12:43" mDate="2015-11-17T21:12:43" loc="351 @ 214, 633 @ 214!"/>
   <q name="She came in near the end of th.." id="q6_38" au="Super" cDate="2015-11-17T21:13:15" mDate="2016-02-01T21:13:56" loc="360 @ 212, 721 @ 212!"/>
-  <q name="I mean, we…I learned an incred.." id="q6_39" au="Super" cDate="2015-11-17T21:19:20" mDate="2015-11-17T21:19:20" loc="1 @ 221, 347 @ 221!"/>
-  <q name="I mean, we…I learned an incred.." id="q6_40" au="Super" cDate="2015-11-17T21:22:11" mDate="2016-02-01T20:47:08" loc="1 @ 221, 348 @ 221!"/>
+  <q name="I mean, we...I learned an incred.." id="q6_39" au="Super" cDate="2015-11-17T21:19:20" mDate="2015-11-17T21:19:20" loc="1 @ 221, 347 @ 221!"/>
+  <q name="I mean, we...I learned an incred.." id="q6_40" au="Super" cDate="2015-11-17T21:22:11" mDate="2016-02-01T20:47:08" loc="1 @ 221, 348 @ 221!"/>
   <q name="I think a lot of it is about b.." id="q6_41" au="Super" cDate="2015-11-17T21:23:35" mDate="2015-11-17T21:23:35" loc="277 @ 229, 563 @ 229!"/>
   <q name="Hmm. I think, to be a teacher,.." id="q6_42" au="Super" cDate="2015-11-17T21:23:50" mDate="2016-02-01T21:20:04" loc="1 @ 229, 562 @ 229!"/>
   <q name="Um, I feel like a teacher all .." id="q6_43" au="Super" cDate="2015-11-17T21:24:04" mDate="2015-11-17T21:24:04" loc="1 @ 237, 41 @ 237!"/>
   <q name="Um, like, let's say yesterday;.." id="q6_44" au="Super" cDate="2015-11-17T21:24:30" mDate="2015-11-17T21:24:31" loc="42 @ 237, 153 @ 237!"/>
   <q name="Um, like, let's say yesterday;.." id="q6_45" au="Super" cDate="2015-11-17T21:25:16" mDate="2015-11-17T21:25:16" loc="42 @ 237, 618 @ 237!"/>
   <q name="I was in pediatric clinic yest.." id="q6_46" au="Super" cDate="2015-11-17T21:30:19" mDate="2015-11-17T21:30:19" loc="35 @ 239, 490 @ 239!"/>
-  <q name="Well, some of it is being…I al.." id="q6_47" au="Super" cDate="2015-11-17T21:31:28" mDate="2016-02-01T21:20:04" loc="1 @ 247, 936 @ 247!"/>
+  <q name="Well, some of it is being...I al.." id="q6_47" au="Super" cDate="2015-11-17T21:31:28" mDate="2016-02-01T21:20:04" loc="1 @ 247, 936 @ 247!"/>
   <q name="So it's very judgment-based on.." id="q6_48" au="Super" cDate="2015-11-17T21:32:39" mDate="2015-11-17T21:32:39" loc="768 @ 247, 937 @ 247!"/>
   <q name="For this year, actually, I am .." id="q6_49" au="Super" cDate="2015-11-17T21:35:26" mDate="2015-11-17T21:35:26" loc="23 @ 272, 109 @ 272!"/>
   <q name="For this year, actually, I am .." id="q6_50" au="Super" cDate="2015-11-17T21:35:51" mDate="2015-11-17T21:35:51" loc="22 @ 272, 804 @ 274!"/>
@@ -491,7 +491,7 @@
   <q name="And that's what we did every w.." id="q6_55" au="Super" cDate="2015-11-17T21:41:33" mDate="2015-11-17T21:41:33" loc="1005 @ 292, 1237 @ 292!"/>
   <q name="And, at the time I realized th.." id="q6_56" au="Super" cDate="2015-11-17T21:42:34" mDate="2015-11-17T21:42:34" loc="1 @ 294, 535 @ 294!"/>
   <q name="I think, I think during, uh, t.." id="q6_57" au="Super" cDate="2015-11-17T21:45:00" mDate="2015-11-17T21:45:00" loc="7 @ 302, 537 @ 302!"/>
-  <q name="Hmm. So, I think…I have some…i.." id="q6_59" au="Super" cDate="2015-11-17T21:47:11" mDate="2015-11-17T21:47:11" loc="1 @ 310, 638 @ 310!"/>
+  <q name="Hmm. So, I think...I have some...i.." id="q6_59" au="Super" cDate="2015-11-17T21:47:11" mDate="2015-11-17T21:47:11" loc="1 @ 310, 638 @ 310!"/>
   <q name="If it's a more traditional, le.." id="q6_60" au="Super" cDate="2015-11-17T21:47:51" mDate="2016-02-01T21:20:04" loc="424 @ 310, 983 @ 310!"/>
   <q name="You know, if it's out of growi.." id="q6_61" au="Super" cDate="2015-11-17T21:49:06" mDate="2015-11-17T21:49:06" loc="58 @ 310, 422 @ 310!"/>
   <q name="For instance, we were supposed.." id="q6_62" au="Super" cDate="2015-11-17T21:50:53" mDate="2016-02-01T21:20:04" loc="98 @ 318, 807 @ 320!"/>
@@ -503,29 +503,29 @@
   <q name="And where there were courses t.." id="q6_70" au="Super" cDate="2015-11-19T19:35:45" mDate="2015-11-19T19:35:45" loc="420 @ 336, 682 @ 336!"/>
   <q name="Pre-college career was definit.." id="q6_71" au="Super" cDate="2015-11-19T19:38:07" mDate="2015-11-19T19:38:07" loc="15 @ 349, 255 @ 349!"/>
   <q name="Um, so after Olin, I sort of k.." id="q6_72" au="Super" cDate="2015-11-19T19:39:37" mDate="2015-11-19T19:40:49" loc="258 @ 349, 606 @ 349!"/>
-  <q name="I think probable…so that was a.." id="q6_73" au="Super" cDate="2015-11-19T19:48:51" mDate="2015-11-19T19:48:51" loc="1 @ 361, 688 @ 361!"/>
+  <q name="I think probable...so that was a.." id="q6_73" au="Super" cDate="2015-11-19T19:48:51" mDate="2015-11-19T19:48:51" loc="1 @ 361, 688 @ 361!"/>
   <q name="Hmm. Um, so I think a particul.." id="q6_74" au="Super" cDate="2015-11-19T19:49:11" mDate="2015-11-19T19:49:11" loc="1 @ 357, 667 @ 359!"/>
   <q name="Um, and then probably the cool.." id="q6_76" au="Super" cDate="2015-11-19T19:51:50" mDate="2015-11-19T19:51:50" loc="145 @ 361, 688 @ 361!"/>
   <q name="So, I went and got a bunch of .." id="q6_77" au="Super" cDate="2015-11-19T19:54:03" mDate="2015-11-19T19:54:03" loc="625 @ 357, 858 @ 357!"/>
   <q name="So, we had kids all the way ac.." id="q6_78" au="Super" cDate="2015-11-19T19:55:04" mDate="2015-11-19T19:55:04" loc="102 @ 357, 391 @ 357!"/>
-  <q name="I see it…well, I mean, to star.." id="q6_79" au="Super" cDate="2015-11-19T19:55:24" mDate="2015-11-19T19:55:24" loc="1 @ 369, 775 @ 369!"/>
-  <q name="Um, but I think we also…they w.." id="q6_80" au="Super" cDate="2015-11-19T20:10:33" mDate="2016-02-01T20:57:34" loc="272 @ 369, 665 @ 369!"/>
+  <q name="I see it...well, I mean, to star.." id="q6_79" au="Super" cDate="2015-11-19T19:55:24" mDate="2015-11-19T19:55:24" loc="1 @ 369, 775 @ 369!"/>
+  <q name="Um, but I think we also...they w.." id="q6_80" au="Super" cDate="2015-11-19T20:10:33" mDate="2016-02-01T20:57:34" loc="272 @ 369, 665 @ 369!"/>
   <q name="Um, and I think at the end the.." id="q6_81" au="Super" cDate="2015-11-19T20:11:22" mDate="2015-11-19T20:11:22" loc="668 @ 369, 775 @ 369!"/>
   <q name="Um, so I definitely had no ide.." id="q6_82" au="Super" cDate="2015-11-19T20:15:46" mDate="2015-11-19T20:15:46" loc="1 @ 377, 246 @ 377!"/>
   <q name="Um, so I definitely had no ide.." id="q6_84" au="Super" cDate="2015-11-19T20:17:49" mDate="2016-02-01T20:49:44" loc="1 @ 377, 1226 @ 377!"/>
   <q name="Um, I think you can't go to Ol.." id="q6_85" au="Super" cDate="2015-11-19T20:18:07" mDate="2015-11-19T20:18:07" loc="118 @ 377, 425 @ 377!"/>
   <q name="Um, so I think, by the end of .." id="q6_86" au="Super" cDate="2015-11-19T20:18:44" mDate="2015-11-19T20:18:45" loc="932 @ 377, 1227 @ 377!"/>
-  <q name="Um, let's see. Not…not specifi.." id="q6_87" au="Super" cDate="2015-11-19T20:25:12" mDate="2016-02-01T21:20:04" loc="1 @ 393, 496 @ 393!"/>
+  <q name="Um, let's see. Not...not specifi.." id="q6_87" au="Super" cDate="2015-11-19T20:25:12" mDate="2016-02-01T21:20:04" loc="1 @ 393, 496 @ 393!"/>
   <q name="I think there are days, very h.." id="q6_88" au="Super" cDate="2015-11-19T20:28:24" mDate="2015-11-19T20:28:24" loc="1 @ 409, 1007 @ 409!"/>
   <q name="Because I like teaching, I wou.." id="q6_89" au="Super" cDate="2015-11-19T20:28:34" mDate="2015-11-19T20:28:35" loc="247 @ 409, 1007 @ 409!"/>
   <q name="nd basically any tertiary medi.." id="q6_90" au="Super" cDate="2015-11-19T20:29:41" mDate="2016-02-01T21:20:04" loc="387 @ 409, 850 @ 409!"/>
   <q name="Um, well, I enjoy it, but also.." id="q6_91" au="Super" cDate="2015-11-19T20:30:51" mDate="2015-11-19T20:30:59" loc="1 @ 416, 500 @ 416!"/>
-  <q name="Um, hmm. Well, it all…it depen.." id="q6_93" au="Super" cDate="2015-11-19T20:36:36" mDate="2016-02-01T20:57:34" loc="1 @ 424, 533 @ 426!"/>
+  <q name="Um, hmm. Well, it all...it depen.." id="q6_93" au="Super" cDate="2015-11-19T20:36:36" mDate="2016-02-01T20:57:34" loc="1 @ 424, 533 @ 426!"/>
   <q name="And I like being good at it, a.." id="q6_94" au="Super" cDate="2015-11-19T20:41:42" mDate="2015-11-19T20:41:42" loc="473 @ 424, 534 @ 426!"/>
   <q name="I think I was a lot less aware.." id="q6_95" au="Super" cDate="2015-11-19T20:43:20" mDate="2015-11-19T20:43:20" loc="1 @ 443, 312 @ 451!"/>
   <q name="I think I was a lot less aware.." id="q6_96" au="Super" cDate="2015-11-19T20:44:00" mDate="2015-11-19T20:44:00" loc="1 @ 443, 173 @ 443!"/>
   <q name="I remember very clearly someti.." id="q6_97" au="Super" cDate="2015-11-19T20:44:54" mDate="2015-11-19T20:44:54" loc="176 @ 443, 769 @ 443!"/>
-  <q name="Well, I think we were all…we w.." id="q6_98" au="Super" cDate="2015-11-19T20:45:36" mDate="2016-02-01T21:13:56" loc="1 @ 451, 312 @ 451!"/>
+  <q name="Well, I think we were all...we w.." id="q6_98" au="Super" cDate="2015-11-19T20:45:36" mDate="2016-02-01T21:13:56" loc="1 @ 451, 312 @ 451!"/>
   <q name="Um, well I certainly knew it w.." id="q6_99" au="Super" cDate="2015-11-19T20:48:50" mDate="2015-11-19T20:48:50" loc="1 @ 459, 621 @ 459!"/>
   <q name="I think it, it struck me a lit.." id="q6_100" au="Super" cDate="2015-11-19T20:51:48" mDate="2015-11-19T20:53:19" loc="1 @ 461, 840 @ 461!"/>
   <q name="Uh, they were always the very .." id="q6_101" au="Super" cDate="2015-11-19T20:53:53" mDate="2016-02-01T21:20:04" loc="1 @ 469, 495 @ 469!"/>
@@ -550,14 +550,14 @@
   <q name="Hmm. Um, Candidates Weekend, b.." id="q7_8" au="Super" cDate="2015-11-28T21:42:46" mDate="2015-11-29T19:09:29" loc="4 @ 45, 487 @ 45!"/>
   <q name="Um, I just sort of sat down in.." id="q7_9" au="Super" cDate="2015-11-28T21:43:20" mDate="2015-11-29T19:20:46" loc="225 @ 61, 1212 @ 61!"/>
   <q name="I really like the, uh, sort of.." id="q7_10" au="Super" cDate="2015-11-28T21:44:18" mDate="2015-11-28T21:44:18" loc="83 @ 69, 491 @ 69!"/>
-  <q name="Hmm, hmm. Um, let’s see, I imm.." id="q7_11" au="Super" cDate="2015-11-28T21:44:53" mDate="2015-11-28T21:45:16" loc="4 @ 73, 2536 @ 73!"/>
+  <q name="Hmm, hmm. Um, let's see, I imm.." id="q7_11" au="Super" cDate="2015-11-28T21:44:53" mDate="2015-11-28T21:45:16" loc="4 @ 73, 2536 @ 73!"/>
   <q name="Uh, and you asked, uh, if I ev.." id="q7_12" au="Super" cDate="2015-11-28T21:46:16" mDate="2015-11-28T21:46:16" loc="11 @ 81, 442 @ 81!"/>
   <q name="Um, they were looking for some.." id="q7_13" au="Super" cDate="2015-11-28T21:47:26" mDate="2016-02-01T21:20:04" loc="1127 @ 85, 1633 @ 85!"/>
-  <q name="it didn’t require any sort of .." id="q7_14" au="Super" cDate="2015-11-28T21:47:43" mDate="2015-11-28T21:47:43" loc="1748 @ 85, 2088 @ 85!"/>
+  <q name="it didn't require any sort of .." id="q7_14" au="Super" cDate="2015-11-28T21:47:43" mDate="2015-11-28T21:47:43" loc="1748 @ 85, 2088 @ 85!"/>
   <q name="Hmm. It means a lot of differe.." id="q7_15" au="Super" cDate="2015-11-28T21:48:02" mDate="2016-02-01T21:20:04" loc="4 @ 89, 1618 @ 89!"/>
   <q name="I think success with teaching .." id="q7_16" au="Super" cDate="2015-11-28T21:48:17" mDate="2015-11-29T19:44:59" loc="29 @ 85, 165 @ 85!"/>
   <q name="I found that teaching job, was.." id="q7_17" au="Super" cDate="2015-11-28T21:49:17" mDate="2015-11-28T21:49:17" loc="494 @ 85, 1124 @ 85!"/>
-  <q name="Oh man, um, I mean there’s job.." id="q7_18" au="Super" cDate="2015-11-28T21:51:20" mDate="2016-02-01T21:20:04" loc="4 @ 92, 218 @ 92!"/>
+  <q name="Oh man, um, I mean there's job.." id="q7_18" au="Super" cDate="2015-11-28T21:51:20" mDate="2016-02-01T21:20:04" loc="4 @ 92, 218 @ 92!"/>
   <q name="The co-workers, and the superv.." id="q7_19" au="Super" cDate="2015-11-28T21:51:29" mDate="2015-11-28T21:51:30" loc="15 @ 96, 176 @ 96!"/>
   <q name="The co-workers, and the superv.." id="q7_20" au="Super" cDate="2015-11-28T21:51:44" mDate="2016-02-01T21:20:04" loc="15 @ 96, 178 @ 96!"/>
   <q name="something that changed that, I.." id="q7_22" au="Super" cDate="2015-11-28T21:52:51" mDate="2015-11-28T21:52:52" loc="166 @ 100, 615 @ 100!"/>
@@ -567,10 +567,10 @@
   <q name="was realizing that I was sort .." id="q7_26" au="Super" cDate="2015-11-28T21:59:46" mDate="2015-11-28T21:59:46" loc="292 @ 104, 607 @ 104!"/>
   <q name="Um, like material and structur.." id="q7_27" au="Super" cDate="2015-11-28T22:00:48" mDate="2015-11-28T22:00:48" loc="98 @ 119, 854 @ 119!"/>
   <q name="I was doing some prerequisite .." id="q7_28" au="Super" cDate="2015-11-28T22:01:31" mDate="2015-11-29T20:17:18" loc="152 @ 123, 921 @ 123!"/>
-  <q name="I didn’t do very well on the f.." id="q7_29" au="Super" cDate="2015-11-28T22:01:54" mDate="2015-11-28T22:01:54" loc="383 @ 123, 921 @ 123!"/>
+  <q name="I didn't do very well on the f.." id="q7_29" au="Super" cDate="2015-11-28T22:01:54" mDate="2015-11-28T22:01:54" loc="383 @ 123, 921 @ 123!"/>
   <q name="That everybody should be learn.." id="q7_30" au="Super" cDate="2015-11-28T22:02:11" mDate="2015-11-28T22:02:11" loc="4 @ 127, 38 @ 127!"/>
   <q name="Yeah. Um, but yeah, some sort .." id="q7_31" au="Super" cDate="2015-11-28T22:02:29" mDate="2015-11-28T22:02:29" loc="4 @ 131, 1401 @ 131!"/>
-  <q name="I guess I’ll have more of an e.." id="q7_32" au="Super" cDate="2015-11-28T22:02:49" mDate="2015-11-29T20:20:01" loc="289 @ 131, 440 @ 131!"/>
+  <q name="I guess I'll have more of an e.." id="q7_32" au="Super" cDate="2015-11-28T22:02:49" mDate="2015-11-29T20:20:01" loc="289 @ 131, 440 @ 131!"/>
   <q name="it also sort of underscores th.." id="q7_33" au="Super" cDate="2015-11-28T22:03:33" mDate="2016-02-01T21:20:04" loc="446 @ 131, 1189 @ 131!"/>
   <q name="t was an insane amount of work.." id="q7_34" au="Super" cDate="2015-11-28T22:04:53" mDate="2015-11-28T22:04:53" loc="622 @ 135, 758 @ 135!"/>
   <q name="even while at Olin, in freshma.." id="q7_35" au="Super" cDate="2015-11-28T22:05:26" mDate="2015-11-28T22:05:26" loc="866 @ 135, 1762 @ 135!"/>
@@ -579,16 +579,16 @@
   <q name="I did get some recommendations.." id="q7_38" au="Super" cDate="2015-11-28T22:07:02" mDate="2016-02-01T21:20:04" loc="460 @ 139, 635 @ 139!"/>
   <q name="I was just making it up, and d.." id="q7_39" au="Super" cDate="2015-11-28T22:07:37" mDate="2015-11-28T22:07:37" loc="822 @ 139, 2122 @ 139!"/>
   <q name="In that particular case, uh, l.." id="q7_40" au="Super" cDate="2015-11-28T22:11:48" mDate="2016-02-01T21:08:05" loc="1954 @ 146, 2417 @ 146!"/>
-  <q name="It’s just new everyday, it’s n.." id="q7_41" au="Super" cDate="2015-11-28T22:11:57" mDate="2016-02-21T15:04:25" loc="4 @ 146, 2417 @ 146!"/>
-  <q name="It’s just new everyday, it’s n.." id="q7_42" au="Super" cDate="2015-11-28T22:12:31" mDate="2016-02-01T21:20:04" loc="4 @ 146, 619 @ 146!"/>
+  <q name="It's just new everyday, it's n.." id="q7_41" au="Super" cDate="2015-11-28T22:11:57" mDate="2016-02-21T15:04:25" loc="4 @ 146, 2417 @ 146!"/>
+  <q name="It's just new everyday, it's n.." id="q7_42" au="Super" cDate="2015-11-28T22:12:31" mDate="2016-02-01T21:20:04" loc="4 @ 146, 619 @ 146!"/>
   <q name="it was also probably really im.." id="q7_43" au="Super" cDate="2015-11-28T22:13:13" mDate="2015-11-28T22:13:13" loc="852 @ 150, 1173 @ 150!"/>
-  <q name="Um, just I think it’s healthie.." id="q7_44" au="Super" cDate="2015-11-28T22:13:47" mDate="2016-02-01T20:49:44" loc="4 @ 161, 432 @ 161!"/>
+  <q name="Um, just I think it's healthie.." id="q7_44" au="Super" cDate="2015-11-28T22:13:47" mDate="2016-02-01T20:49:44" loc="4 @ 161, 432 @ 161!"/>
   <q name="Um, yeah. Just people have rel.." id="q7_45" au="Super" cDate="2015-11-28T22:14:21" mDate="2015-12-01T21:05:40" loc="4 @ 165, 928 @ 165!"/>
   <q name="Um, and then, uh, as school we.." id="q7_46" au="Super" cDate="2015-11-28T22:15:32" mDate="2015-11-28T22:15:32" loc="766 @ 197, 1178 @ 197!"/>
-  <q name="Um, and I also missed…some of .." id="q7_47" au="Super" cDate="2015-11-28T22:17:02" mDate="2016-02-01T20:47:08" loc="1852 @ 197, 2954 @ 197!"/>
+  <q name="Um, and I also missed...some of .." id="q7_47" au="Super" cDate="2015-11-28T22:17:02" mDate="2016-02-01T20:47:08" loc="1852 @ 197, 2954 @ 197!"/>
   <q name="That was the end of that, and .." id="q7_48" au="Super" cDate="2015-11-28T22:17:23" mDate="2015-12-01T21:29:07" loc="3184 @ 197, 3407 @ 197!"/>
-  <q name="Um, so, it’s all new things to.." id="q7_51" au="Super" cDate="2015-11-28T22:18:35" mDate="2015-11-28T22:18:35" loc="4398 @ 197, 4619 @ 197!"/>
-  <q name="Hmm. Um, well, my dad’s an eng.." id="q7_52" au="Super" cDate="2015-11-29T18:59:55" mDate="2015-11-29T19:00:09" loc="4 @ 29, 362 @ 29!"/>
+  <q name="Um, so, it's all new things to.." id="q7_51" au="Super" cDate="2015-11-28T22:18:35" mDate="2015-11-28T22:18:35" loc="4398 @ 197, 4619 @ 197!"/>
+  <q name="Hmm. Um, well, my dad's an eng.." id="q7_52" au="Super" cDate="2015-11-29T18:59:55" mDate="2015-11-29T19:00:09" loc="4 @ 29, 362 @ 29!"/>
   <q name="So, if I had gone to one of my.." id="q7_53" au="Super" cDate="2015-11-29T19:00:35" mDate="2015-11-29T19:00:35" loc="364 @ 29, 560 @ 29!"/>
   <q name="Yeah. Tools all over the house.." id="q7_54" au="Super" cDate="2015-11-29T19:05:50" mDate="2016-02-01T20:48:40" loc="4 @ 33, 586 @ 33!"/>
   <q name="Uh, which felt, it felt friend.." id="q7_55" au="Super" cDate="2015-11-29T19:13:44" mDate="2015-11-29T19:15:42" loc="4 @ 57, 452 @ 57!"/>
@@ -596,22 +596,22 @@
   <q name="Hmm, lots of reasons. Um, I th.." id="q7_57" au="Super" cDate="2015-11-29T19:26:37" mDate="2016-02-01T20:47:08" loc="4 @ 69, 983 @ 69!"/>
   <q name="Um, in Egypt it was mostly jus.." id="q7_58" au="Super" cDate="2015-11-29T19:30:39" mDate="2015-11-29T19:30:40" loc="163 @ 73, 500 @ 73!"/>
   <q name="So, I teach at a private progr.." id="q7_59" au="Super" cDate="2015-11-29T19:37:24" mDate="2015-11-29T19:37:24" loc="456 @ 81, 1319 @ 81!"/>
-  <q name="Um, I think it wouldn’t be a v.." id="q7_60" au="Super" cDate="2015-11-29T19:47:56" mDate="2015-11-29T19:47:56" loc="1951 @ 85, 2089 @ 85!"/>
+  <q name="Um, I think it wouldn't be a v.." id="q7_60" au="Super" cDate="2015-11-29T19:47:56" mDate="2015-11-29T19:47:56" loc="1951 @ 85, 2089 @ 85!"/>
   <q name="Um, but we try to a void that .." id="q7_61" au="Super" cDate="2015-11-29T19:55:42" mDate="2015-11-29T19:55:42" loc="760 @ 96, 991 @ 96!"/>
   <q name="Um, yeah. The co-workers, and .." id="q7_62" au="Super" cDate="2015-11-29T19:56:12" mDate="2015-11-29T19:56:12" loc="4 @ 96, 991 @ 96!"/>
   <q name="So, I think, um, it just means.." id="q7_63" au="Super" cDate="2015-11-29T20:00:25" mDate="2016-02-01T21:20:04" loc="617 @ 100, 765 @ 100!"/>
   <q name="Another word that I think woul.." id="q7_64" au="Super" cDate="2015-11-29T20:05:14" mDate="2015-11-29T20:05:14" loc="610 @ 104, 795 @ 104!"/>
-  <q name="Um, and that’s one of the bigg.." id="q7_65" au="Super" cDate="2015-11-29T20:09:23" mDate="2016-02-01T21:20:04" loc="829 @ 108, 1298 @ 108!"/>
+  <q name="Um, and that's one of the bigg.." id="q7_65" au="Super" cDate="2015-11-29T20:09:23" mDate="2016-02-01T21:20:04" loc="829 @ 108, 1298 @ 108!"/>
   <q name="Um, yeah, when I noticed that .." id="q7_66" au="Super" cDate="2015-11-29T20:10:41" mDate="2015-11-29T20:10:41" loc="1144 @ 108, 1296 @ 108!"/>
-  <q name="Um, so it’s sort of funny from.." id="q7_67" au="Super" cDate="2015-11-29T20:11:32" mDate="2015-11-29T20:11:32" loc="664 @ 119, 854 @ 119!"/>
+  <q name="Um, so it's sort of funny from.." id="q7_67" au="Super" cDate="2015-11-29T20:11:32" mDate="2015-11-29T20:11:32" loc="664 @ 119, 854 @ 119!"/>
   <q name="Um, first thing that jumps to .." id="q7_68" au="Super" cDate="2015-11-29T20:12:29" mDate="2015-11-29T20:13:06" loc="10 @ 119, 661 @ 119!"/>
   <q name="Um, and then, um, since then, .." id="q7_70" au="Super" cDate="2015-11-29T20:30:07" mDate="2015-11-29T20:30:07" loc="637 @ 139, 805 @ 139!"/>
   <q name="Hmm. I was pretty much just ma.." id="q7_71" au="Super" cDate="2015-11-29T20:30:44" mDate="2015-11-29T20:30:44" loc="4 @ 139, 113 @ 139!"/>
-  <q name="in this job, I’ve been just in.." id="q7_72" au="Super" cDate="2015-11-29T20:33:10" mDate="2015-11-29T20:33:10" loc="894 @ 139, 1105 @ 139!"/>
-  <q name="It’s just new everyday, it’s n.." id="q7_74" au="Super" cDate="2015-12-01T20:37:27" mDate="2015-12-01T20:37:27" loc="4 @ 146, 943 @ 146!"/>
+  <q name="in this job, I've been just in.." id="q7_72" au="Super" cDate="2015-11-29T20:33:10" mDate="2015-11-29T20:33:10" loc="894 @ 139, 1105 @ 139!"/>
+  <q name="It's just new everyday, it's n.." id="q7_74" au="Super" cDate="2015-12-01T20:37:27" mDate="2015-12-01T20:37:27" loc="4 @ 146, 943 @ 146!"/>
   <q name="and then, at the moment too, I.." id="q7_75" au="Super" cDate="2015-12-01T20:38:29" mDate="2015-12-01T20:38:29" loc="944 @ 146, 2284 @ 146!"/>
   <q name="Hmm, yeah. I think it was real.." id="q7_76" au="Super" cDate="2015-12-01T20:40:53" mDate="2015-12-01T20:40:53" loc="4 @ 150, 575 @ 150!"/>
-  <q name="maybe it’s just college in gen.." id="q7_77" au="Super" cDate="2015-12-01T20:42:24" mDate="2015-12-01T20:42:24" loc="448 @ 150, 745 @ 150!"/>
+  <q name="maybe it's just college in gen.." id="q7_77" au="Super" cDate="2015-12-01T20:42:24" mDate="2015-12-01T20:42:24" loc="448 @ 150, 745 @ 150!"/>
   <q name="So, I feel like I noticed them.." id="q7_78" au="Super" cDate="2015-12-01T20:43:17" mDate="2015-12-01T20:43:18" loc="419 @ 154, 539 @ 154!"/>
   <q name="Um, Antonia and, um, what was .." id="q7_79" au="Super" cDate="2015-12-01T20:44:40" mDate="2015-12-01T20:44:40" loc="159 @ 154, 416 @ 154!"/>
   <q name="So, given with what you told m.." id="q7_80" au="Super" cDate="2015-12-01T21:07:36" mDate="2015-12-01T21:07:36" loc="4 @ 179, 161 @ 181!"/>
@@ -620,23 +620,23 @@
   <q name="Um, other than that as long as.." id="q7_85" au="Super" cDate="2015-12-01T21:33:36" mDate="2015-12-01T21:33:38" loc="3599 @ 197, 3868 @ 197!"/>
   <q name="Um, and yeah. I think I also m.." id="q7_86" au="Super" cDate="2015-12-01T21:50:11" mDate="2015-12-01T21:50:11" loc="4088 @ 197, 4618 @ 197!"/>
   <q name="Art Walker comes to mind, his .." id="q7_87" au="Super" cDate="2015-12-01T21:51:38" mDate="2015-12-01T21:51:38" loc="180 @ 201, 393 @ 201!"/>
-  <q name="Um, and then, there’s more han.." id="q7_89" au="Super" cDate="2015-12-01T21:53:09" mDate="2015-12-01T21:53:09" loc="396 @ 201, 1347 @ 201!"/>
-  <q name="Um, I’m guessing teaching will.." id="q7_90" au="Super" cDate="2016-02-21T15:02:49" mDate="2016-02-21T15:02:49" loc="4 @ 77, 128 @ 77!"/>
+  <q name="Um, and then, there's more han.." id="q7_89" au="Super" cDate="2015-12-01T21:53:09" mDate="2015-12-01T21:53:09" loc="396 @ 201, 1347 @ 201!"/>
+  <q name="Um, I'm guessing teaching will.." id="q7_90" au="Super" cDate="2016-02-21T15:02:49" mDate="2016-02-21T15:02:49" loc="4 @ 77, 128 @ 77!"/>
  </quotations>
  </primDoc>
  <primDoc name="03-17-14-2-Betty.rtf" id="pd_8" loc="doc_9" au="Super" cDate="2015-12-13T20:14:14" mDate="2016-03-22T21:16:18" qIndex="114" >
  <quotations size="112" >
   <q name="I guess I took a physics class.." id="q8_1" au="Super" cDate="2015-12-13T20:17:02" mDate="2015-12-13T20:17:02" loc="4 @ 45, 193 @ 45!"/>
-  <q name="Uh, honestly, I didn’t really .." id="q8_2" au="Super" cDate="2015-12-13T20:22:10" mDate="2015-12-13T20:22:10" loc="4 @ 53, 208 @ 53!"/>
+  <q name="Uh, honestly, I didn't really .." id="q8_2" au="Super" cDate="2015-12-13T20:22:10" mDate="2015-12-13T20:22:10" loc="4 @ 53, 208 @ 53!"/>
   <q name="Uh, so I went to Candidates We.." id="q8_3" au="Super" cDate="2015-12-13T20:22:30" mDate="2015-12-13T20:22:30" loc="211 @ 53, 411 @ 53!"/>
   <q name="I was really impressed, and I .." id="q8_4" au="Super" cDate="2015-12-13T20:23:25" mDate="2016-02-01T20:49:44" loc="249 @ 53, 1212 @ 53!"/>
-  <q name="Um, it’s kind of vague, but I .." id="q8_5" au="Super" cDate="2015-12-13T20:26:40" mDate="2015-12-13T20:26:40" loc="391 @ 69, 587 @ 69!"/>
+  <q name="Um, it's kind of vague, but I .." id="q8_5" au="Super" cDate="2015-12-13T20:26:40" mDate="2015-12-13T20:26:40" loc="391 @ 69, 587 @ 69!"/>
   <q name="Uh, I think that honestly I wa.." id="q8_6" au="Super" cDate="2015-12-13T20:30:21" mDate="2015-12-13T20:30:21" loc="4 @ 77, 261 @ 77!"/>
-  <q name="I didn’t care if I graduated w.." id="q8_7" au="Super" cDate="2015-12-13T20:31:15" mDate="2015-12-13T20:31:16" loc="87 @ 77, 188 @ 77!"/>
-  <q name="Um, I think he’s a very lively.." id="q8_8" au="Super" cDate="2015-12-13T20:38:30" mDate="2015-12-13T20:38:30" loc="4 @ 81, 344 @ 81!"/>
+  <q name="I didn't care if I graduated w.." id="q8_7" au="Super" cDate="2015-12-13T20:31:15" mDate="2015-12-13T20:31:16" loc="87 @ 77, 188 @ 77!"/>
+  <q name="Um, I think he's a very lively.." id="q8_8" au="Super" cDate="2015-12-13T20:38:30" mDate="2015-12-13T20:38:30" loc="4 @ 81, 344 @ 81!"/>
   <q name="Um, so, they stopped doing it,.." id="q8_9" au="Super" cDate="2015-12-13T20:38:56" mDate="2015-12-13T20:38:56" loc="1736 @ 81, 1946 @ 81!"/>
   <q name="Uh, I mean, I guess like the t.." id="q8_10" au="Super" cDate="2015-12-13T20:41:11" mDate="2015-12-13T20:41:11" loc="4 @ 89, 592 @ 89!"/>
-  <q name="it isn’t just feeding someone .." id="q8_11" au="Super" cDate="2015-12-13T20:41:38" mDate="2016-02-01T21:08:05" loc="180 @ 89, 450 @ 89!"/>
+  <q name="it isn't just feeding someone .." id="q8_11" au="Super" cDate="2015-12-13T20:41:38" mDate="2016-02-01T21:08:05" loc="180 @ 89, 450 @ 89!"/>
   <q name="About my definition of teachin.." id="q8_12" au="Super" cDate="2015-12-13T20:42:05" mDate="2015-12-13T20:42:05" loc="4 @ 93, 276 @ 93!"/>
   <q name="we have like this table, and f.." id="q8_13" au="Super" cDate="2015-12-13T20:43:42" mDate="2015-12-13T20:43:42" loc="433 @ 93, 696 @ 93!"/>
   <q name="in this area, by the way, ther.." id="q8_14" au="Super" cDate="2015-12-13T20:44:59" mDate="2015-12-13T20:44:59" loc="758 @ 93, 1174 @ 93!"/>
@@ -652,41 +652,41 @@
   <q name="Um, I think it means a lot. I .." id="q8_25" au="Super" cDate="2015-12-13T21:20:56" mDate="2015-12-13T21:20:56" loc="4 @ 104, 613 @ 104!"/>
   <q name="Um, I think part of it is bein.." id="q8_26" au="Super" cDate="2015-12-13T21:21:30" mDate="2015-12-13T21:21:30" loc="616 @ 104, 824 @ 104!"/>
   <q name="Step 1 is this, Step 2 is this.." id="q8_27" au="Super" cDate="2015-12-13T21:22:46" mDate="2015-12-13T21:22:46" loc="1655 @ 104, 2071 @ 104!"/>
-  <q name="I think it’s probably true for.." id="q8_28" au="Super" cDate="2015-12-13T21:22:57" mDate="2015-12-13T21:22:57" loc="1798 @ 104, 2015 @ 104!"/>
+  <q name="I think it's probably true for.." id="q8_28" au="Super" cDate="2015-12-13T21:22:57" mDate="2015-12-13T21:22:57" loc="1798 @ 104, 2015 @ 104!"/>
   <q name="having that positive reinforce.." id="q8_29" au="Super" cDate="2015-12-13T21:23:26" mDate="2015-12-13T21:23:26" loc="680 @ 104, 824 @ 104!"/>
   <q name="Also to be able to accept that.." id="q8_30" au="Super" cDate="2015-12-13T21:23:55" mDate="2015-12-13T21:23:55" loc="1040 @ 104, 1207 @ 104!"/>
   <q name="Um, like study groups before y.." id="q8_31" au="Super" cDate="2015-12-13T21:24:03" mDate="2015-12-13T21:24:03" loc="237 @ 104, 344 @ 104!"/>
   <q name="I think as a teacher too, I gu.." id="q8_32" au="Super" cDate="2015-12-13T21:24:35" mDate="2015-12-13T21:24:35" loc="826 @ 104, 1207 @ 104!"/>
   <q name="Uh, I think a lot of it, and a.." id="q8_33" au="Super" cDate="2015-12-13T21:30:52" mDate="2015-12-13T21:30:52" loc="1210 @ 104, 1652 @ 104!"/>
-  <q name="Um, yeah. I’m jumping around t.." id="q8_34" au="Super" cDate="2015-12-13T21:34:28" mDate="2015-12-13T21:34:28" loc="4 @ 107, 2381 @ 107!"/>
-  <q name="there’s a thing called the Lit.." id="q8_35" au="Super" cDate="2015-12-13T21:35:04" mDate="2015-12-13T21:35:04" loc="125 @ 107, 506 @ 107!"/>
+  <q name="Um, yeah. I'm jumping around t.." id="q8_34" au="Super" cDate="2015-12-13T21:34:28" mDate="2015-12-13T21:34:28" loc="4 @ 107, 2381 @ 107!"/>
+  <q name="there's a thing called the Lit.." id="q8_35" au="Super" cDate="2015-12-13T21:35:04" mDate="2015-12-13T21:35:04" loc="125 @ 107, 506 @ 107!"/>
   <q name="Finally we made progress, you .." id="q8_36" au="Super" cDate="2015-12-13T21:35:17" mDate="2015-12-13T21:35:17" loc="2023 @ 107, 2382 @ 107!"/>
   <q name="Uh, it took so long to get thr.." id="q8_37" au="Super" cDate="2015-12-13T21:35:38" mDate="2015-12-13T21:35:38" loc="1695 @ 107, 2243 @ 107!"/>
   <q name="Every single time, she would m.." id="q8_38" au="Super" cDate="2015-12-13T21:36:07" mDate="2016-02-01T20:59:20" loc="1160 @ 107, 1956 @ 107!"/>
   <q name="Every single time, she would m.." id="q8_39" au="Super" cDate="2015-12-13T21:36:35" mDate="2015-12-13T21:36:35" loc="1160 @ 107, 1395 @ 107!"/>
   <q name="how do I say it, I think that .." id="q8_40" au="Super" cDate="2015-12-13T21:52:51" mDate="2016-02-01T20:59:20" loc="28 @ 111, 208 @ 111!"/>
   <q name="Like, I definitely find readin.." id="q8_41" au="Super" cDate="2015-12-13T21:53:01" mDate="2015-12-13T21:53:02" loc="210 @ 111, 313 @ 111!"/>
-  <q name="You’re right. Yeah. I…how do I.." id="q8_42" au="Super" cDate="2015-12-13T21:54:15" mDate="2015-12-13T21:54:15" loc="4 @ 111, 1776 @ 111!"/>
-  <q name="Um, and I think, I don’t know .." id="q8_43" au="Super" cDate="2015-12-13T21:55:21" mDate="2015-12-13T21:55:21" loc="316 @ 111, 1257 @ 111!"/>
+  <q name="You're right. Yeah. I...how do I.." id="q8_42" au="Super" cDate="2015-12-13T21:54:15" mDate="2015-12-13T21:54:15" loc="4 @ 111, 1776 @ 111!"/>
+  <q name="Um, and I think, I don't know .." id="q8_43" au="Super" cDate="2015-12-13T21:55:21" mDate="2015-12-13T21:55:21" loc="316 @ 111, 1257 @ 111!"/>
   <q name="And so, like I think, like whe.." id="q8_44" au="Super" cDate="2015-12-13T21:55:38" mDate="2015-12-13T21:55:38" loc="1260 @ 111, 1384 @ 111!"/>
-  <q name="And so, I don’t know, for me, .." id="q8_45" au="Super" cDate="2015-12-13T21:55:55" mDate="2016-02-01T20:59:20" loc="1387 @ 111, 1630 @ 111!"/>
+  <q name="And so, I don't know, for me, .." id="q8_45" au="Super" cDate="2015-12-13T21:55:55" mDate="2016-02-01T20:59:20" loc="1387 @ 111, 1630 @ 111!"/>
   <q name="So, it should be something lik.." id="q8_46" au="Super" cDate="2015-12-13T21:57:46" mDate="2015-12-13T21:57:46" loc="1633 @ 111, 1776 @ 111!"/>
   <q name="Um, but I had to teach four cl.." id="q8_47" au="Super" cDate="2015-12-14T11:33:49" mDate="2016-02-01T20:59:20" loc="2 @ 117, 2288 @ 117!"/>
   <q name="Well, uh, so okay. I had to TA.." id="q8_48" au="Super" cDate="2015-12-14T11:34:11" mDate="2015-12-14T11:34:11" loc="4 @ 115, 173 @ 115!"/>
   <q name="So, uh, but I had to like read.." id="q8_49" au="Super" cDate="2015-12-14T11:34:31" mDate="2015-12-14T11:34:31" loc="357 @ 115, 506 @ 115!"/>
-  <q name="So, sometimes…a lot of it was .." id="q8_50" au="Super" cDate="2015-12-14T11:34:42" mDate="2015-12-14T11:34:42" loc="509 @ 115, 679 @ 115!"/>
+  <q name="So, sometimes...a lot of it was .." id="q8_50" au="Super" cDate="2015-12-14T11:34:42" mDate="2015-12-14T11:34:42" loc="509 @ 115, 679 @ 115!"/>
   <q name="Um, and the only reason I real.." id="q8_51" au="Super" cDate="2015-12-14T11:34:51" mDate="2015-12-14T11:34:51" loc="682 @ 115, 936 @ 115!"/>
   <q name="I got really frustrated with m.." id="q8_53" au="Super" cDate="2015-12-14T11:35:36" mDate="2015-12-14T11:35:36" loc="191 @ 117, 2288 @ 117!"/>
   <q name="I always try to put this in pe.." id="q8_54" au="Super" cDate="2015-12-14T11:35:58" mDate="2015-12-14T11:35:59" loc="259 @ 117, 918 @ 117!"/>
-  <q name="I don’t know how to deal with .." id="q8_55" au="Super" cDate="2015-12-14T11:36:30" mDate="2015-12-14T11:36:31" loc="2028 @ 117, 2288 @ 117!"/>
-  <q name="Yeah. Well, I TA’d at Olin act.." id="q8_56" au="Super" cDate="2015-12-14T11:40:29" mDate="2015-12-14T11:40:29" loc="4 @ 121, 515 @ 121!"/>
+  <q name="I don't know how to deal with .." id="q8_55" au="Super" cDate="2015-12-14T11:36:30" mDate="2015-12-14T11:36:31" loc="2028 @ 117, 2288 @ 117!"/>
+  <q name="Yeah. Well, I TA'd at Olin act.." id="q8_56" au="Super" cDate="2015-12-14T11:40:29" mDate="2015-12-14T11:40:29" loc="4 @ 121, 515 @ 121!"/>
   <q name="I would just help people out w.." id="q8_57" au="Super" cDate="2015-12-14T11:40:46" mDate="2015-12-14T11:40:46" loc="148 @ 121, 271 @ 121!"/>
   <q name="but for the classes that I did.." id="q8_58" au="Super" cDate="2015-12-14T11:40:59" mDate="2015-12-14T11:40:59" loc="336 @ 121, 458 @ 121!"/>
   <q name="but for the classes that I did.." id="q8_59" au="Super" cDate="2015-12-14T11:41:17" mDate="2015-12-14T11:41:17" loc="336 @ 121, 515 @ 121!"/>
-  <q name="Well, I TA’d at Olin actually,.." id="q8_60" au="Super" cDate="2015-12-14T11:41:25" mDate="2016-02-01T20:59:20" loc="11 @ 121, 89 @ 121!"/>
+  <q name="Well, I TA'd at Olin actually,.." id="q8_60" au="Super" cDate="2015-12-14T11:41:25" mDate="2016-02-01T20:59:20" loc="11 @ 121, 89 @ 121!"/>
   <q name="Um, I think projects at Olin a.." id="q8_61" au="Super" cDate="2015-12-14T11:49:39" mDate="2015-12-14T11:49:39" loc="4 @ 125, 292 @ 125!"/>
   <q name="projects at Olin are very crea.." id="q8_62" au="Super" cDate="2015-12-14T11:49:58" mDate="2015-12-14T11:49:58" loc="18 @ 125, 665 @ 125!"/>
-  <q name="Like, it’s hard to separate ou.." id="q8_63" au="Super" cDate="2015-12-14T11:50:07" mDate="2016-02-01T20:49:44" loc="668 @ 125, 803 @ 125!"/>
+  <q name="Like, it's hard to separate ou.." id="q8_63" au="Super" cDate="2015-12-14T11:50:07" mDate="2016-02-01T20:49:44" loc="668 @ 125, 803 @ 125!"/>
   <q name="whereas I think like, a lot of.." id="q8_64" au="Super" cDate="2015-12-14T11:50:27" mDate="2015-12-14T11:50:27" loc="299 @ 125, 528 @ 125!"/>
   <q name="Um, I think projects at Olin a.." id="q8_65" au="Super" cDate="2015-12-14T11:52:36" mDate="2015-12-14T11:52:36" loc="4 @ 125, 1125 @ 125!"/>
   <q name="Um, I think that this is very .." id="q8_66" au="Super" cDate="2015-12-14T11:57:50" mDate="2015-12-14T11:57:50" loc="4 @ 129, 269 @ 129!"/>
@@ -696,48 +696,48 @@
   <q name="I still try to take classes ev.." id="q8_70" au="Super" cDate="2015-12-14T12:01:43" mDate="2015-12-14T12:01:44" loc="2 @ 131, 236 @ 131!"/>
   <q name="Yeah, uh, I think, I think lik.." id="q8_71" au="Super" cDate="2015-12-14T12:08:37" mDate="2016-02-01T20:56:05" loc="4 @ 138, 655 @ 138!"/>
   <q name="I think when I first experienc.." id="q8_72" au="Super" cDate="2015-12-14T12:08:59" mDate="2015-12-14T12:08:59" loc="658 @ 138, 1124 @ 138!"/>
-  <q name="Um, I don’t know. It’s really .." id="q8_73" au="Super" cDate="2015-12-14T12:09:08" mDate="2015-12-14T12:09:08" loc="1127 @ 138, 1782 @ 138!"/>
+  <q name="Um, I don't know. It's really .." id="q8_73" au="Super" cDate="2015-12-14T12:09:08" mDate="2015-12-14T12:09:08" loc="1127 @ 138, 1782 @ 138!"/>
   <q name="Uh, and I think like, when you.." id="q8_74" au="Super" cDate="2015-12-14T12:09:26" mDate="2015-12-14T12:09:26" loc="1502 @ 138, 1780 @ 138!"/>
-  <q name="Um, I don’t know it’s really w.." id="q8_75" au="Super" cDate="2015-12-14T12:14:37" mDate="2015-12-14T12:14:42" loc="4 @ 146, 265 @ 146!"/>
-  <q name="Um, I don’t know it’s really w.." id="q8_76" au="Super" cDate="2015-12-14T12:14:46" mDate="2015-12-14T12:14:47" loc="4 @ 146, 883 @ 146!"/>
-  <q name="it’s really more what is it th.." id="q8_77" au="Super" cDate="2015-12-14T12:15:07" mDate="2015-12-14T12:15:07" loc="311 @ 146, 648 @ 146!"/>
-  <q name="I feel, um, so, it’s just more.." id="q8_78" au="Super" cDate="2015-12-14T12:15:17" mDate="2015-12-14T12:15:17" loc="472 @ 146, 700 @ 146!"/>
-  <q name="Um, I think that’s like, um, e.." id="q8_79" au="Super" cDate="2015-12-14T12:15:32" mDate="2016-02-01T20:49:44" loc="703 @ 146, 881 @ 146!"/>
-  <q name="Maybe study abroad, I don’t kn.." id="q8_80" au="Super" cDate="2015-12-14T12:21:26" mDate="2015-12-14T12:21:26" loc="23 @ 154, 557 @ 154!"/>
+  <q name="Um, I don't know it's really w.." id="q8_75" au="Super" cDate="2015-12-14T12:14:37" mDate="2015-12-14T12:14:42" loc="4 @ 146, 265 @ 146!"/>
+  <q name="Um, I don't know it's really w.." id="q8_76" au="Super" cDate="2015-12-14T12:14:46" mDate="2015-12-14T12:14:47" loc="4 @ 146, 883 @ 146!"/>
+  <q name="it's really more what is it th.." id="q8_77" au="Super" cDate="2015-12-14T12:15:07" mDate="2015-12-14T12:15:07" loc="311 @ 146, 648 @ 146!"/>
+  <q name="I feel, um, so, it's just more.." id="q8_78" au="Super" cDate="2015-12-14T12:15:17" mDate="2015-12-14T12:15:17" loc="472 @ 146, 700 @ 146!"/>
+  <q name="Um, I think that's like, um, e.." id="q8_79" au="Super" cDate="2015-12-14T12:15:32" mDate="2016-02-01T20:49:44" loc="703 @ 146, 881 @ 146!"/>
+  <q name="Maybe study abroad, I don't kn.." id="q8_80" au="Super" cDate="2015-12-14T12:21:26" mDate="2015-12-14T12:21:26" loc="23 @ 154, 557 @ 154!"/>
   <q name="but also I took some classes t.." id="q8_81" au="Super" cDate="2015-12-14T12:21:53" mDate="2015-12-14T12:21:53" loc="324 @ 154, 557 @ 154!"/>
-  <q name="So, um, I’m…I think beyond, uh.." id="q8_82" au="Super" cDate="2015-12-14T12:22:12" mDate="2015-12-14T12:22:12" loc="560 @ 154, 937 @ 154!"/>
-  <q name="So, um, I’m…I think beyond, uh.." id="q8_83" au="Super" cDate="2015-12-14T12:22:25" mDate="2015-12-14T12:22:29" loc="559 @ 154, 1592 @ 154!"/>
+  <q name="So, um, I'm...I think beyond, uh.." id="q8_82" au="Super" cDate="2015-12-14T12:22:12" mDate="2015-12-14T12:22:12" loc="560 @ 154, 937 @ 154!"/>
+  <q name="So, um, I'm...I think beyond, uh.." id="q8_83" au="Super" cDate="2015-12-14T12:22:25" mDate="2015-12-14T12:22:29" loc="559 @ 154, 1592 @ 154!"/>
   <q name="Um, I do think that, um, most .." id="q8_84" au="Super" cDate="2015-12-14T12:22:42" mDate="2016-02-01T20:49:44" loc="1232 @ 154, 1592 @ 154!"/>
   <q name="we like had a little group, an.." id="q8_85" au="Super" cDate="2015-12-14T12:28:20" mDate="2015-12-14T12:28:21" loc="529 @ 158, 703 @ 158!"/>
   <q name="Um, and I remember we had to w.." id="q8_86" au="Super" cDate="2015-12-14T12:28:31" mDate="2015-12-14T12:28:31" loc="706 @ 158, 1700 @ 158!"/>
-  <q name="everyone’s like, pretty deep, .." id="q8_87" au="Super" cDate="2015-12-14T12:28:45" mDate="2015-12-14T12:28:45" loc="1262 @ 158, 1700 @ 158!"/>
+  <q name="everyone's like, pretty deep, .." id="q8_87" au="Super" cDate="2015-12-14T12:28:45" mDate="2015-12-14T12:28:45" loc="1262 @ 158, 1700 @ 158!"/>
   <q name="I kind of thought it was BS at.." id="q8_88" au="Super" cDate="2015-12-14T12:29:10" mDate="2015-12-14T12:29:15" loc="868 @ 158, 1317 @ 158!"/>
-  <q name="I hope so. Yeah, I don’t know..." id="q8_89" au="Super" cDate="2015-12-14T12:33:07" mDate="2015-12-14T12:33:07" loc="4 @ 162, 1998 @ 162!"/>
-  <q name="something that I’ve been told .." id="q8_90" au="Super" cDate="2015-12-14T12:33:58" mDate="2015-12-14T12:34:02" loc="1170 @ 162, 1998 @ 162!"/>
-  <q name="Um, I mean I think it’s like i.." id="q8_91" au="Super" cDate="2015-12-14T12:38:36" mDate="2015-12-14T12:38:37" loc="4 @ 166, 1403 @ 166!"/>
-  <q name="I’ve learned to recognize that.." id="q8_92" au="Super" cDate="2015-12-14T12:39:08" mDate="2015-12-14T12:39:08" loc="304 @ 166, 829 @ 166!"/>
+  <q name="I hope so. Yeah, I don't know..." id="q8_89" au="Super" cDate="2015-12-14T12:33:07" mDate="2015-12-14T12:33:07" loc="4 @ 162, 1998 @ 162!"/>
+  <q name="something that I've been told .." id="q8_90" au="Super" cDate="2015-12-14T12:33:58" mDate="2015-12-14T12:34:02" loc="1170 @ 162, 1998 @ 162!"/>
+  <q name="Um, I mean I think it's like i.." id="q8_91" au="Super" cDate="2015-12-14T12:38:36" mDate="2015-12-14T12:38:37" loc="4 @ 166, 1403 @ 166!"/>
+  <q name="I've learned to recognize that.." id="q8_92" au="Super" cDate="2015-12-14T12:39:08" mDate="2015-12-14T12:39:08" loc="304 @ 166, 829 @ 166!"/>
   <q name="showing them that you understa.." id="q8_93" au="Super" cDate="2015-12-14T12:39:31" mDate="2015-12-14T12:39:31" loc="654 @ 166, 829 @ 166!"/>
   <q name="Um, I think I mentioned to you.." id="q8_94" au="Super" cDate="2015-12-14T12:39:37" mDate="2015-12-14T12:39:37" loc="832 @ 166, 1401 @ 166!"/>
-  <q name="Um, I think I’m more open mind.." id="q8_95" au="Super" cDate="2016-02-01T21:36:19" mDate="2016-02-01T21:36:20" loc="4 @ 170, 342 @ 170!"/>
-  <q name="Um, I think I’m more open mind.." id="q8_96" au="Super" cDate="2016-02-01T21:37:35" mDate="2016-02-01T21:39:58" loc="4 @ 170, 545 @ 170!"/>
-  <q name="I don’t know how many times in.." id="q8_97" au="Super" cDate="2016-02-01T21:37:46" mDate="2016-02-01T21:37:46" loc="344 @ 170, 546 @ 170!"/>
-  <q name="Um, I think I’m more open mind.." id="q8_98" au="Super" cDate="2016-02-01T21:40:04" mDate="2016-02-01T21:40:04" loc="4 @ 170, 977 @ 170!"/>
+  <q name="Um, I think I'm more open mind.." id="q8_95" au="Super" cDate="2016-02-01T21:36:19" mDate="2016-02-01T21:36:20" loc="4 @ 170, 342 @ 170!"/>
+  <q name="Um, I think I'm more open mind.." id="q8_96" au="Super" cDate="2016-02-01T21:37:35" mDate="2016-02-01T21:39:58" loc="4 @ 170, 545 @ 170!"/>
+  <q name="I don't know how many times in.." id="q8_97" au="Super" cDate="2016-02-01T21:37:46" mDate="2016-02-01T21:37:46" loc="344 @ 170, 546 @ 170!"/>
+  <q name="Um, I think I'm more open mind.." id="q8_98" au="Super" cDate="2016-02-01T21:40:04" mDate="2016-02-01T21:40:04" loc="4 @ 170, 977 @ 170!"/>
   <q name="Oh, I mean, I guess ever since.." id="q8_99" au="Super" cDate="2016-02-01T21:41:27" mDate="2016-02-01T21:42:10" loc="4 @ 178, 603 @ 178!"/>
-  <q name="Um, I know that I don’t…I don’.." id="q8_100" au="Super" cDate="2016-02-01T21:44:42" mDate="2016-02-01T21:45:33" loc="5 @ 186, 878 @ 186!"/>
+  <q name="Um, I know that I don't...I don'.." id="q8_100" au="Super" cDate="2016-02-01T21:44:42" mDate="2016-02-01T21:45:33" loc="5 @ 186, 878 @ 186!"/>
   <q name="Um, I think that no matter whe.." id="q8_101" au="Super" cDate="2016-02-01T21:45:14" mDate="2016-02-01T21:45:14" loc="384 @ 186, 755 @ 186!"/>
   <q name="So, like we do a lot of, like,.." id="q8_102" au="Super" cDate="2016-02-01T21:48:15" mDate="2016-02-01T21:48:15" loc="759 @ 197, 2633 @ 197!"/>
   <q name="Um, this is really tricky. Uh,.." id="q8_103" au="Super" cDate="2016-02-01T21:51:51" mDate="2016-02-01T21:51:51" loc="4 @ 197, 2634 @ 197!"/>
   <q name="Um, I think it was something t.." id="q8_104" au="Super" cDate="2016-02-01T21:53:07" mDate="2016-02-01T21:53:07" loc="4 @ 201, 950 @ 201!"/>
-  <q name="Um, I don’t know. I can’t real.." id="q8_105" au="Super" cDate="2016-02-01T21:54:58" mDate="2016-02-01T21:55:24" loc="4 @ 205, 1700 @ 205!"/>
-  <q name="Um, I don’t know. I can’t real.." id="q8_106" au="Super" cDate="2016-02-01T21:55:55" mDate="2016-02-01T21:55:55" loc="4 @ 205, 522 @ 205!"/>
+  <q name="Um, I don't know. I can't real.." id="q8_105" au="Super" cDate="2016-02-01T21:54:58" mDate="2016-02-01T21:55:24" loc="4 @ 205, 1700 @ 205!"/>
+  <q name="Um, I don't know. I can't real.." id="q8_106" au="Super" cDate="2016-02-01T21:55:55" mDate="2016-02-01T21:55:55" loc="4 @ 205, 522 @ 205!"/>
   <q name="I did apply to a lot of engine.." id="q8_107" au="Super" cDate="2016-02-01T21:56:43" mDate="2016-02-01T21:56:43" loc="781 @ 201, 950 @ 201!"/>
   <q name="Um, yeah. I mean, I think so. .." id="q8_108" au="Super" cDate="2016-02-01T21:58:16" mDate="2016-02-01T21:58:17" loc="4 @ 209, 375 @ 209!"/>
   <q name="Um, I think that, you know, yo.." id="q8_109" au="Super" cDate="2016-02-01T21:58:48" mDate="2016-02-01T21:58:48" loc="378 @ 209, 795 @ 209!"/>
   <q name="Um, yeah. I mean, I think so. .." id="q8_110" au="Super" cDate="2016-02-01T21:59:10" mDate="2016-02-01T21:59:10" loc="4 @ 209, 376 @ 209!"/>
   <q name="Um, and that it is a broad thi.." id="q8_111" au="Super" cDate="2016-02-01T22:00:10" mDate="2016-02-01T22:00:10" loc="239 @ 213, 488 @ 213!"/>
-  <q name="Uh, I’d just to enter the cave.." id="q8_112" au="Super" cDate="2016-02-01T22:01:24" mDate="2016-02-01T22:01:24" loc="4 @ 213, 237 @ 213!"/>
+  <q name="Uh, I'd just to enter the cave.." id="q8_112" au="Super" cDate="2016-02-01T22:01:24" mDate="2016-02-01T22:01:24" loc="4 @ 213, 237 @ 213!"/>
   <q name="I truly do believe that, that .." id="q8_113" au="Super" cDate="2016-02-01T22:01:32" mDate="2016-02-01T22:01:32" loc="154 @ 213, 238 @ 213!"/>
-  <q name="You’re right. Yeah. I…how do I.." id="q8_114" au="Super" cDate="2016-03-22T21:16:18" mDate="2016-03-22T21:16:18" loc="4 @ 111, 1777 @ 111!"/>
+  <q name="You're right. Yeah. I...how do I.." id="q8_114" au="Super" cDate="2016-03-22T21:16:18" mDate="2016-03-22T21:16:18" loc="4 @ 111, 1777 @ 111!"/>
  </quotations>
  </primDoc>
  <primDoc name="03-13-15-1 - Ellie.rtf" id="pd_9" loc="doc_5" au="Super" cDate="2016-02-14T19:40:08" mDate="2016-02-23T21:08:56" qIndex="119" >
@@ -753,7 +753,7 @@
   <q name="Um, the faculty that I met at .." id="q9_9" au="Super" cDate="2016-02-14T20:12:52" mDate="2016-02-14T20:12:52" loc="1 @ 31, 522 @ 31!"/>
   <q name="Uh, I think I visited four, ma.." id="q9_10" au="Super" cDate="2016-02-14T20:14:34" mDate="2016-02-14T20:14:37" loc="70 @ 29, 647 @ 29!"/>
   <q name="Um, I mean, to some extent, I .." id="q9_11" au="Super" cDate="2016-02-14T20:16:37" mDate="2016-02-14T20:16:37" loc="1 @ 41, 976 @ 47!"/>
-  <q name="[Both laugh] I'm like, okay, I.." id="q9_12" au="Super" cDate="2016-02-14T20:18:00" mDate="2016-02-14T20:18:00" loc="553 @ 43, 780 @ 43!"/>
+  <q name="*Both laugh* I'm like, okay, I.." id="q9_12" au="Super" cDate="2016-02-14T20:18:00" mDate="2016-02-14T20:18:00" loc="553 @ 43, 780 @ 43!"/>
   <q name="I'd have people who'd tell me .." id="q9_13" au="Super" cDate="2016-02-14T20:19:51" mDate="2016-02-14T20:19:51" loc="212 @ 41, 323 @ 41!"/>
   <q name="Um, I also really appreciated,.." id="q9_14" au="Super" cDate="2016-02-14T20:21:12" mDate="2016-02-14T20:21:13" loc="1 @ 45, 905 @ 45!"/>
   <q name="Um, I mean, to some extent, I .." id="q9_15" au="Super" cDate="2016-02-14T20:22:25" mDate="2016-02-14T20:22:26" loc="1 @ 41, 369 @ 41!"/>
@@ -765,7 +765,7 @@
   <q name="Um, well I got promoted last f.." id="q9_21" au="Super" cDate="2016-02-14T20:48:32" mDate="2016-02-14T20:48:32" loc="1 @ 109, 577 @ 109!"/>
   <q name="Um, so we'll see how well that.." id="q9_22" au="Super" cDate="2016-02-14T20:48:56" mDate="2016-02-14T20:48:57" loc="172 @ 109, 451 @ 109!"/>
   <q name="I wrote my resume for the last.." id="q9_23" au="Super" cDate="2016-02-14T20:49:06" mDate="2016-02-14T20:49:06" loc="453 @ 109, 577 @ 109!"/>
-  <q name="[Laughs] I was talking with my.." id="q9_24" au="Super" cDate="2016-02-16T21:10:26" mDate="2016-02-16T21:11:01" loc="1 @ 133, 674 @ 133!"/>
+  <q name="*laughs* I was talking with my.." id="q9_24" au="Super" cDate="2016-02-16T21:10:26" mDate="2016-02-16T21:11:01" loc="1 @ 133, 674 @ 133!"/>
   <q name="I was talking with my husband .." id="q9_25" au="Super" cDate="2016-02-16T21:10:34" mDate="2016-02-16T21:10:35" loc="11 @ 133, 467 @ 133!"/>
   <q name="So, there's a lot of things th.." id="q9_26" au="Super" cDate="2016-02-16T21:10:41" mDate="2016-02-16T21:10:41" loc="470 @ 133, 675 @ 133!"/>
   <q name="Um, I mean, I have a lot of sk.." id="q9_27" au="Super" cDate="2016-02-16T21:13:06" mDate="2016-02-16T21:13:16" loc="1 @ 135, 417 @ 135!"/>
@@ -813,18 +813,18 @@
   <q name="I guess the way that a physici.." id="q9_69" au="Super" cDate="2016-02-21T19:43:03" mDate="2016-02-21T19:43:03" loc="206 @ 323, 650 @ 323!"/>
   <q name="He really tried to make it mat.." id="q9_70" au="Super" cDate="2016-02-21T19:46:53" mDate="2016-02-21T19:46:53" loc="1 @ 335, 430 @ 335!"/>
   <q name="My, uh, first-year roommate le.." id="q9_71" au="Super" cDate="2016-02-21T19:49:48" mDate="2016-02-21T19:49:48" loc="195 @ 345, 665 @ 345!"/>
-  <q name="That’s always been my thing. I.." id="q9_72" au="Super" cDate="2016-02-21T19:52:00" mDate="2016-02-21T19:52:00" loc="634 @ 347, 166 @ 349!"/>
-  <q name="That’s always been my thing. I.." id="q9_73" au="Super" cDate="2016-02-21T19:52:32" mDate="2016-02-21T19:52:32" loc="634 @ 347, 1049 @ 347!"/>
+  <q name="That's always been my thing. I.." id="q9_72" au="Super" cDate="2016-02-21T19:52:00" mDate="2016-02-21T19:52:00" loc="634 @ 347, 166 @ 349!"/>
+  <q name="That's always been my thing. I.." id="q9_73" au="Super" cDate="2016-02-21T19:52:32" mDate="2016-02-21T19:52:32" loc="634 @ 347, 1049 @ 347!"/>
   <q name="And then, when she told me she.." id="q9_74" au="Super" cDate="2016-02-21T19:53:22" mDate="2016-02-21T19:53:22" loc="1 @ 347, 140 @ 347!"/>
   <q name="There was something weird abou.." id="q9_75" au="Super" cDate="2016-02-21T19:54:02" mDate="2016-02-21T19:55:09" loc="556 @ 345, 939 @ 349!"/>
   <q name="I do recall that Doug Brooks t.." id="q9_76" au="Super" cDate="2016-02-21T19:59:22" mDate="2016-02-21T19:59:22" loc="40 @ 351, 643 @ 351!"/>
   <q name="Honestly, I generally expect n.." id="q9_77" au="Super" cDate="2016-02-21T20:02:48" mDate="2016-02-21T20:02:52" loc="1 @ 359, 260 @ 359!"/>
-  <q name="[Laughs] Um, I really, really .." id="q9_78" au="Super" cDate="2016-02-21T20:03:24" mDate="2016-02-21T20:03:24" loc="1 @ 375, 548 @ 375!"/>
+  <q name="*laughs* Um, I really, really .." id="q9_78" au="Super" cDate="2016-02-21T20:03:24" mDate="2016-02-21T20:03:24" loc="1 @ 375, 548 @ 375!"/>
   <q name="Um, the other thing I look for.." id="q9_79" au="Super" cDate="2016-02-21T20:05:15" mDate="2016-02-21T20:05:15" loc="1 @ 377, 194 @ 377!"/>
   <q name="Um, the other thing I look for.." id="q9_80" au="Super" cDate="2016-02-21T20:06:07" mDate="2016-02-21T20:06:07" loc="1 @ 377, 923 @ 377!"/>
   <q name="If you're going to sit and rea.." id="q9_81" au="Super" cDate="2016-02-21T20:06:43" mDate="2016-02-21T20:06:43" loc="306 @ 377, 924 @ 377!"/>
   <q name="Um, I really, really want peop.." id="q9_82" au="Super" cDate="2016-02-21T20:06:50" mDate="2016-02-21T20:06:50" loc="213 @ 377, 303 @ 377!"/>
-  <q name="Um, there are...it’s this cont.." id="q9_83" au="Super" cDate="2016-02-21T20:07:02" mDate="2016-02-21T20:07:03" loc="648 @ 377, 924 @ 377!"/>
+  <q name="Um, there are...it's this cont.." id="q9_83" au="Super" cDate="2016-02-21T20:07:02" mDate="2016-02-21T20:07:03" loc="648 @ 377, 924 @ 377!"/>
   <q name="Um, I find it interesting that.." id="q9_84" au="Super" cDate="2016-02-21T20:09:59" mDate="2016-02-21T20:09:59" loc="1 @ 385, 757 @ 385!"/>
   <q name="Um, I find it interesting that.." id="q9_85" au="Super" cDate="2016-02-21T20:13:36" mDate="2016-02-21T20:13:36" loc="1 @ 385, 170 @ 385!"/>
   <q name="So I never had, um, the opport.." id="q9_86" au="Super" cDate="2016-02-21T20:17:34" mDate="2016-02-21T20:17:34" loc="172 @ 385, 394 @ 385!"/>
@@ -833,13 +833,13 @@
   <q name="And, um, I ended up applying t.." id="q9_89" au="Super" cDate="2016-02-21T20:20:49" mDate="2016-02-21T20:20:49" loc="1 @ 387, 181 @ 387!"/>
   <q name="Um, the more I learned about w.." id="q9_90" au="Super" cDate="2016-02-21T20:22:12" mDate="2016-02-21T20:22:12" loc="183 @ 387, 428 @ 387!"/>
   <q name="I still had the option to do a.." id="q9_91" au="Super" cDate="2016-02-21T20:25:37" mDate="2016-02-21T20:25:37" loc="158 @ 389, 393 @ 389!"/>
-  <q name="Um, and now that I’ve, I’ve fi.." id="q9_92" au="Super" cDate="2016-02-21T20:29:57" mDate="2016-02-21T20:29:57" loc="1 @ 391, 209 @ 391!"/>
+  <q name="Um, and now that I've, I've fi.." id="q9_92" au="Super" cDate="2016-02-21T20:29:57" mDate="2016-02-21T20:29:57" loc="1 @ 391, 209 @ 391!"/>
   <q name="Um, most of those end up being.." id="q9_93" au="Super" cDate="2016-02-21T20:52:16" mDate="2016-02-21T20:52:22" loc="1 @ 407, 800 @ 409!"/>
   <q name="So people get to choose whiche.." id="q9_94" au="Super" cDate="2016-02-21T20:52:36" mDate="2016-02-21T20:52:36" loc="656 @ 407, 880 @ 407!"/>
-  <q name="And if it’s super easy, then I.." id="q9_95" au="Super" cDate="2016-02-21T20:53:10" mDate="2016-02-21T20:53:10" loc="317 @ 407, 880 @ 407!"/>
-  <q name="And, um, I’ve done a lot more .." id="q9_96" au="Super" cDate="2016-02-21T20:56:24" mDate="2016-02-21T20:56:24" loc="626 @ 409, 799 @ 409!"/>
-  <q name="Um, there’s times when I know .." id="q9_97" au="Super" cDate="2016-02-23T20:12:16" mDate="2016-02-23T20:12:34" loc="1 @ 417, 452 @ 417!"/>
-  <q name="Um, there’s times when I know .." id="q9_98" au="Super" cDate="2016-02-23T20:14:05" mDate="2016-02-23T20:14:05" loc="1 @ 417, 156 @ 417!"/>
+  <q name="And if it's super easy, then I.." id="q9_95" au="Super" cDate="2016-02-21T20:53:10" mDate="2016-02-21T20:53:10" loc="317 @ 407, 880 @ 407!"/>
+  <q name="And, um, I've done a lot more .." id="q9_96" au="Super" cDate="2016-02-21T20:56:24" mDate="2016-02-21T20:56:24" loc="626 @ 409, 799 @ 409!"/>
+  <q name="Um, there's times when I know .." id="q9_97" au="Super" cDate="2016-02-23T20:12:16" mDate="2016-02-23T20:12:34" loc="1 @ 417, 452 @ 417!"/>
+  <q name="Um, there's times when I know .." id="q9_98" au="Super" cDate="2016-02-23T20:14:05" mDate="2016-02-23T20:14:05" loc="1 @ 417, 156 @ 417!"/>
   <q name="Because learning and improving.." id="q9_99" au="Super" cDate="2016-02-23T20:18:01" mDate="2016-02-23T20:18:01" loc="855 @ 426, 927 @ 426!"/>
   <q name="And then because I had Olin, o.." id="q9_100" au="Super" cDate="2016-02-23T20:18:14" mDate="2016-02-23T20:18:14" loc="484 @ 426, 791 @ 426!"/>
   <q name="I guess the other thing is: Th.." id="q9_101" au="Super" cDate="2016-02-23T20:18:25" mDate="2016-02-23T20:19:45" loc="25 @ 426, 481 @ 426!"/>
@@ -847,11 +847,11 @@
   <q name="I really enjoyed creating the .." id="q9_103" au="Super" cDate="2016-02-23T20:29:23" mDate="2016-02-23T20:29:23" loc="1 @ 460, 777 @ 460!"/>
   <q name="Okay. Um, so, I know you're no.." id="q9_104" au="Super" cDate="2016-02-23T20:29:41" mDate="2016-02-23T20:29:41" loc="1 @ 448, 777 @ 460!"/>
   <q name="I really enjoyed creating the .." id="q9_105" au="Super" cDate="2016-02-23T20:30:17" mDate="2016-02-23T20:30:17" loc="1 @ 460, 84 @ 460!"/>
-  <q name="Um, I don’t...I can recall ver.." id="q9_106" au="Super" cDate="2016-02-23T20:34:41" mDate="2016-02-23T20:34:41" loc="277 @ 468, 838 @ 468!"/>
+  <q name="Um, I don't...I can recall ver.." id="q9_106" au="Super" cDate="2016-02-23T20:34:41" mDate="2016-02-23T20:34:41" loc="277 @ 468, 838 @ 468!"/>
   <q name="I was on a group with, uh, I t.." id="q9_107" au="Super" cDate="2016-02-23T20:37:55" mDate="2016-02-23T20:37:55" loc="1 @ 478, 954 @ 478!"/>
   <q name="Um, and it was very much a lea.." id="q9_108" au="Super" cDate="2016-02-23T20:38:41" mDate="2016-02-23T20:38:41" loc="413 @ 478, 954 @ 478!"/>
   <q name="Um, did you notice issues of g.." id="q9_109" au="Super" cDate="2016-02-23T20:40:41" mDate="2016-02-23T20:40:41" loc="1 @ 490, 159 @ 494!"/>
-  <q name="You would think I’d know that,.." id="q9_110" au="Super" cDate="2016-02-23T20:42:32" mDate="2016-02-23T20:42:32" loc="18 @ 502, 599 @ 502!"/>
+  <q name="You would think I'd know that,.." id="q9_110" au="Super" cDate="2016-02-23T20:42:32" mDate="2016-02-23T20:42:32" loc="18 @ 502, 599 @ 502!"/>
   <q name="But what became apparent upon .." id="q9_111" au="Super" cDate="2016-02-23T20:51:25" mDate="2016-02-23T20:51:25" loc="1 @ 532, 1352 @ 532!"/>
   <q name="Um, but a poll of the entire c.." id="q9_112" au="Super" cDate="2016-02-23T20:52:30" mDate="2016-02-23T20:52:30" loc="157 @ 534, 407 @ 534!"/>
   <q name="Um, and so, he chose to not re.." id="q9_113" au="Super" cDate="2016-02-23T20:52:47" mDate="2016-02-23T20:52:49" loc="581 @ 534, 1010 @ 534!"/>
@@ -860,25 +860,25 @@
   <q name="Um, I think one of the outlier.." id="q9_116" au="Super" cDate="2016-02-23T21:01:09" mDate="2016-02-23T21:01:09" loc="1 @ 542, 190 @ 542!"/>
   <q name="Um, I think one of the things .." id="q9_117" au="Super" cDate="2016-02-23T21:04:04" mDate="2016-02-23T21:04:51" loc="1 @ 550, 810 @ 550!"/>
   <q name="At Olin, I know that they care.." id="q9_118" au="Super" cDate="2016-02-23T21:06:28" mDate="2016-02-23T21:06:28" loc="292 @ 552, 832 @ 552!"/>
-  <q name="I think she’s gone now, but sh.." id="q9_119" au="Super" cDate="2016-02-23T21:08:56" mDate="2016-02-23T21:08:56" loc="470 @ 552, 832 @ 552!"/>
+  <q name="I think she's gone now, but sh.." id="q9_119" au="Super" cDate="2016-02-23T21:08:56" mDate="2016-02-23T21:08:56" loc="470 @ 552, 832 @ 552!"/>
  </quotations>
  </primDoc>
  <primDoc name="01-30-15-1 - Greg.rtf" id="pd_10" loc="doc_1" au="Super" cDate="2016-02-28T19:12:40" mDate="2016-11-15T20:10:20" qIndex="67" >
  <quotations size="67" >
   <q name="I thought it was interesting a.." id="q10_1" au="Super" cDate="2016-02-28T19:15:33" mDate="2016-02-28T19:15:33" loc="360 @ 9, 601 @ 9!"/>
   <q name="Um, but I was interested and t.." id="q10_2" au="Super" cDate="2016-02-28T19:17:51" mDate="2016-02-28T19:17:51" loc="727 @ 9, 813 @ 9!"/>
-  <q name="if I hadn’t gone to, um, to en.." id="q10_3" au="Super" cDate="2016-02-28T19:21:23" mDate="2016-02-28T19:21:23" loc="316 @ 25, 528 @ 25!"/>
+  <q name="if I hadn't gone to, um, to en.." id="q10_3" au="Super" cDate="2016-02-28T19:21:23" mDate="2016-02-28T19:21:23" loc="316 @ 25, 528 @ 25!"/>
   <q name="Uh, you know, at the end of th.." id="q10_4" au="Super" cDate="2016-02-28T19:26:04" mDate="2016-02-28T19:26:04" loc="1 @ 33, 608 @ 33!"/>
   <q name="Uh, I think I liked the notion.." id="q10_5" au="Super" cDate="2016-02-28T19:29:24" mDate="2016-02-28T19:29:24" loc="1 @ 49, 1288 @ 49!"/>
-  <q name="Um, so, I don’t know things li.." id="q10_6" au="Super" cDate="2016-02-28T19:30:38" mDate="2016-02-28T19:30:38" loc="1094 @ 49, 1288 @ 49!"/>
+  <q name="Um, so, I don't know things li.." id="q10_6" au="Super" cDate="2016-02-28T19:30:38" mDate="2016-02-28T19:30:38" loc="1094 @ 49, 1288 @ 49!"/>
   <q name="Uh, Electrical and Computer En.." id="q10_7" au="Super" cDate="2016-02-28T19:31:01" mDate="2016-02-28T19:31:01" loc="1 @ 41, 271 @ 49!"/>
   <q name="After I graduated I went to la.." id="q10_8" au="Super" cDate="2016-02-28T19:32:35" mDate="2016-02-28T19:32:36" loc="1 @ 57, 995 @ 57!"/>
-  <q name="I don’t know, I mean I just…I .." id="q10_9" au="Super" cDate="2016-02-28T19:36:38" mDate="2016-02-28T19:36:38" loc="820 @ 73, 1312 @ 73!"/>
-  <q name="I don’t know, I mean I just…I .." id="q10_10" au="Super" cDate="2016-02-28T19:37:06" mDate="2016-02-28T19:37:06" loc="820 @ 73, 1434 @ 73!"/>
+  <q name="I don't know, I mean I just...I .." id="q10_9" au="Super" cDate="2016-02-28T19:36:38" mDate="2016-02-28T19:36:38" loc="820 @ 73, 1312 @ 73!"/>
+  <q name="I don't know, I mean I just...I .." id="q10_10" au="Super" cDate="2016-02-28T19:37:06" mDate="2016-02-28T19:37:06" loc="820 @ 73, 1434 @ 73!"/>
   <q name="So, I just sort of found out t.." id="q10_11" au="Super" cDate="2016-02-28T19:37:21" mDate="2016-02-28T19:37:21" loc="1315 @ 73, 1495 @ 73!"/>
   <q name="I found that experience of hea.." id="q10_12" au="Super" cDate="2016-02-28T19:40:49" mDate="2016-02-28T19:40:49" loc="761 @ 121, 1025 @ 121!"/>
   <q name="I sat around there and read so.." id="q10_13" au="Super" cDate="2016-02-28T19:42:36" mDate="2016-02-28T19:42:36" loc="1102 @ 121, 1350 @ 121!"/>
-  <q name="Uh, teaching. I’d say it is, u.." id="q10_14" au="Super" cDate="2016-02-28T19:48:48" mDate="2016-02-28T19:48:50" loc="1 @ 129, 158 @ 129!"/>
+  <q name="Uh, teaching. I'd say it is, u.." id="q10_14" au="Super" cDate="2016-02-28T19:48:48" mDate="2016-02-28T19:48:50" loc="1 @ 129, 158 @ 129!"/>
   <q name="I think Olin probably makes a .." id="q10_15" au="Super" cDate="2016-02-28T19:51:35" mDate="2016-02-28T19:53:29" loc="1 @ 145, 194 @ 145!"/>
   <q name="I think Olin probably makes a .." id="q10_16" au="Super" cDate="2016-02-28T19:54:23" mDate="2016-02-28T19:54:23" loc="1 @ 145, 572 @ 153!"/>
   <q name="So, uh, I think probably my ex.." id="q10_17" au="Super" cDate="2016-02-28T19:56:26" mDate="2016-02-28T19:57:06" loc="292 @ 153, 571 @ 153!"/>
@@ -889,21 +889,21 @@
   <q name="Uh, most recently. The most re.." id="q10_22" au="Super" cDate="2016-02-28T20:09:50" mDate="2016-02-28T20:09:50" loc="1 @ 193, 611 @ 201!"/>
   <q name="I can use my understanding of .." id="q10_23" au="Super" cDate="2016-02-28T20:17:13" mDate="2016-02-28T20:17:13" loc="401 @ 201, 611 @ 201!"/>
   <q name="So, if I Google, you know, 80 .." id="q10_24" au="Super" cDate="2016-02-28T20:17:53" mDate="2016-02-28T20:17:53" loc="1 @ 201, 612 @ 201!"/>
-  <q name="So, I’m looking to see if you .." id="q10_25" au="Super" cDate="2016-02-28T20:20:37" mDate="2016-02-28T20:20:37" loc="1 @ 213, 147 @ 217!"/>
-  <q name="Um, one…there was one that was.." id="q10_26" au="Super" cDate="2016-02-28T20:23:44" mDate="2016-02-28T20:27:22" loc="1 @ 233, 520 @ 233!"/>
+  <q name="So, I'm looking to see if you .." id="q10_25" au="Super" cDate="2016-02-28T20:20:37" mDate="2016-02-28T20:20:37" loc="1 @ 213, 147 @ 217!"/>
+  <q name="Um, one...there was one that was.." id="q10_26" au="Super" cDate="2016-02-28T20:23:44" mDate="2016-02-28T20:27:22" loc="1 @ 233, 520 @ 233!"/>
   <q name="Um, I think, um, in the classr.." id="q10_27" au="Super" cDate="2016-02-28T20:25:34" mDate="2016-02-28T20:25:34" loc="523 @ 233, 1379 @ 233!"/>
   <q name="Um, and I think the reason was.." id="q10_28" au="Super" cDate="2016-02-28T20:26:21" mDate="2016-02-28T20:26:21" loc="901 @ 233, 1254 @ 233!"/>
   <q name="in my first couple years at Ol.." id="q10_29" au="Super" cDate="2016-02-28T20:30:24" mDate="2016-02-28T20:30:24" loc="95 @ 241, 614 @ 241!"/>
-  <q name="I don’t recall a specific expe.." id="q10_30" au="Super" cDate="2016-02-28T20:32:43" mDate="2016-02-28T20:32:44" loc="1 @ 241, 614 @ 241!"/>
-  <q name="Yeah. Okay. That’s an interest.." id="q10_31" au="Super" cDate="2016-02-28T20:34:18" mDate="2016-02-28T20:34:18" loc="1 @ 257, 2025 @ 257!"/>
+  <q name="I don't recall a specific expe.." id="q10_30" au="Super" cDate="2016-02-28T20:32:43" mDate="2016-02-28T20:32:44" loc="1 @ 241, 614 @ 241!"/>
+  <q name="Yeah. Okay. That's an interest.." id="q10_31" au="Super" cDate="2016-02-28T20:34:18" mDate="2016-02-28T20:34:18" loc="1 @ 257, 2025 @ 257!"/>
   <q name="is that my expectation when I .." id="q10_32" au="Super" cDate="2016-02-28T20:35:49" mDate="2016-02-28T20:35:49" loc="391 @ 257, 849 @ 257!"/>
   <q name="Uh, the other thing is that fr.." id="q10_33" au="Super" cDate="2016-02-28T20:36:25" mDate="2016-02-28T20:36:25" loc="645 @ 257, 1700 @ 257!"/>
   <q name="So, for example, if I feel lik.." id="q10_34" au="Super" cDate="2016-02-28T20:36:48" mDate="2016-02-28T20:36:48" loc="1214 @ 257, 2025 @ 257!"/>
   <q name="Um, and, so, I end up, uh, doi.." id="q10_35" au="Super" cDate="2016-02-28T20:37:27" mDate="2016-02-28T20:37:27" loc="852 @ 257, 1211 @ 257!"/>
-  <q name="Uh, because unless you’re payi.." id="q10_36" au="Super" cDate="2016-02-28T20:39:01" mDate="2016-02-28T20:39:01" loc="1 @ 267, 1085 @ 267!"/>
-  <q name="often times you’re in a situat.." id="q10_37" au="Super" cDate="2016-02-28T20:40:44" mDate="2016-02-28T20:40:44" loc="61 @ 267, 326 @ 267!"/>
+  <q name="Uh, because unless you're payi.." id="q10_36" au="Super" cDate="2016-02-28T20:39:01" mDate="2016-02-28T20:39:01" loc="1 @ 267, 1085 @ 267!"/>
+  <q name="often times you're in a situat.." id="q10_37" au="Super" cDate="2016-02-28T20:40:44" mDate="2016-02-28T20:40:44" loc="61 @ 267, 326 @ 267!"/>
   <q name="Hmm. I mean right now the only.." id="q10_38" au="Super" cDate="2016-02-28T20:47:19" mDate="2016-02-28T20:47:19" loc="1 @ 275, 287 @ 275!"/>
-  <q name="Uh and I guess that’s I mean m.." id="q10_39" au="Super" cDate="2016-02-28T20:47:33" mDate="2016-02-28T20:47:33" loc="290 @ 275, 858 @ 275!"/>
+  <q name="Uh and I guess that's I mean m.." id="q10_39" au="Super" cDate="2016-02-28T20:47:33" mDate="2016-02-28T20:47:33" loc="290 @ 275, 858 @ 275!"/>
   <q name="So, I guess, uh, sometimes you.." id="q10_40" au="Super" cDate="2016-02-28T20:47:45" mDate="2016-02-28T20:47:45" loc="861 @ 275, 1244 @ 275!"/>
   <q name="I think that, um, being engagi.." id="q10_41" au="Super" cDate="2016-02-28T20:54:11" mDate="2016-02-28T20:54:12" loc="30 @ 283, 297 @ 283!"/>
   <q name="And I think, uh, showing the s.." id="q10_42" au="Super" cDate="2016-02-28T20:54:35" mDate="2016-02-28T20:54:35" loc="891 @ 283, 1297 @ 283!"/>
@@ -912,25 +912,25 @@
   <q name="You know I think every day you.." id="q10_45" au="Super" cDate="2016-03-01T20:33:05" mDate="2016-03-01T20:33:06" loc="1 @ 291, 837 @ 291!"/>
   <q name="I mean every moment is a choic.." id="q10_46" au="Super" cDate="2016-03-01T20:33:20" mDate="2016-03-01T20:33:21" loc="275 @ 291, 702 @ 291!"/>
   <q name="Hmm. Um, for a while I was vol.." id="q10_47" au="Super" cDate="2016-03-01T20:35:17" mDate="2016-03-01T20:35:44" loc="1 @ 300, 29 @ 316!"/>
-  <q name="Yeah, I’m trying to think. You.." id="q10_48" au="Super" cDate="2016-03-01T20:37:06" mDate="2016-03-01T20:37:06" loc="1 @ 324, 591 @ 324!"/>
-  <q name="So, I think I…and I think it’s.." id="q10_49" au="Super" cDate="2016-03-01T20:37:12" mDate="2016-03-01T20:37:12" loc="328 @ 324, 591 @ 324!"/>
+  <q name="Yeah, I'm trying to think. You.." id="q10_48" au="Super" cDate="2016-03-01T20:37:06" mDate="2016-03-01T20:37:06" loc="1 @ 324, 591 @ 324!"/>
+  <q name="So, I think I...and I think it's.." id="q10_49" au="Super" cDate="2016-03-01T20:37:12" mDate="2016-03-01T20:37:12" loc="328 @ 324, 591 @ 324!"/>
   <q name="Interviewer: Okay. Uh and just.." id="q10_50" au="Super" cDate="2016-03-01T20:37:56" mDate="2016-03-01T20:37:56" loc="1 @ 326, 261 @ 339!"/>
   <q name="Oh, teaching practices. I mean.." id="q10_51" au="Super" cDate="2016-03-01T20:40:29" mDate="2016-03-01T20:40:29" loc="1 @ 347, 875 @ 347!"/>
-  <q name="Uh, but, um, I think…I mean I .." id="q10_52" au="Super" cDate="2016-03-01T20:40:47" mDate="2016-03-01T20:41:34" loc="268 @ 347, 875 @ 347!"/>
+  <q name="Uh, but, um, I think...I mean I .." id="q10_52" au="Super" cDate="2016-03-01T20:40:47" mDate="2016-03-01T20:41:34" loc="268 @ 347, 875 @ 347!"/>
   <q name="Oh, teaching practices. I mean.." id="q10_53" au="Super" cDate="2016-03-01T20:42:32" mDate="2016-03-01T20:42:32" loc="1 @ 347, 266 @ 347!"/>
-  <q name="So, um, if that’s your goal I .." id="q10_54" au="Super" cDate="2016-03-01T20:44:02" mDate="2016-03-01T20:44:02" loc="653 @ 347, 874 @ 347!"/>
+  <q name="So, um, if that's your goal I .." id="q10_54" au="Super" cDate="2016-03-01T20:44:02" mDate="2016-03-01T20:44:02" loc="653 @ 347, 874 @ 347!"/>
   <q name="Hmm. I mean I think there was .." id="q10_55" au="Super" cDate="2016-03-01T20:46:29" mDate="2016-03-01T20:46:46" loc="1 @ 355, 1667 @ 355!"/>
-  <q name="I…you know, I would caution th.." id="q10_56" au="Super" cDate="2016-03-01T20:51:32" mDate="2016-03-01T20:51:32" loc="1 @ 363, 396 @ 363!"/>
-  <q name="Yeah. I mean I’d love to go te.." id="q10_57" au="Super" cDate="2016-03-01T20:53:35" mDate="2016-03-01T20:53:35" loc="1 @ 394, 675 @ 394!"/>
-  <q name="I mean I’d love to go teach, b.." id="q10_58" au="Super" cDate="2016-03-01T20:54:00" mDate="2016-03-01T20:54:00" loc="7 @ 394, 344 @ 394!"/>
-  <q name="Yeah. I mean I’d love to go te.." id="q10_59" au="Super" cDate="2016-03-01T20:54:16" mDate="2016-03-01T20:54:16" loc="1 @ 394, 927 @ 394!"/>
+  <q name="I...you know, I would caution th.." id="q10_56" au="Super" cDate="2016-03-01T20:51:32" mDate="2016-03-01T20:51:32" loc="1 @ 363, 396 @ 363!"/>
+  <q name="Yeah. I mean I'd love to go te.." id="q10_57" au="Super" cDate="2016-03-01T20:53:35" mDate="2016-03-01T20:53:35" loc="1 @ 394, 675 @ 394!"/>
+  <q name="I mean I'd love to go teach, b.." id="q10_58" au="Super" cDate="2016-03-01T20:54:00" mDate="2016-03-01T20:54:00" loc="7 @ 394, 344 @ 394!"/>
+  <q name="Yeah. I mean I'd love to go te.." id="q10_59" au="Super" cDate="2016-03-01T20:54:16" mDate="2016-03-01T20:54:16" loc="1 @ 394, 927 @ 394!"/>
   <q name="Um, there are other things I m.." id="q10_60" au="Super" cDate="2016-03-01T20:54:26" mDate="2016-03-01T20:54:26" loc="677 @ 394, 927 @ 394!"/>
   <q name="Um, I am very fortunate that I.." id="q10_61" au="Super" cDate="2016-03-01T20:59:25" mDate="2016-03-01T20:59:25" loc="1 @ 418, 1015 @ 418!"/>
   <q name="Um, I am very fortunate that I.." id="q10_62" au="Super" cDate="2016-03-01T21:00:12" mDate="2016-03-01T21:00:12" loc="1 @ 418, 411 @ 418!"/>
-  <q name="Uh, I knew that it was…that th.." id="q10_63" au="Super" cDate="2016-03-01T21:01:26" mDate="2016-03-01T21:01:26" loc="1 @ 426, 275 @ 426!"/>
+  <q name="Uh, I knew that it was...that th.." id="q10_63" au="Super" cDate="2016-03-01T21:01:26" mDate="2016-03-01T21:01:26" loc="1 @ 426, 275 @ 426!"/>
   <q name="Interviewer: Okay. How would y.." id="q10_64" au="Super" cDate="2016-03-01T21:03:23" mDate="2016-03-01T21:03:23" loc="1 @ 454, 620 @ 460!"/>
   <q name="Interviewer: Okay. Do you thin.." id="q10_65" au="Super" cDate="2016-03-01T21:06:44" mDate="2016-03-01T21:06:55" loc="1 @ 462, 403 @ 468!"/>
-  <q name="Maybe you aren’t exposed to wo.." id="q10_66" au="Super" cDate="2016-03-01T21:08:03" mDate="2016-03-01T21:08:04" loc="839 @ 477, 1154 @ 477!"/>
+  <q name="Maybe you aren't exposed to wo.." id="q10_66" au="Super" cDate="2016-03-01T21:08:03" mDate="2016-03-01T21:08:04" loc="839 @ 477, 1154 @ 477!"/>
   <q name="Um, probably not. I would say .." id="q10_67" au="Super" cDate="2016-03-01T21:08:22" mDate="2016-03-01T21:08:22" loc="1 @ 477, 1154 @ 477!"/>
  </quotations>
  </primDoc>
@@ -938,27 +938,27 @@
  <quotations size="108" >
   <q name="Engineering. Well, my dad was .." id="q11_1" au="Super" cDate="2016-03-06T19:34:17" mDate="2016-03-06T19:34:36" loc="1 @ 27, 532 @ 27!"/>
   <q name="I did only apply to engineerin.." id="q11_2" au="Super" cDate="2016-03-06T19:37:28" mDate="2016-03-06T19:37:39" loc="1 @ 44, 859 @ 44!"/>
-  <q name="Uh, well, I think there’s a st.." id="q11_3" au="Super" cDate="2016-03-06T19:39:35" mDate="2016-03-06T19:39:35" loc="1 @ 52, 837 @ 52!"/>
+  <q name="Uh, well, I think there's a st.." id="q11_3" au="Super" cDate="2016-03-06T19:39:35" mDate="2016-03-06T19:39:35" loc="1 @ 52, 837 @ 52!"/>
   <q name="But Olin felt, you know...they.." id="q11_4" au="Super" cDate="2016-03-06T19:39:42" mDate="2016-03-06T19:40:56" loc="1 @ 54, 491 @ 54!"/>
   <q name="Um, and, you know, I never, I .." id="q11_5" au="Super" cDate="2016-03-06T19:44:20" mDate="2016-03-06T19:44:20" loc="160 @ 52, 634 @ 52!"/>
-  <q name="Well, probably not. [Laughs] U.." id="q11_6" au="Super" cDate="2016-03-06T19:47:31" mDate="2016-03-06T19:47:53" loc="1 @ 69, 665 @ 69!"/>
+  <q name="Well, probably not. *laughs* U.." id="q11_6" au="Super" cDate="2016-03-06T19:47:31" mDate="2016-03-06T19:47:53" loc="1 @ 69, 665 @ 69!"/>
   <q name="Well, I was, I was kind of...I.." id="q11_7" au="Super" cDate="2016-03-06T19:49:33" mDate="2016-03-06T19:49:33" loc="1 @ 85, 374 @ 85!"/>
-  <q name="Yeah. So I’ve been, uh, actual.." id="q11_8" au="Super" cDate="2016-03-06T20:00:17" mDate="2016-03-06T20:00:17" loc="1 @ 110, 504 @ 110!"/>
+  <q name="Yeah. So I've been, uh, actual.." id="q11_8" au="Super" cDate="2016-03-06T20:00:17" mDate="2016-03-06T20:00:17" loc="1 @ 110, 504 @ 110!"/>
   <q name="And she chatted with me for a .." id="q11_9" au="Super" cDate="2016-03-06T20:03:09" mDate="2016-03-06T20:03:15" loc="218 @ 126, 447 @ 126!"/>
   <q name="Uh, so that...in my senior yea.." id="q11_10" au="Super" cDate="2016-03-06T20:13:40" mDate="2016-03-06T20:18:55" loc="1 @ 126, 1424 @ 126!"/>
   <q name="Uh, so that...in my senior yea.." id="q11_11" au="Super" cDate="2016-03-06T20:21:27" mDate="2016-03-06T20:21:27" loc="1 @ 126, 716 @ 126!"/>
   <q name="Interviewer: How did you decid.." id="q11_12" au="Super" cDate="2016-03-06T20:23:41" mDate="2016-03-06T20:23:46" loc="1 @ 169, 309 @ 175!"/>
-  <q name="And I think...I don’t remember.." id="q11_13" au="Super" cDate="2016-03-06T20:25:24" mDate="2016-03-06T20:25:24" loc="1 @ 191, 376 @ 191!"/>
+  <q name="And I think...I don't remember.." id="q11_13" au="Super" cDate="2016-03-06T20:25:24" mDate="2016-03-06T20:25:24" loc="1 @ 191, 376 @ 191!"/>
   <q name="And then, so then the followin.." id="q11_14" au="Super" cDate="2016-03-06T20:34:40" mDate="2016-03-06T20:34:40" loc="1 @ 222, 518 @ 222!"/>
   <q name="So, it was like a high-school .." id="q11_15" au="Super" cDate="2016-03-06T20:36:08" mDate="2016-03-06T20:36:08" loc="250 @ 222, 518 @ 222!"/>
   <q name="Yeah, it was a little bit of b.." id="q11_16" au="Super" cDate="2016-03-06T20:37:48" mDate="2016-03-06T20:40:00" loc="1 @ 233, 791 @ 233!"/>
-  <q name="Uh, well, it, it’s all of the .." id="q11_17" au="Super" cDate="2016-03-06T20:42:04" mDate="2016-03-06T20:42:30" loc="1 @ 241, 432 @ 241!"/>
-  <q name="Uh, well, it, it’s all of the .." id="q11_18" au="Super" cDate="2016-03-06T20:42:12" mDate="2016-03-06T20:42:12" loc="1 @ 241, 275 @ 249!"/>
+  <q name="Uh, well, it, it's all of the .." id="q11_17" au="Super" cDate="2016-03-06T20:42:04" mDate="2016-03-06T20:42:30" loc="1 @ 241, 432 @ 241!"/>
+  <q name="Uh, well, it, it's all of the .." id="q11_18" au="Super" cDate="2016-03-06T20:42:12" mDate="2016-03-06T20:42:12" loc="1 @ 241, 275 @ 249!"/>
   <q name="And so, is that how you ended .." id="q11_19" au="Super" cDate="2016-03-06T20:43:48" mDate="2016-03-06T20:44:44" loc="1 @ 244, 275 @ 249!"/>
   <q name="Uh, well, I think...I mean, I .." id="q11_20" au="Super" cDate="2016-03-06T20:45:16" mDate="2016-03-06T20:45:17" loc="1 @ 257, 440 @ 257!"/>
   <q name="Uh, well, I think...I mean, I .." id="q11_21" au="Super" cDate="2016-03-06T20:47:03" mDate="2016-03-06T20:47:03" loc="1 @ 257, 441 @ 257!"/>
-  <q name="Oh, uh, well, I did... [Laughs.." id="q11_22" au="Super" cDate="2016-03-06T20:51:55" mDate="2016-03-06T20:51:55" loc="1 @ 265, 605 @ 265!"/>
-  <q name="Oh, uh, well, I did... [Laughs.." id="q11_23" au="Super" cDate="2016-03-06T20:52:15" mDate="2016-03-06T20:52:15" loc="1 @ 265, 440 @ 273!"/>
+  <q name="Oh, uh, well, I did... *Laughs.." id="q11_22" au="Super" cDate="2016-03-06T20:51:55" mDate="2016-03-06T20:51:55" loc="1 @ 265, 605 @ 265!"/>
+  <q name="Oh, uh, well, I did... *Laughs.." id="q11_23" au="Super" cDate="2016-03-06T20:52:15" mDate="2016-03-06T20:52:15" loc="1 @ 265, 440 @ 273!"/>
   <q name="And, uh, I remember being on a.." id="q11_24" au="Super" cDate="2016-03-06T20:52:45" mDate="2016-03-06T20:52:45" loc="175 @ 265, 605 @ 265!"/>
   <q name="Um, it, it was sort of somethi.." id="q11_25" au="Super" cDate="2016-03-06T20:52:58" mDate="2016-03-06T20:52:58" loc="1 @ 273, 439 @ 273!"/>
   <q name="Yeah. So, after my third year,.." id="q11_26" au="Super" cDate="2016-03-08T20:10:02" mDate="2016-03-08T20:10:02" loc="1 @ 289, 1108 @ 289!"/>
@@ -967,14 +967,14 @@
   <q name="So, after my third year, uh, I.." id="q11_29" au="Super" cDate="2016-03-08T20:11:41" mDate="2016-03-08T20:13:31" loc="8 @ 289, 284 @ 289!"/>
   <q name="And so, I decided to switch sc.." id="q11_30" au="Super" cDate="2016-03-08T20:14:06" mDate="2016-03-08T20:16:37" loc="1 @ 291, 532 @ 291!"/>
   <q name="But, yeah, I taught math and s.." id="q11_31" au="Super" cDate="2016-03-08T20:14:25" mDate="2016-03-08T20:14:25" loc="534 @ 291, 1029 @ 291!"/>
-  <q name="Yeah, um, actually I wasn’t th.." id="q11_32" au="Super" cDate="2016-03-08T20:21:54" mDate="2016-03-08T20:23:24" loc="1 @ 299, 503 @ 299!"/>
+  <q name="Yeah, um, actually I wasn't th.." id="q11_32" au="Super" cDate="2016-03-08T20:21:54" mDate="2016-03-08T20:23:24" loc="1 @ 299, 503 @ 299!"/>
   <q name="And I also think that the kids.." id="q11_33" au="Super" cDate="2016-03-08T20:22:37" mDate="2016-03-08T20:22:38" loc="505 @ 299, 852 @ 299!"/>
   <q name="Yeah, um, I think...I mean, ag.." id="q11_34" au="Super" cDate="2016-03-08T20:25:22" mDate="2016-03-08T20:25:22" loc="1 @ 323, 622 @ 323!"/>
   <q name="Yeah, um, I think...I mean, ag.." id="q11_35" au="Super" cDate="2016-03-08T20:25:30" mDate="2016-03-08T20:25:31" loc="1 @ 323, 812 @ 323!"/>
   <q name="I just, I really enjoy that, t.." id="q11_36" au="Super" cDate="2016-03-08T20:25:51" mDate="2016-03-08T20:25:51" loc="634 @ 323, 812 @ 323!"/>
   <q name="You know, all the stuff we kno.." id="q11_37" au="Super" cDate="2016-03-08T20:30:10" mDate="2016-03-08T20:30:10" loc="1 @ 331, 431 @ 331!"/>
   <q name="Um, well, I try to get them to.." id="q11_38" au="Super" cDate="2016-03-08T20:31:16" mDate="2016-03-08T20:35:11" loc="1 @ 339, 866 @ 339!"/>
-  <q name="And, you know, I tell them, “S.." id="q11_39" au="Super" cDate="2016-03-08T20:35:48" mDate="2016-03-08T20:35:55" loc="641 @ 339, 866 @ 339!"/>
+  <q name="And, you know, I tell them, 'S.." id="q11_39" au="Super" cDate="2016-03-08T20:35:48" mDate="2016-03-08T20:35:55" loc="641 @ 339, 866 @ 339!"/>
   <q name="Uh, well, I had a student last.." id="q11_40" au="Super" cDate="2016-03-08T20:37:13" mDate="2016-03-08T20:37:13" loc="1 @ 347, 892 @ 347!"/>
   <q name="Uh, well, I had a student last.." id="q11_41" au="Super" cDate="2016-03-08T20:37:36" mDate="2016-03-08T20:37:36" loc="1 @ 347, 632 @ 349!"/>
   <q name="And so, you know, we kind of w.." id="q11_42" au="Super" cDate="2016-03-08T20:38:23" mDate="2016-03-08T20:38:23" loc="1 @ 349, 633 @ 349!"/>
@@ -982,8 +982,8 @@
   <q name="Yeah. Um, well, I feel...there.." id="q11_44" au="Super" cDate="2016-03-08T20:42:52" mDate="2016-03-08T20:42:56" loc="1 @ 397, 1093 @ 397!"/>
   <q name="We have, across our grade, we .." id="q11_45" au="Super" cDate="2016-03-08T20:44:31" mDate="2016-03-08T20:44:41" loc="385 @ 399, 957 @ 399!"/>
   <q name="Um, so, yes, I lost some freed.." id="q11_46" au="Super" cDate="2016-03-08T20:46:01" mDate="2016-03-08T20:46:55" loc="1 @ 401, 572 @ 401!"/>
-  <q name="Yeah. Um, well, it’s hard to p.." id="q11_47" au="Super" cDate="2016-03-08T20:53:12" mDate="2016-03-08T20:53:12" loc="1 @ 409, 386 @ 409!"/>
-  <q name="Yeah. Um, well, it’s hard to p.." id="q11_48" au="Super" cDate="2016-03-08T20:53:31" mDate="2016-03-08T21:06:08" loc="1 @ 409, 826 @ 409!"/>
+  <q name="Yeah. Um, well, it's hard to p.." id="q11_47" au="Super" cDate="2016-03-08T20:53:12" mDate="2016-03-08T20:53:12" loc="1 @ 409, 386 @ 409!"/>
+  <q name="Yeah. Um, well, it's hard to p.." id="q11_48" au="Super" cDate="2016-03-08T20:53:31" mDate="2016-03-08T21:06:08" loc="1 @ 409, 826 @ 409!"/>
   <q name="My mom is teacher, so I kind o.." id="q11_49" au="Super" cDate="2016-03-08T21:12:08" mDate="2016-03-08T21:12:08" loc="276 @ 433, 541 @ 433!"/>
   <q name="Hmm, hmm. Uh, teaching is the .." id="q11_50" au="Super" cDate="2016-03-08T21:13:13" mDate="2016-03-08T21:13:13" loc="1 @ 449, 424 @ 457!"/>
   <q name="Uh, I think it means a, oh, a .." id="q11_51" au="Super" cDate="2016-03-08T21:15:37" mDate="2016-03-08T21:16:14" loc="1 @ 484, 574 @ 484!"/>
@@ -997,17 +997,17 @@
   <q name="So, I think, growing up, I fel.." id="q11_59" au="Super" cDate="2016-03-08T21:40:39" mDate="2016-03-08T21:40:52" loc="156 @ 540, 1028 @ 540!"/>
   <q name="So, trying to learn a sport wa.." id="q11_60" au="Super" cDate="2016-03-09T20:29:26" mDate="2016-03-09T20:29:26" loc="304 @ 548, 492 @ 548!"/>
   <q name="Yeah, but no, I mean, I mean I.." id="q11_61" au="Super" cDate="2016-03-09T20:30:24" mDate="2016-03-09T20:30:24" loc="1 @ 564, 271 @ 564!"/>
-  <q name="I don’t know if I can put word.." id="q11_62" au="Super" cDate="2016-03-09T20:32:24" mDate="2016-03-09T20:37:33" loc="1 @ 572, 851 @ 572!"/>
+  <q name="I don't know if I can put word.." id="q11_62" au="Super" cDate="2016-03-09T20:32:24" mDate="2016-03-09T20:37:33" loc="1 @ 572, 851 @ 572!"/>
   <q name="Sure. Um, so, I mean, learning.." id="q11_63" au="Super" cDate="2016-03-09T20:45:31" mDate="2016-03-09T20:45:33" loc="1 @ 589, 930 @ 591!"/>
   <q name="But I also never felt that, uh.." id="q11_64" au="Super" cDate="2016-03-09T20:48:15" mDate="2016-03-09T20:48:15" loc="1 @ 591, 352 @ 591!"/>
-  <q name="Um, and then at Olin, you’re k.." id="q11_65" au="Super" cDate="2016-03-09T20:49:12" mDate="2016-03-09T20:49:12" loc="355 @ 591, 930 @ 591!"/>
+  <q name="Um, and then at Olin, you're k.." id="q11_65" au="Super" cDate="2016-03-09T20:49:12" mDate="2016-03-09T20:49:12" loc="355 @ 591, 930 @ 591!"/>
   <q name="But I also never felt that, uh.." id="q11_66" au="Super" cDate="2016-03-09T20:49:38" mDate="2016-03-09T20:49:38" loc="1 @ 591, 930 @ 591!"/>
   <q name="Um, okay. So, in terms of expe.." id="q11_67" au="Super" cDate="2016-03-09T20:51:23" mDate="2016-03-09T20:53:51" loc="1 @ 610, 446 @ 622!"/>
   <q name="Um, okay. So, in terms of expe.." id="q11_68" au="Super" cDate="2016-03-09T20:54:41" mDate="2016-03-09T20:54:41" loc="1 @ 610, 241 @ 622!"/>
-  <q name="You know, it’s not everything’.." id="q11_69" au="Super" cDate="2016-03-09T20:54:49" mDate="2016-03-09T20:54:50" loc="254 @ 622, 446 @ 622!"/>
+  <q name="You know, it's not everything'.." id="q11_69" au="Super" cDate="2016-03-09T20:54:49" mDate="2016-03-09T20:54:50" loc="254 @ 622, 446 @ 622!"/>
   <q name="Uh, I think, you know, I think.." id="q11_70" au="Super" cDate="2016-03-09T20:55:29" mDate="2016-03-09T20:55:29" loc="1 @ 622, 446 @ 622!"/>
-  <q name="Uh, I mean, I don’t feel like,.." id="q11_71" au="Super" cDate="2016-03-09T20:58:47" mDate="2016-03-09T21:02:56" loc="1 @ 655, 301 @ 655!"/>
-  <q name="[Laughs] Um, I think...I think.." id="q11_72" au="Super" cDate="2016-03-09T21:08:36" mDate="2016-03-09T21:08:58" loc="1 @ 714, 419 @ 714!"/>
+  <q name="Uh, I mean, I don't feel like,.." id="q11_71" au="Super" cDate="2016-03-09T20:58:47" mDate="2016-03-09T21:02:56" loc="1 @ 655, 301 @ 655!"/>
+  <q name="*laughs* Um, I think...I think.." id="q11_72" au="Super" cDate="2016-03-09T21:08:36" mDate="2016-03-09T21:08:58" loc="1 @ 714, 419 @ 714!"/>
   <q name="No, I was, uh...no, I was neve.." id="q11_73" au="Super" cDate="2016-03-09T21:10:15" mDate="2016-03-09T21:10:15" loc="1 @ 730, 304 @ 730!"/>
   <q name="Yeah, okay. Uh, I felt like I .." id="q11_74" au="Super" cDate="2016-03-09T21:10:56" mDate="2016-03-09T21:10:59" loc="1 @ 738, 354 @ 738!"/>
   <q name="So when my friends would have .." id="q11_75" au="Super" cDate="2016-03-09T21:13:49" mDate="2016-03-09T21:13:49" loc="252 @ 762, 481 @ 764!"/>
@@ -1016,33 +1016,33 @@
   <q name="Um, I think it was kind of goi.." id="q11_78" au="Super" cDate="2016-03-09T21:22:09" mDate="2016-03-09T21:22:10" loc="1 @ 789, 457 @ 789!"/>
   <q name="Um, I think it was kind of goi.." id="q11_79" au="Super" cDate="2016-03-09T21:22:20" mDate="2016-03-09T21:23:09" loc="1 @ 789, 1290 @ 789!"/>
   <q name="Do you think you're going to b.." id="q11_80" au="Super" cDate="2016-03-09T21:25:28" mDate="2016-03-09T21:26:17" loc="1 @ 792, 634 @ 807!"/>
-  <q name="[Laughs] Uh, so, recently, I’v.." id="q11_81" au="Super" cDate="2016-03-09T21:25:59" mDate="2016-03-09T21:25:59" loc="1 @ 805, 340 @ 805!"/>
-  <q name="[Laughs] Uh, so, recently, I’v.." id="q11_82" au="Super" cDate="2016-03-09T21:26:14" mDate="2016-03-09T21:26:14" loc="1 @ 805, 634 @ 807!"/>
-  <q name="And so, I don’t see myself sta.." id="q11_83" au="Super" cDate="2016-03-09T21:26:30" mDate="2016-03-09T21:26:31" loc="188 @ 807, 635 @ 807!"/>
-  <q name="It’s to me that, like, takes a.." id="q11_84" au="Super" cDate="2016-03-09T21:26:51" mDate="2016-03-09T21:26:58" loc="343 @ 805, 536 @ 805!"/>
-  <q name="Uh, maybe all of the above. [L.." id="q11_85" au="Super" cDate="2016-03-09T21:28:24" mDate="2016-03-09T21:29:20" loc="1 @ 815, 709 @ 815!"/>
-  <q name="And not like...so I’m not quit.." id="q11_86" au="Super" cDate="2016-03-09T21:31:38" mDate="2016-03-09T21:32:54" loc="1 @ 843, 896 @ 843!"/>
-  <q name="Okay. Um, that one. [Laughs] S.." id="q11_87" au="Super" cDate="2016-03-09T21:31:46" mDate="2016-03-09T21:31:56" loc="1 @ 841, 652 @ 841!"/>
-  <q name="Okay. Um, that one. [Laughs] S.." id="q11_88" au="Super" cDate="2016-03-09T21:32:11" mDate="2016-03-09T21:32:12" loc="1 @ 841, 896 @ 843!"/>
+  <q name="*laughs* Uh, so, recently, I'v.." id="q11_81" au="Super" cDate="2016-03-09T21:25:59" mDate="2016-03-09T21:25:59" loc="1 @ 805, 340 @ 805!"/>
+  <q name="*laughs* Uh, so, recently, I'v.." id="q11_82" au="Super" cDate="2016-03-09T21:26:14" mDate="2016-03-09T21:26:14" loc="1 @ 805, 634 @ 807!"/>
+  <q name="And so, I don't see myself sta.." id="q11_83" au="Super" cDate="2016-03-09T21:26:30" mDate="2016-03-09T21:26:31" loc="188 @ 807, 635 @ 807!"/>
+  <q name="It's to me that, like, takes a.." id="q11_84" au="Super" cDate="2016-03-09T21:26:51" mDate="2016-03-09T21:26:58" loc="343 @ 805, 536 @ 805!"/>
+  <q name="Uh, maybe all of the above. *L.." id="q11_85" au="Super" cDate="2016-03-09T21:28:24" mDate="2016-03-09T21:29:20" loc="1 @ 815, 709 @ 815!"/>
+  <q name="And not like...so I'm not quit.." id="q11_86" au="Super" cDate="2016-03-09T21:31:38" mDate="2016-03-09T21:32:54" loc="1 @ 843, 896 @ 843!"/>
+  <q name="Okay. Um, that one. *laughs* S.." id="q11_87" au="Super" cDate="2016-03-09T21:31:46" mDate="2016-03-09T21:31:56" loc="1 @ 841, 652 @ 841!"/>
+  <q name="Okay. Um, that one. *laughs* S.." id="q11_88" au="Super" cDate="2016-03-09T21:32:11" mDate="2016-03-09T21:32:12" loc="1 @ 841, 896 @ 843!"/>
   <q name="So, you know, the little, litt.." id="q11_89" au="Super" cDate="2016-03-09T21:38:10" mDate="2016-03-09T21:38:10" loc="773 @ 860, 1084 @ 860!"/>
   <q name="So, we were trying to get the .." id="q11_90" au="Super" cDate="2016-03-09T21:38:25" mDate="2016-03-09T21:39:52" loc="1 @ 860, 1084 @ 860!"/>
   <q name="Uh, I think a couple of years .." id="q11_91" au="Super" cDate="2016-03-09T21:41:38" mDate="2016-03-09T21:43:30" loc="1 @ 868, 863 @ 868!"/>
   <q name="And we kind of all had these, .." id="q11_92" au="Super" cDate="2016-03-09T21:42:06" mDate="2016-03-09T21:42:06" loc="479 @ 868, 864 @ 868!"/>
-  <q name="Uh, I didn’t feel like I was t.." id="q11_93" au="Super" cDate="2016-03-09T21:45:17" mDate="2016-03-09T21:45:17" loc="79 @ 884, 381 @ 884!"/>
-  <q name="Well, it’s definitely more bal.." id="q11_94" au="Super" cDate="2016-03-09T21:45:27" mDate="2016-03-09T21:45:27" loc="1 @ 884, 924 @ 884!"/>
+  <q name="Uh, I didn't feel like I was t.." id="q11_93" au="Super" cDate="2016-03-09T21:45:17" mDate="2016-03-09T21:45:17" loc="79 @ 884, 381 @ 884!"/>
+  <q name="Well, it's definitely more bal.." id="q11_94" au="Super" cDate="2016-03-09T21:45:27" mDate="2016-03-09T21:45:27" loc="1 @ 884, 924 @ 884!"/>
   <q name="And, you know, it was kind of .." id="q11_95" au="Super" cDate="2016-03-09T21:45:57" mDate="2016-03-09T21:45:57" loc="400 @ 884, 924 @ 884!"/>
   <q name="Um, well, I think for the most.." id="q11_96" au="Super" cDate="2016-03-09T21:49:34" mDate="2016-03-09T21:49:43" loc="1 @ 900, 438 @ 900!"/>
   <q name="Um, well, I think for the most.." id="q11_97" au="Super" cDate="2016-03-09T21:50:00" mDate="2016-03-09T21:52:49" loc="1 @ 900, 584 @ 908!"/>
   <q name="Um, all of the above. But I th.." id="q11_98" au="Super" cDate="2016-03-09T21:53:25" mDate="2016-03-09T21:53:25" loc="1 @ 908, 584 @ 908!"/>
   <q name="So, I think, I mean, there wer.." id="q11_99" au="Super" cDate="2016-03-09T21:54:14" mDate="2016-03-09T21:54:14" loc="202 @ 908, 431 @ 908!"/>
   <q name="Yeah. Uh, huh. Well, I think I.." id="q11_100" au="Super" cDate="2016-03-09T21:56:23" mDate="2016-03-09T21:57:07" loc="1 @ 916, 865 @ 916!"/>
-  <q name="Yeah, okay. Yeah, _____ [01:15.." id="q11_101" au="Super" cDate="2016-03-09T22:01:49" mDate="2016-03-09T22:01:49" loc="1 @ 924, 618 @ 924!"/>
-  <q name="I really don’t think I did. I .." id="q11_102" au="Super" cDate="2016-03-09T22:02:39" mDate="2016-03-09T22:02:47" loc="1 @ 931, 472 @ 931!"/>
-  <q name="Oh, now that’s a really deep q.." id="q11_103" au="Super" cDate="2016-03-09T22:03:55" mDate="2016-03-09T22:03:55" loc="1 @ 947, 980 @ 947!"/>
-  <q name="And I think, you know, that’s .." id="q11_104" au="Super" cDate="2016-03-09T22:04:04" mDate="2016-03-09T22:04:04" loc="1 @ 949, 983 @ 949!"/>
+  <q name="Yeah, okay. Yeah, _____ .." id="q11_101" au="Super" cDate="2016-03-09T22:01:49" mDate="2016-03-09T22:01:49" loc="1 @ 924, 618 @ 924!"/>
+  <q name="I really don't think I did. I .." id="q11_102" au="Super" cDate="2016-03-09T22:02:39" mDate="2016-03-09T22:02:47" loc="1 @ 931, 472 @ 931!"/>
+  <q name="Oh, now that's a really deep q.." id="q11_103" au="Super" cDate="2016-03-09T22:03:55" mDate="2016-03-09T22:03:55" loc="1 @ 947, 980 @ 947!"/>
+  <q name="And I think, you know, that's .." id="q11_104" au="Super" cDate="2016-03-09T22:04:04" mDate="2016-03-09T22:04:04" loc="1 @ 949, 983 @ 949!"/>
   <q name="And I think that, you know, un.." id="q11_105" au="Super" cDate="2016-03-09T22:04:26" mDate="2016-03-09T22:04:27" loc="58 @ 949, 276 @ 949!"/>
-  <q name="Oh, now that’s a really deep q.." id="q11_106" au="Super" cDate="2016-03-09T22:05:49" mDate="2016-03-09T22:05:49" loc="1 @ 947, 983 @ 949!"/>
-  <q name="Uh, no, I think I’ve...I think.." id="q11_107" au="Super" cDate="2016-03-09T22:06:43" mDate="2016-03-09T22:07:33" loc="1 @ 973, 602 @ 973!"/>
+  <q name="Oh, now that's a really deep q.." id="q11_106" au="Super" cDate="2016-03-09T22:05:49" mDate="2016-03-09T22:05:49" loc="1 @ 947, 983 @ 949!"/>
+  <q name="Uh, no, I think I've...I think.." id="q11_107" au="Super" cDate="2016-03-09T22:06:43" mDate="2016-03-09T22:07:33" loc="1 @ 973, 602 @ 973!"/>
   <q name="Um, well, I mean, in many diff.." id="q11_108" au="Super" cDate="2016-03-09T22:07:49" mDate="2016-03-09T22:08:06" loc="1 @ 981, 447 @ 981!"/>
  </quotations>
  </primDoc>
