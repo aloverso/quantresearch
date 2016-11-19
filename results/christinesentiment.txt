@@ -1,0 +1,240 @@
+Okay.  You mentioned that the classes were fun.  What made them fun for you?
+
+(0.195, 0.4208333333333334)
+|||||||||||||||||||
+
+Well, believe me, it's time well spent.  Um, if we have more questions later, would you be willing to continue the conversation?
+
+(0.025, 0.1125)
+||
+
+Okay.  Now, can you tell me about some learning experiences you've had that had a strong impact on you?
+
+(0.06104464285714284, 0.18723296957671962)
+||||||
+
+Can you remember a time, since you told me you didn't start as interested in engineering, when you realized you had become interested?  Was there an experience that sparked that or anything?
+
+(0.1409090909090909, 0.39848484848484844)
+||||||||||||||
+
+Sure, that...I think those are interesting anecdotes.  Um, you had mentioned that after Olin, you sort of...you had experiences that felt different from your experiences at Olin.  Can you give me, give me an example of one of those?
+
+(0.12333333333333331, 0.27152777777777776)
+||||||||||||
+
+[Laughs] Was there a particular thing you know of at Candidate's Weekend that changed their mind, or the whole experience?
+
+(0.011458333333333334, 0.15208333333333335)
+|
+
+Can you give me an example of one of the places where that didn't work out so well, after Olin?
+
+(0.11688802083333333, 0.34563368055555554)
+|||||||||||
+
+Christine, are you still there?
+
+(0.0, 0.0)
+
+
+Okay, thanks for sharing that with me.  Um, I want to switch gears a little bit and focus more on teaching and education specifically, not that we haven't been talking about that in general, but...can you please try to broadly define for me "teaching"?
+
+(0.0, 0.0)
+
+
+Okay.  Um, so, generally, what kind of expectations do you have for your learning?
+
+(-0.0703125, 0.1970486111111111)
+XXXXXXX
+
+So, before that, what made you enjoy being at Olin and studying engineering?
+
+(0.27279411764705885, 0.5336834733893556)
+|||||||||||||||||||||||||||
+
+Okay.  Um, so, I, I certainly know you've done a lot with research on education.  How has that shaped your views on teaching and learning?
+
+(0.16642385771780305, 0.16706715593434343)
+||||||||||||||||
+
+Right.  Did you find that, in general, um, faculty have been open to working with you on alternatives?
+
+(0.15222222222222223, 0.6653703703703704)
+|||||||||||||||
+
+Okay.  Um, I think you've mentioned a couple of examples of this already, but I think I'll ask it anyway because you have so many examples.  [Both laugh]   Can you describe for me a time when you felt like a teacher?
+
+(0.07529166666666667, 0.5195000000000001)
+|||||||
+
+[Laughs]  And I appreciate your long answers.  They're the best kind!  Um, how has your awareness of teaching practices developed over time?
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+It sounds like, um, often the burden has sort of been on you to suggest what the alternatives could be or should be, is that fair to say?
+
+(0.0516025641025641, 0.2360576923076923)
+|||||
+
+[Laughs]  Okay.  Fair enough!  Um, what have you been doing since graduation?
+
+(0.15555555555555556, 0.35185185185185186)
+|||||||||||||||
+
+So, I have a few questions to sort of get the conversation going and help me learn a little bit more about you.  Can you tell me how you became interested in engineering?
+
+(0.26916666666666667, 0.5183333333333333)
+||||||||||||||||||||||||||
+
+Okay.  Um, I do want to be sensitive to your time, um, since we've already gone beyond the time that we originally allotted, so if you do have any issue with time, please let me know at any point, okay?
+
+(-0.003125, 0.11875)
+
+
+Okay.  Um, so, you probably have more awareness of pedagogical and teaching practices than most.  Do you find that when you're in a learning experience, that that affects the way you learn?
+
+(0.15, 0.27499999999999997)
+|||||||||||||||
+
+Do you have a set of expectations about what...about how that experience should be structured or what you should be getting from that experience?  Does that make more sense?
+
+(0.08567588325652842, 0.43689196108550954)
+||||||||
+
+Hmm, hmm.  Um, was there...you'd mentioned that...so, while you were at Olin, you sort of suddenly realized that there was research on this and a whole body of knowledge on this.  Do you remember an example of when you really started to understand that that existed?
+
+(0.190625, 0.5337191358024692)
+|||||||||||||||||||
+
+Thank you.  So, I want to backtrack just a little bit.  We've already talked a bunch about Olin, but what made you decide to apply to Olin?  I know you've told me what made you...pushed you in the direction of engineering, but why Olin specifically?
+
+(0.011628246753246753, 0.4757489177489177)
+|
+
+So, in what ways, if any, do you feel that gender has shaped your experience at Olin or beyond?
+
+(0.10773601398601398, 0.3744478438228438)
+||||||||||
+
+Okay.  Were there particular people that encouraged you?
+
+(0.16666666666666666, 0.3333333333333333)
+||||||||||||||||
+
+Okay.  What made you pick those directions?
+
+(0.12552866541353383, 0.24885651629072686)
+||||||||||||
+
+Okay.  What does it mean to you to be a teacher?
+
+(-0.3125, 0.6875)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+If, if you want to.  Or, or if you remember a particular time when one of those people was particularly encouraging towards you?
+
+(0.10171218487394959, 0.4991386554621847)
+||||||||||
+
+So, is that, "cannot pass through without being changed"?
+
+(-0.02, 0.7666666666666666)
+XX
+
+Okay.  So, given all you've just told me about gender, how, if at all, did the gender balance at Olin shape your learning experiences in your technical courses?
+
+(0.138, 0.4996666666666666)
+|||||||||||||
+
+Okay.  What did you major in at Olin?
+
+(0.0, 0.6)
+
+
+Okay, thank you.  So, going back to your definition of teaching, have there been some experiences you've had that have changed or shaped that definition for you over time?
+
+(0.22353305785123967, 0.36238292011019285)
+||||||||||||||||||||||
+
+What does it...so, what does it mean to be a teacher?
+
+(0.17366071428571425, 0.5995535714285715)
+|||||||||||||||||
+
+What changed their minds?
+
+(0.20185185185185184, 0.4481481481481482)
+||||||||||||||||||||
+
+So, in your last answer, you had mentioned about, um, times when you'd have to work with faculty to sort of reframe what they might be doing or planning.  Um, can you give me an example of one of those?
+
+(0.0, 0.0)
+
+
+Um, is there a particular time you can remember when you were doing that?
+
+(0.1590909090909091, 0.4113636363636364)
+|||||||||||||||
+
+Okay, that, that's an...definitely an interesting story.  Um, this is a total sidetrack from the general path of this.  Have you found that you've been able to integrate art into engineering?
+
+(0.2796875, 0.3302083333333334)
+|||||||||||||||||||||||||||
+
+Yeap.  How has your awareness of teaching practices developed or changed over time?
+
+(0.1905128205128205, 0.5838461538461539)
+|||||||||||||||||||
+
+Thank you very much.  Um, is there anything you think I should know related to this interview that I didn't ask you about?
+
+(0.2, 0.2)
+||||||||||||||||||||
+
+Okay.  What made you interested in working for that summer program to begin with?
+
+(0.303125, 0.571875)
+||||||||||||||||||||||||||||||
+
+I just lost you for a few seconds.  Could you rewind in your story a little bit?  Um...
+
+(0.12520833333333334, 0.3597222222222222)
+||||||||||||
+
+Okay, well, that's almost all my questions today.  So, to wrap up, is there anything you'd like to add to any of the responses you've given about teaching and learning?
+
+(0.17477011494252873, 0.39083333333333337)
+|||||||||||||||||
+
+Okay.  Is it fair to say that that was an experience that made you think differently about the way you learn?
+
+(0.39999999999999997, 0.48333333333333334)
+||||||||||||||||||||||||||||||||||||||||
+
+Was there an experience or a person that pushed you in that direction?
+
+(0.15965511204481792, 0.34380543884220355)
+|||||||||||||||
+
+Okay.  So, thinking back on the interactions that you had with Olin faculty members, um, how would you describe them? Were there ever interactions that you felt like might have been dependent on gender, either yours or the faculty member's?
+
+(0.014686639118457306, 0.48937672176308544)
+|
+
+You...I...you men-...um, you had mentioned, um...now I'm trying to remember exactly how you said it...that, um, in developing your learning expectations, there would be times where you would have to work with a faculty member to make sure that what they were planning would work for you?
+
+(0.0, 0.0)
+
+
+Okay.  So, thinking back when you were making the choice to come to Olin, was there anything that you noticed about the gender balance of faculty or students here?
+
+(0.035277777777777776, 0.2752777777777778)
+|||
+
+Okay.  So, related to that, what's your definition for "learning"?
+
+(0.43333333333333335, 0.3666666666666667)
+|||||||||||||||||||||||||||||||||||||||||||
+

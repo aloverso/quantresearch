@@ -1,0 +1,380 @@
+So, are you, are you okay?
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+You do it until, until it's done.  Did I translate you correctly?
+
+(0.0, 0.0)
+
+
+They had fun, maybe?
+
+(0.0, 0.0)
+
+
+Listen.  I'm sorry I got you into the position where you felt that way.  I totally didn't mean...this is the first time for me I've done that.  [Both laugh]  This is the first time somebody cries.  I'm so sorry.  And your giggles, out of everybody, right?  [Both laugh]  Thank you.  
+
+(0, 0)
+
+
+Okay.  Um, can you think of an example of an experience that may have changed your definition of teaching over time?
+
+(0.30374149659863947, 0.41624149659863946)
+||||||||||||||||||||||||||||||
+
+Any examples that stand out?  And, I'm not asking necessarily about kind of the negative examples, or positive.  Any example that stands out, where you really did feel that gender kind of shaped your experience.
+
+(0.23102678571428573, 0.5462351190476191)
+|||||||||||||||||||||||
+
+Why is that?  Why do you feel that doing science is learning it?
+
+(0.1775, 0.4175000000000001)
+|||||||||||||||||
+
+It does.  Do you...do you want to continue with this?  Because you...it's...
+
+(0.4321676587301587, 0.508608630952381)
+|||||||||||||||||||||||||||||||||||||||||||
+
+So, like, what was that about?  How did you identify?  What was the process like?
+
+(0.3489955357142857, 0.6325892857142857)
+||||||||||||||||||||||||||||||||||
+
+Like, let me, let me just keep a bunch of things and, um, maybe...let me, let me just skip.  Um, let me ask you this:  Have you ever participated in any research on education?
+
+(0.0, 0.0)
+
+
+So, would you be willing to continue this conversation if we have any follow-up questions?
+
+(0.25, 0.25)
+|||||||||||||||||||||||||
+
+And at Olin, did you get opportunities to teach?  I'm just curious.
+
+(0.0, 0.0)
+
+
+Okay.  How did you end up...so, when you first came to AMSA, when they offered you a position, they had specifically a position for, math/science teacher at some level?  Did they offer you specifically something?
+
+(-0.034999999999999996, 0.5994444444444444)
+XXX
+
+Um, what I want to do is I want to ask you a bunch of questions about gender, because gender is an important part of engineering education, as you know.  Um, and so, stop at any time if you don't feel comfortable talking about this, okay?
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+It's been six years, almost, since you graduated.  Um, what have you been doing over this whole time?
+
+(0.011458333333333336, 0.4239583333333334)
+|
+
+Um, so, when choosing to come to Olin, right, like, you had many opportunities.  Um, but when choosing to come to Olin, what did you notice, if anything, about gender balance among faculty and students?  Or students?
+
+(0.13970588235294118, 0.5759803921568627)
+|||||||||||||
+
+Do you think you're going to be doing the same...teaching, uh, six years from now?
+
+(0.0, 0.6)
+
+
+And, you know, there were expectations, but you weren't able to meet them?
+
+(-0.15208333333333332, 0.34791666666666665)
+XXXXXXXXXXXXXXX
+
+Your nose seems to be running, or, or your eyes are tearing, something.  Do you need to take a break?  Are you okay?
+
+(-0.25, 0.5)
+XXXXXXXXXXXXXXXXXXXXXXXXX
+
+When did you start thinking?  Like, when was the first time when you actually realized that that's what was happening?
+
+(0.0875, 0.3170454545454545)
+||||||||
+
+Where it sounds to me like you have less flexibility.  So can you, can you explain a little bit of that kind of dichotomy to me?
+
+(0.17666396103896104, 0.5087630534670009)
+|||||||||||||||||
+
+Um, okay.  So, in terms of expectations for your own learning, what are other expectations that you have for your own learning?  And you...we just gave examples for Olin, but I'm talking in general.
+
+(0.10254629629629629, 0.6789351851851851)
+||||||||||
+
+They had fun?  Crazy but fun?
+
+(0.3, 0.2)
+||||||||||||||||||||||||||||||
+
+How do you feel about losing the math part when they did restructuring there?
+
+(0.3539725672877847, 0.5257634575569359)
+|||||||||||||||||||||||||||||||||||
+
+And, was there some kind of specialization within this master's of education, or just kind of a general program?  How did...
+
+(0.08, 0.52)
+||||||||
+
+We may kind of enter the more abstract realm, but yet I would like to have you present as many examples as, as you can.  So, if you were to define "teaching" broadly, what would your definition look like?
+
+(0.5, 0.5)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+No, it's okay.  It's okay.  Maybe we'll come back to it later, maybe as you, as you remember more examples.  So, interestingly, what you told me is at Olin you thought of learning differently, and that, does it mean differently than you think of learning now, or differently than you thought of learning before you came to Olin?
+
+(0.0, 0.0)
+
+
+So, what is your teaching style?  You said, you were saying you've learned some about your teaching style.  What is it?
+
+(0.40367683531746035, 0.6058624751984127)
+||||||||||||||||||||||||||||||||||||||||
+
+So, what does it mean to you...we're clearly reflecting on this now, right?  
+
+(0, 0)
+
+
+So, let's start with this:  How did you become interested in engineering?
+
+(0.1839285714285714, 0.5839285714285715)
+||||||||||||||||||
+
+So, did you know they would be stereotypical?  Did you know what stereotypical means at the time?
+
+(0.12954545454545455, 0.6386363636363637)
+||||||||||||
+
+What does that mean?
+
+(0.3657329504985755, 0.5521823806980057)
+||||||||||||||||||||||||||||||||||||
+
+Was she Russian?
+
+(0.12161954365079364, 0.23201698908730162)
+||||||||||||
+
+Okay.  Can you tell me a little bit more about the whole, the whole application thing?  Did you apply just to Olin?  Was it just engineering?  Can you kind of unpack that?
+
+(0.25, 0.7631578947368421)
+|||||||||||||||||||||||||
+
+Whose idea was that to go to, to Canobie Lake?
+
+(0.40178571428571436, 0.6857142857142857)
+||||||||||||||||||||||||||||||||||||||||
+
+So, are you saying that you didn't have problems, uh, or, or probably not problems...that Olin was easy?
+
+(0.033531746031746044, 0.6613095238095238)
+|||
+
+So, wait.  You have now an education degree as well?
+
+(0.0, 0.0)
+
+
+So, can you tell me a little bit about this?  This is fascinating.  Why did you feel that you loved, would love teaching physics?
+
+(0.23750000000000002, 0.45625000000000004)
+|||||||||||||||||||||||
+
+About your definition of teaching.  So you defined it as passing knowledge from one person to another, and you've given examples of coaching and supervising, right?  So, I mean, if you think, as we go through the interview, um, if you think of an, uh, an experience which kind of changed that definition...
+
+(0, 0)
+
+
+So have you, have you ever been...have you...do you remember a time when you were frustrated while at Olin?
+
+(-0.07125, 0.635)
+XXXXXXX
+
+So, let me just follow a little bit of a protocol here, and if we feel like we need to get off of the protocol, then we'll do that.  And, again, stop me at any point.  So, here's the first question:  Um, in what ways, if any, do you feel that gender has shaped your experience, at Olin and beyond?
+
+(0.2729365079365079, 0.4636111111111111)
+|||||||||||||||||||||||||||
+
+And why did you choose to do that pilot one?
+
+(0.125, 0.5428571428571428)
+||||||||||||
+
+And whether you were actively...have been actively reflecting on this beforehand or not, now we are here.  And so, what does it mean for you as a female teacher of science?  I mean, where does that place you now?
+
+(0.23900462962962968, 0.5679608585858585)
+|||||||||||||||||||||||
+
+Where did you go to get that degree?
+
+(0.0, 0.0)
+
+
+Can you give me an example, a specific example, of some, some place where that happened for you?
+
+(0.13040178571428573, 0.27791666666666665)
+|||||||||||||
+
+Okay.  Um, can you think about an experience that made you think differently about the way you learn?
+
+(0.2512037037037037, 0.6756481481481482)
+|||||||||||||||||||||||||
+
+Yeah.  So, you mentioned a little bit what you mean by "different."  Can you, can you unpack a little bit more about what you mean by "different," Olin being different?
+
+(0.2029823908730159, 0.6106646825396824)
+||||||||||||||||||||
+
+How did you land that first position?  What happened?
+
+(0.3611111111111111, 0.5159722222222223)
+||||||||||||||||||||||||||||||||||||
+
+No?  Okay.
+
+(0.4772321428571429, 0.6991071428571428)
+|||||||||||||||||||||||||||||||||||||||||||||||
+
+How do you instill that in, in the kids?
+
+(0.2700757575757576, 0.5712121212121212)
+|||||||||||||||||||||||||||
+
+Or allowed you to come to this definition or kind of form this definition or changed it at some point.  Um, come back to it at any time, okay?
+
+(0, 0)
+
+
+But that's the position they offered you, correct?
+
+(0.31953125, 0.4640625)
+|||||||||||||||||||||||||||||||
+
+Alright.  So, broadly speaking, then, what does it mean to be a teacher?
+
+(0.46875, 0.50625)
+||||||||||||||||||||||||||||||||||||||||||||||
+
+Hmm, hmm.  Um, think about your interactions with Olin faculty members.  How would you describe them?
+
+(0.5166666666666667, 0.7000000000000001)
+|||||||||||||||||||||||||||||||||||||||||||||||||||
+
+So, do you mean, not formal, or not in public schools, no K through 12, like, teaching?
+
+(0.24196428571428572, 0.4324404761904762)
+||||||||||||||||||||||||
+
+So, how did it happen.  I mean, here you are, graduating from Olin, right?
+
+(0, 0)
+
+
+Great.  Well, listen, I'm almost done with my, like, questions that are part of the interview.  Is there anything you'd like to add to what you've, to what you've responded?
+
+(0.34609375, 0.6860243055555555)
+||||||||||||||||||||||||||||||||||
+
+Alright.  Um, so that's kind of like an expectation.  Like, you have...you're hard on yourself.  You have high expectations.  Can you, can you give me an example of when you feel like your expectations weren't met?  In terms of learning.
+
+(-0.30208333333333337, 0.6145833333333333)
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Alright.  Um, anything I should know related to our interview, any pieces that I need to be aware of?
+
+(0.25, 1.0)
+|||||||||||||||||||||||||
+
+No.  You haven't.  And, um, okay, why don't we talk about happy _____ [00:53:39].  What do you enjoy about teaching the most?
+
+(0.325, 0.6333333333333333)
+||||||||||||||||||||||||||||||||
+
+How did you decide on Tufts?
+
+(0.575, 0.71875)
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Anything particularly memorable from that experience?
+
+(0.11930555555555555, 0.7459722222222223)
+|||||||||||
+
+So, how did this process work?  They offered you that position, or you kind of offered yourself for that position?  How did that...
+
+(0.23143939393939394, 0.6974747474747475)
+|||||||||||||||||||||||
+
+Can you...any examples when it stands out?  Like, you helped somebody learn at Olin, or, actually not at all.  In high school.
+
+(0.009499999999999998, 0.6182777777777778)
+
+
+Okay.  Um, can you describe a moment, um, when, or a time when you felt like a teacher?
+
+(0.23469298245614034, 0.5460493827160494)
+|||||||||||||||||||||||
+
+And so, is that how you ended up teaching, with hands-on aspects, or...yeah?
+
+(0.053125000000000006, 0.35)
+|||||
+
+Okay.  Gotcha.  Thank you explaining that.  So, what degree did you graduate with; can you remind me?
+
+(0.05000000000000002, 0.5)
+|||||
+
+So, is that why you applied to Olin?
+
+(0.0, 0.0)
+
+
+And you did that part-time?
+
+(0.0, 0.05)
+
+
+So, it sounds like you understand it now.  Did you understand it then?
+
+(0.024537037037037045, 0.31342592592592594)
+||
+
+And can you, can you maybe go there a little bit?
+
+(0.20188186813186812, 0.6789865689865691)
+||||||||||||||||||||
+
+And so, yeah, you finished teaching physics at AMSA in your third year, and then what?
+
+(0.021697420634920642, 0.4938872354497355)
+||
+
+Can you tell me about that?
+
+(0.3390625, 0.7475)
+|||||||||||||||||||||||||||||||||
+
+Can you say more about that? 
+
+(0.13143749999999998, 0.48825)
+|||||||||||||
+
+And let's start with the science.  Why do you feel that middle schoolers buy into science?  Which is an interesting expression in its own right.
+
+(0.16133241758241756, 0.39114010989010994)
+||||||||||||||||
+
+Awesome.  Anything, anything else you'd like to add?
+
+(0.225, 0.6)
+||||||||||||||||||||||
+

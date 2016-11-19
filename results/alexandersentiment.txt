@@ -1,0 +1,145 @@
+What made you pick that?
+
+(0.4239285714285714, 0.6500595238095239)
+||||||||||||||||||||||||||||||||||||||||||
+
+Okay.  So what have you been doing since graduation?
+
+(0.07323717948717948, 0.3368589743589744)
+|||||||
+
+Okay, thank you.  So, do you feel like you've become more aware over the years of teaching practices and pedagogical practices when you're in a learning experience?
+
+(0.1609747023809524, 0.3206225198412698)
+||||||||||||||||
+
+[Laughs]  Okay, thanks.  Um, so, building on what you've been telling me – and I think you've started to address this, but maybe you can build me some more specific examples – can you describe for me a time when you felt like a teacher?
+
+(0.3141156462585034, 0.578826530612245)
+|||||||||||||||||||||||||||||||
+
+Okay.  And did you notice, uh, when you were choosing to come to Olin, anything about the gender balance of faculty or students?
+
+(0.08224988859180035, 0.5151932932263814)
+||||||||
+
+Okay.  So then, the next step that I have is, what made you decide to apply to Olin and to come to Olin?
+
+(0.1750330908878703, 0.39546674730498255)
+|||||||||||||||||
+
+Okay, great.  So that's pretty much all my questions.  Just the final, quick things of, is there anything you'd like to add to anything you told me?
+
+(0.5, 0.8888888888888888)
+||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Okay.  So, with tutoring, with mentoring, why do you think you choose to do those activities?
+
+(0.25757687027979237, 0.5673730580386425)
+|||||||||||||||||||||||||
+
+Okay.  And, if we had some more questions later, would you be willing to continue the conversation?
+
+(0.3, 0.5)
+||||||||||||||||||||||||||||||
+
+Okay.  So, I know you already mentioned to me the one particular teacher from high school, but can you tell me about – and it can be anything.  It can be a person, an experience – a major influence on your life that affected the direction?
+
+(0.14147119915674605, 0.39900778149801586)
+||||||||||||||
+
+Okay.  So, um, I want to switch gears a little and get into sort of the meat, the real meat of the interview now.  So, can you please broadly define for me what teaching means?
+
+(0.2223611111111111, 0.19972222222222225)
+||||||||||||||||||||||
+
+Yeah.  So, just to switch gears a little bit, um, do you feel that gender shaped your experience at Olin, or beyond Olin?
+
+(0.020757918552036205, 0.3072036827551533)
+||
+
+So, why did you end up not transferring?
+
+(0.20856481481481481, 0.4469907407407408)
+||||||||||||||||||||
+
+Okay, thank you.  Um, so thinking back over the many learning experiences you've had in your life so far, can you share one or two with me that you think were really impactful for you, or that you remember really well?
+
+(0.004651988636363638, 0.34232954545454547)
+
+
+So, thinking about the faculty who were teaching you and your classmates, who made that kind of environment for you, is there anyone who really stands out as helping you get through that?
+
+(0.17949266707422612, 0.48098590921822376)
+|||||||||||||||||
+
+Okay.  So, to build off your definition, what do you think it means to be a teacher?
+
+(0.11969494047619048, 0.4196168154761905)
+|||||||||||
+
+Okay.  To flip that around a little bit, has there ever been a time when...I know you said that you have done a lot of tutoring, and it sounds like you've been doing some mentoring.  Has there ever been a time when you felt like you failed at that?
+
+(0.18911416997354502, 0.5258928571428572)
+||||||||||||||||||
+
+Okay.  So, given all you've told me so far, did you ever consider teaching as a career?
+
+(0.3012987657184086, 0.5612957165189307)
+||||||||||||||||||||||||||||||
+
+Absolutely.  Now, maybe to rephrase that a little bit differently, can you tell me about an experience that made you understand something different about the way in which you learn?
+
+(0.10909090909090909, 0.5261363636363636)
+||||||||||
+
+So, to turn, to keep going on that, is there a time that you can think of where you were pushing yourself that way, or where you first realized you were pushing yourself that way?
+
+(0.1708574054621849, 0.6038529995331465)
+|||||||||||||||||
+
+Okay.  Can you tell me a little bit more about that teacher and what he or she did to encourage you?
+
+(0.35611111111111104, 0.6068518518518519)
+|||||||||||||||||||||||||||||||||||
+
+Okay.  Is this something that you think you're going to be sticking with the same thing for a while, or are you thinking of looking into other things?
+
+(0.34708694083694086, 0.5366323953823953)
+||||||||||||||||||||||||||||||||||
+
+So, I have a few questions to get the conversation going and help me learn a bit more about you.  So, how did you become interested in engineering?
+
+(0.383034188034188, 0.5637606837606838)
+||||||||||||||||||||||||||||||||||||||
+
+Okay.  Do you feel like, uh, gender ever had an effect on learning in any of your technical courses?
+
+(0.0642857142857143, 0.6714285714285715)
+||||||
+
+Okay.  So you just said something that I found really interesting.  So, you said it's something that you should do.  Is that an expectation that you set for yourself, or that you feel like, is imposed on you, somehow?
+
+(0.25503547378547375, 0.5311477873977875)
+|||||||||||||||||||||||||
+
+Okay.  So, which major did you graduate with?
+
+(0.178125, 0.525)
+|||||||||||||||||
+
+I'm not here to judge it; I just want to know what it is, you know.  Can you tell me about an experience or two that you may have had that changed what your definition of teaching was, over time?
+
+(0.0, 0.0)
+
+
+Okay, thanks.  Is there anything you think I should know related to this interview that I didn't ask you about?
+
+(0.0, 0.0)
+
+
+Or I guess, maybe to phrase it another way, do you feel like you always would have defined teaching that way?
+
+(0.14268353174603174, 0.5219135802469136)
+||||||||||||||
+
